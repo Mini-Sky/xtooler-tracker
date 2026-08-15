@@ -1,0 +1,1660 @@
+{
+ "items": [
+  {
+   "file": "machines/xtool-f1-ultra-01.jpg",
+   "category": "machine",
+   "desc": "xTool F1 Ultra dual laser engraver product shot",
+   "model": "F1 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/products/xtool-f1-ultra-20w-fiber-diode-dual-laser-engraver"
+  },
+  {
+   "file": "machines/xtool-f1-ultra-02.jpg",
+   "category": "machine",
+   "desc": "xTool F1 Ultra standalone product shot",
+   "model": "F1 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/products/xtool-f1-ultra-20w-fiber-diode-dual-laser-engraver"
+  },
+  {
+   "file": "machines/xtool-s1-01.jpg",
+   "category": "machine",
+   "desc": "xTool S1 enclosed diode laser cutter product shot",
+   "model": "S1",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/products/xtool-s1-laser-cutter"
+  },
+  {
+   "file": "machines/xtool-s1-02.jpg",
+   "category": "machine",
+   "desc": "xTool S1 10W black standalone product shot",
+   "model": "S1",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/products/xtool-s1-laser-cutter"
+  },
+  {
+   "file": "machines/xtool-p2s-01.jpg",
+   "category": "machine",
+   "desc": "xTool P2S 55W CO2 laser cutter product shot",
+   "model": "P2S",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/products/xtool-p2s-55w-desktop-co2-laser-cutter"
+  },
+  {
+   "file": "machines/xtool-p2s-02.jpg",
+   "category": "machine",
+   "desc": "xTool P2S black standalone product shot",
+   "model": "P2S",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/products/xtool-p2s-55w-desktop-co2-laser-cutter"
+  },
+  {
+   "file": "machines/xtool-p3-01.jpg",
+   "category": "machine",
+   "desc": "xTool P3 flagship 80W CO2 laser cutter shot",
+   "model": "P3",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/products/xtool-p3-the-flagship-80w-co2-laser-cutters"
+  },
+  {
+   "file": "machines/xtool-f2-01.jpg",
+   "category": "machine",
+   "desc": "xTool F2 portable dual laser engraver shot",
+   "model": "F2",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/products/xtool-f2-5w-ir-15w-diode-portable-dual-laser-engraver"
+  },
+  {
+   "file": "machines/xtool-f2-ultra-01.jpg",
+   "category": "machine",
+   "desc": "xTool F2 Ultra 60W MOPA dual laser shot",
+   "model": "F2 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/products/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver"
+  },
+  {
+   "file": "machines/xtool-f2-ultra-uv-01.jpg",
+   "category": "machine",
+   "desc": "xTool F2 Ultra UV 5W laser engraver shot",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/products/xtool-f2-ultra-uv-5w-uv-laser-engraver"
+  },
+  {
+   "file": "machines/xtool-m2-01.jpg",
+   "category": "machine",
+   "desc": "xTool M2 Color Craft laser cutter product shot",
+   "model": "M2",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/products/xtool-m2-color-craft-laser-cutter-engraver"
+  },
+  {
+   "file": "machines/xtool-metalfab-01.jpg",
+   "category": "machine",
+   "desc": "xTool MetalFab 800W laser welder product shot",
+   "model": "MetalFab",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/products/xtool-metalfab-laser-welder"
+  },
+  {
+   "file": "creations/wood-engraving-coaster.jpg",
+   "category": "creation",
+   "desc": "Personalized laser engraved wooden coaster",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/business-ideas/wood-burning-ideas"
+  },
+  {
+   "file": "creations/wood-engraving-cutting-board.jpg",
+   "category": "creation",
+   "desc": "Laser engraved wooden cutting board",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/business-ideas/wood-burning-ideas"
+  },
+  {
+   "file": "creations/wood-engraving-wall-clock.jpg",
+   "category": "creation",
+   "desc": "Laser engraved wooden wall clock",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/business-ideas/wood-burning-ideas"
+  },
+  {
+   "file": "creations/wood-engraving-photo-portrait.jpg",
+   "category": "creation",
+   "desc": "Photo portrait laser engraved on wood",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/business-ideas/wood-burning-ideas"
+  },
+  {
+   "file": "creations/acrylic-engraving-award.jpg",
+   "category": "creation",
+   "desc": "Laser engraved acrylic award trophy",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/acrylic-engraving"
+  },
+  {
+   "file": "creations/acrylic-engraving-led-light.jpg",
+   "category": "creation",
+   "desc": "Engraved acrylic LED light sign",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/acrylic-engraving"
+  },
+  {
+   "file": "creations/acrylic-engraving-keychain.jpg",
+   "category": "creation",
+   "desc": "Laser engraved acrylic keychains",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/acrylic-engraving"
+  },
+  {
+   "file": "creations/leather-engraving-hat-patch.jpg",
+   "category": "creation",
+   "desc": "Laser engraved leather hat patch",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/business-ideas/leather-projects-that-sell"
+  },
+  {
+   "file": "creations/leather-engraving-wallet.jpg",
+   "category": "creation",
+   "desc": "Personalized laser engraved leather wallet",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/business-ideas/leather-projects-that-sell"
+  },
+  {
+   "file": "creations/leather-cut-earrings.png",
+   "category": "creation",
+   "desc": "Laser cut leather earrings",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/business-ideas/leather-projects-that-sell"
+  },
+  {
+   "file": "creations/glass-etching-wine-glass.jpg",
+   "category": "creation",
+   "desc": "Personalized laser etched wine glass",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/business-ideas/glass-etching-ideas"
+  },
+  {
+   "file": "creations/wood-cut-christmas-ornament.jpg",
+   "category": "creation",
+   "desc": "Laser cut wooden Christmas ornament",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/business-ideas/laser-cut-christmas-ornaments"
+  },
+  {
+   "file": "events/ces-2026-xtool-booth.jpg",
+   "category": "event",
+   "desc": "xTool booth panorama at CES 2026",
+   "model": null,
+   "eventName": "CES 2026",
+   "sourceUrl": "https://www.xtool.com/blogs/news/ces-2026"
+  },
+  {
+   "file": "events/ces-2026-booth-crowd.jpg",
+   "category": "event",
+   "desc": "Crowd at the xTool booth at CES 2026",
+   "model": null,
+   "eventName": "CES 2026",
+   "sourceUrl": "https://www.xtool.com/blogs/news/ces-2026"
+  },
+  {
+   "file": "events/ces-2026-cgtn-interview.jpg",
+   "category": "event",
+   "desc": "CGTN interviewing xTool at CES 2026",
+   "model": null,
+   "eventName": "CES 2026",
+   "sourceUrl": "https://www.xtool.com/blogs/news/ces-2026"
+  },
+  {
+   "file": "events/ces-2026-open-gallery.jpg",
+   "category": "event",
+   "desc": "Open Gallery showcase at xTool CES 2026 booth",
+   "model": null,
+   "eventName": "CES 2026",
+   "sourceUrl": "https://www.xtool.com/blogs/news/ces-2026"
+  },
+  {
+   "file": "events/makerfest-tour-stop1-booth.jpg",
+   "category": "event",
+   "desc": "xTool MakerFest Tour stop 1 booth",
+   "model": null,
+   "eventName": "MakerFest Tour",
+   "sourceUrl": "https://www.xtool.com/blogs/news/xtool-makerfest-tour"
+  },
+  {
+   "file": "events/makerfest-tour-stop2-visitors.jpg",
+   "category": "event",
+   "desc": "Visitors at MakerFest Tour stop 2",
+   "model": null,
+   "eventName": "MakerFest Tour",
+   "sourceUrl": "https://www.xtool.com/blogs/news/xtool-makerfest-tour"
+  },
+  {
+   "file": "events/makerfest-tour-event-photo.jpg",
+   "category": "event",
+   "desc": "xTool MakerFest Tour event photo",
+   "model": null,
+   "eventName": "MakerFest Tour",
+   "sourceUrl": "https://www.xtool.com/blogs/news/xtool-makerfest-tour"
+  },
+  {
+   "file": "machines/o1-omni-real-01.jpg",
+   "category": "machine",
+   "desc": "xTool O1 Omni printer on a studio worktable",
+   "model": "O1 Omni",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/xtool-o1-uv-dtf-dtg-printing"
+  },
+  {
+   "file": "machines/o1-omni-real-02.jpg",
+   "category": "machine",
+   "desc": "UV DTF printing in progress on xTool O1 Omni",
+   "model": "O1 Omni",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/uv-dtf-printer"
+  },
+  {
+   "file": "machines/o1-omni-real-03.jpg",
+   "category": "machine",
+   "desc": "O1 Omni printing a design onto transfer film",
+   "model": "O1 Omni",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/uv-dtf-printer"
+  },
+  {
+   "file": "machines/apparel-printer-real-01.jpg",
+   "category": "machine",
+   "desc": "xTool Apparel Printer in a print shop scene",
+   "model": "Apparel Printer",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/xtool-apparel-printer-review"
+  },
+  {
+   "file": "machines/apparel-printer-real-02.jpg",
+   "category": "machine",
+   "desc": "Printing shirts with the xTool Apparel Printer",
+   "model": "Apparel Printer",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/xtool-apparel-printer-review"
+  },
+  {
+   "file": "machines/apparel-printer-real-03.jpg",
+   "category": "machine",
+   "desc": "xTool Apparel Printer in a small business workshop",
+   "model": "Apparel Printer",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/best-dtf-printer-for-small-business"
+  },
+  {
+   "file": "machines/apparel-printer-real-04.jpg",
+   "category": "machine",
+   "desc": "Powder shaker oven working with Apparel Printer",
+   "model": "Apparel Printer",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/how-to/how-to-make-dtf-transfers"
+  },
+  {
+   "file": "machines/wonderpress-real-01.jpg",
+   "category": "machine",
+   "desc": "Creator with xTool WonderPress in a craft room",
+   "model": "WonderPress",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/products/xtool-wonderpress-modular-auto-heat-press-for-2d-transfers-and-3d-creations"
+  },
+  {
+   "file": "machines/wonderpress-real-02.jpg",
+   "category": "machine",
+   "desc": "WonderPress with modules in a creator studio",
+   "model": "WonderPress",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/products/xtool-wonderpress-modular-auto-heat-press-for-2d-transfers-and-3d-creations"
+  },
+  {
+   "file": "machines/screen-printer-real-01.jpg",
+   "category": "machine",
+   "desc": "xTool Screen Printer station in a workshop",
+   "model": "Screen Printer",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/screen-printing-machines-for-small-business"
+  },
+  {
+   "file": "machines/screen-printer-real-02.jpg",
+   "category": "machine",
+   "desc": "Screen printing a shirt with xTool Screen Printer",
+   "model": "Screen Printer",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/screen-printing-machines-for-small-business"
+  },
+  {
+   "file": "machines/screen-printer-real-03.jpg",
+   "category": "machine",
+   "desc": "Family screen printing with xTool S1 and Screen Printer",
+   "model": "Screen Printer",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/how-xtool-reinvents-screen-printing"
+  },
+  {
+   "file": "machines/s1-real-01.jpg",
+   "category": "machine",
+   "desc": "xTool S1 enclosed laser on a desk",
+   "model": "S1",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-engraver-for-beginners"
+  },
+  {
+   "file": "machines/s1-real-02.jpg",
+   "category": "machine",
+   "desc": "xTool S1 diode laser engraver in use",
+   "model": "S1",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-cutter-for-small-business"
+  },
+  {
+   "file": "machines/m2-real-01.jpg",
+   "category": "machine",
+   "desc": "xTool M2 crafting felt projects on a desk",
+   "model": "M2",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/news/introducing-xtool-m2"
+  },
+  {
+   "file": "machines/m2-real-02.jpg",
+   "category": "machine",
+   "desc": "xTool M2 craft machine on a work desk",
+   "model": "M2",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/how-to/heat-press-a-shirt"
+  },
+  {
+   "file": "machines/f1-real-01.jpg",
+   "category": "machine",
+   "desc": "xTool F1 portable engraver on a desk",
+   "model": "F1",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-engraver-for-beginners"
+  },
+  {
+   "file": "machines/f1-real-02.jpg",
+   "category": "machine",
+   "desc": "xTool F1 at a maker craft fair booth",
+   "model": "F1",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/galvo-laser-engraver"
+  },
+  {
+   "file": "machines/f1-ultra-real-01.jpg",
+   "category": "machine",
+   "desc": "xTool F1 Ultra engraving metal on a desk",
+   "model": "F1 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-engraver-for-beginners"
+  },
+  {
+   "file": "machines/f1-ultra-real-02.jpg",
+   "category": "machine",
+   "desc": "F1 Ultra batch engraving flasks with conveyor",
+   "model": "F1 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving"
+  },
+  {
+   "file": "machines/f2-ultra-real-01.jpg",
+   "category": "machine",
+   "desc": "xTool F2 Ultra on an office workbench",
+   "model": "F2 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-engraver-for-small-business"
+  },
+  {
+   "file": "machines/f2-ultra-real-02.jpg",
+   "category": "machine",
+   "desc": "xTool F2 Ultra in a maker studio",
+   "model": "F2 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving"
+  },
+  {
+   "file": "machines/f2-ultra-uv-real-01.jpg",
+   "category": "machine",
+   "desc": "xTool F2 Ultra UV engraving glass",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/6-high-margin-uv-laser-glass-crystal-engraving-projects"
+  },
+  {
+   "file": "machines/p2s-real-01.jpg",
+   "category": "machine",
+   "desc": "xTool P2S 55W CO2 laser cutter in a studio",
+   "model": "P2S",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-cutter-for-small-business"
+  },
+  {
+   "file": "machines/p2-real-01.jpg",
+   "category": "machine",
+   "desc": "xTool P2 with passthrough in a workshop",
+   "model": "P2",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-cutter-for-small-business"
+  },
+  {
+   "file": "machines/p3-real-01.jpg",
+   "category": "machine",
+   "desc": "xTool P3 CO2 laser cutter in a craft room",
+   "model": "P3",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-engraver-for-small-business"
+  },
+  {
+   "file": "machines/metalfab-real-01.jpg",
+   "category": "machine",
+   "desc": "xTool MetalFab laser welder in use",
+   "model": "MetalFab",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/news/introducing-metalfab"
+  },
+  {
+   "file": "machines/metalfab-real-02.jpg",
+   "category": "machine",
+   "desc": "MetalFab welding a metal joint close-up",
+   "model": "MetalFab",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/news/introducing-metalfab"
+  },
+  {
+   "file": "machines/m1-ultra-real-01.jpg",
+   "category": "machine",
+   "desc": "xTool M1 Ultra hobby craft machine on a desk",
+   "model": "M1 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-engraver-for-beginners"
+  },
+  {
+   "file": "creations/wood-gift-box-coasters-01.jpg",
+   "category": "creation",
+   "desc": "Laser engraved wooden gift box and cork coasters",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/reina-byus-boutique-f2u-uv"
+  },
+  {
+   "file": "creations/wood-charcuterie-board-01.jpg",
+   "category": "creation",
+   "desc": "Engraved wooden charcuterie board",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/business-ideas/engraved-gifts"
+  },
+  {
+   "file": "creations/wood-door-sign-01.jpg",
+   "category": "creation",
+   "desc": "Home Sweet Home engraved wooden door sign",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/business-ideas/engraved-gifts"
+  },
+  {
+   "file": "creations/wood-welcome-sign-01.jpg",
+   "category": "creation",
+   "desc": "Engraved wooden welcome home sign",
+   "model": "P2",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/business-ideas/engraved-gifts"
+  },
+  {
+   "file": "creations/wood-rolling-pin-01.jpg",
+   "category": "creation",
+   "desc": "Engraved wooden rolling pin",
+   "model": "M1",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/business-ideas/engraved-gifts"
+  },
+  {
+   "file": "creations/wood-spoons-01.jpg",
+   "category": "creation",
+   "desc": "Engraved wooden kitchen spoons",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/business-ideas/engraved-gifts"
+  },
+  {
+   "file": "creations/metal-tumbler-01.jpg",
+   "category": "creation",
+   "desc": "Laser engraved stainless steel tumbler",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving"
+  },
+  {
+   "file": "creations/metal-business-card-case-01.jpg",
+   "category": "creation",
+   "desc": "Laser engraved metal business card case",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving"
+  },
+  {
+   "file": "creations/metal-jewelry-01.png",
+   "category": "creation",
+   "desc": "Laser engraved metal jewelry pieces",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving"
+  },
+  {
+   "file": "creations/metal-copper-coins-01.jpg",
+   "category": "creation",
+   "desc": "Laser engraved copper coins",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving"
+  },
+  {
+   "file": "creations/metal-pet-tags-01.jpg",
+   "category": "creation",
+   "desc": "Laser engraved metal pet tags",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving"
+  },
+  {
+   "file": "creations/metal-guitar-picks-01.jpg",
+   "category": "creation",
+   "desc": "Laser engraved metal guitar picks",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving"
+  },
+  {
+   "file": "creations/metal-color-engraving-01.jpg",
+   "category": "creation",
+   "desc": "Color laser engraving on a metal plate",
+   "model": "F1 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving"
+  },
+  {
+   "file": "creations/engraved-tumbler-merch-01.jpg",
+   "category": "creation",
+   "desc": "Engraved tumbler and leather koozie merch batch",
+   "model": "P3",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/the-coleman-twins-p3"
+  },
+  {
+   "file": "creations/glass-champagne-glasses-01.jpg",
+   "category": "creation",
+   "desc": "Custom engraved wedding champagne glasses",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/reina-byus-boutique-f2u-uv"
+  },
+  {
+   "file": "creations/glass-wine-box-set-01.jpg",
+   "category": "creation",
+   "desc": "Wedding wine box with engraved glasses set",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/reina-byus-boutique-f2u-uv"
+  },
+  {
+   "file": "creations/glass-crystal-keychain-01.jpg",
+   "category": "creation",
+   "desc": "Laser engraved crystal photo keychain",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/reina-byus-boutique-f2u-uv"
+  },
+  {
+   "file": "creations/glass-crystal-award-01.jpg",
+   "category": "creation",
+   "desc": "Corporate crystal award engraved with UV laser",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/6-high-margin-uv-laser-glass-crystal-engraving-projects"
+  },
+  {
+   "file": "creations/glass-liquor-bottle-01.jpg",
+   "category": "creation",
+   "desc": "Engraved liquor bottle with custom design",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/6-high-margin-uv-laser-glass-crystal-engraving-projects"
+  },
+  {
+   "file": "creations/glass-3d-souvenir-01.jpg",
+   "category": "creation",
+   "desc": "3D subsurface engraved crystal souvenir",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/6-high-margin-uv-laser-glass-crystal-engraving-projects"
+  },
+  {
+   "file": "creations/leather-wallet-pet-photo-01.jpg",
+   "category": "creation",
+   "desc": "Leather wallet engraved with a pet photo",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/reina-byus-boutique-f2u-uv"
+  },
+  {
+   "file": "creations/leather-uv-print-01.png",
+   "category": "creation",
+   "desc": "UV printed design on laser cut leather",
+   "model": "O1 Omni",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/uv-print-plus-laser-cut-ecosystem"
+  },
+  {
+   "file": "creations/ceramic-mug-valentine-01.jpg",
+   "category": "creation",
+   "desc": "Laser engraved Be My Valentine ceramic mug",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/how-to/laser-engrave-mug"
+  },
+  {
+   "file": "creations/ceramic-mugs-engraved-01.jpg",
+   "category": "creation",
+   "desc": "Set of laser engraved ceramic mugs",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/how-to/laser-engrave-mug"
+  },
+  {
+   "file": "creations/tumbler-personalized-01.jpg",
+   "category": "creation",
+   "desc": "Finished personalized engraved tumbler",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/how-to/make-personalized-tumblers"
+  },
+  {
+   "file": "creations/uv-print-phone-case-01.png",
+   "category": "creation",
+   "desc": "UV printed travel-themed phone cases",
+   "model": "O1 Omni",
+   "eventName": null,
+   "sourceUrl": "https://www.atomm.com/blog/2610-what-is-xtool-wonderpress"
+  },
+  {
+   "file": "creations/uv-print-acrylic-01.png",
+   "category": "creation",
+   "desc": "UV printed art on laser cut acrylic piece",
+   "model": "O1 Omni",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/uv-print-plus-laser-cut-ecosystem"
+  },
+  {
+   "file": "creations/uv-print-canvas-01.png",
+   "category": "creation",
+   "desc": "UV printed artwork on canvas",
+   "model": "O1 Omni",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/what-is-uv-printer"
+  },
+  {
+   "file": "creations/uv-print-objects-01.png",
+   "category": "creation",
+   "desc": "UV printed personalized everyday objects",
+   "model": "O1 Omni",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/what-is-uv-printer"
+  },
+  {
+   "file": "creations/uv-dtf-stickers-01.jpg",
+   "category": "creation",
+   "desc": "Waterproof UV DTF printed stickers",
+   "model": "O1 Omni",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/uv-dtf-printer"
+  },
+  {
+   "file": "creations/uv-dtf-wedding-invitation-01.jpg",
+   "category": "creation",
+   "desc": "UV DTF laminated wedding invitation",
+   "model": "O1 Omni",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/uv-dtf-printer"
+  },
+  {
+   "file": "creations/uv-print-products-mix-01.jpg",
+   "category": "creation",
+   "desc": "Custom prints on posters shoes cases and tumblers",
+   "model": "O1 Omni",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/xtool-o1-uv-dtf-dtg-printing"
+  },
+  {
+   "file": "creations/dtf-tshirt-01.jpg",
+   "category": "creation",
+   "desc": "DTF printed custom T-shirts",
+   "model": "Apparel Printer",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/xtool-apparel-printer-review"
+  },
+  {
+   "file": "creations/dtf-hoodie-01.jpg",
+   "category": "creation",
+   "desc": "DTF printed hoodies and sweatshirts",
+   "model": "Apparel Printer",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/xtool-apparel-printer-review"
+  },
+  {
+   "file": "creations/dtf-tote-bag-01.jpg",
+   "category": "creation",
+   "desc": "DTF printed tote bags and canvas accessories",
+   "model": "Apparel Printer",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/xtool-apparel-printer-review"
+  },
+  {
+   "file": "creations/dtf-transfers-01.jpg",
+   "category": "creation",
+   "desc": "Finished DTF transfer sheets with designs",
+   "model": "Apparel Printer",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/how-to/how-to-make-dtf-transfers"
+  },
+  {
+   "file": "creations/dtf-tshirt-02.jpg",
+   "category": "creation",
+   "desc": "DTF printed shirt made with xTool O1 Omni",
+   "model": "O1 Omni",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/xtool-o1-uv-dtf-dtg-printing"
+  },
+  {
+   "file": "creations/screen-print-tshirt-01.jpg",
+   "category": "creation",
+   "desc": "Screen printed graphic T-shirt",
+   "model": "Screen Printer",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/how-xtool-reinvents-screen-printing"
+  },
+  {
+   "file": "creations/screen-print-items-01.jpg",
+   "category": "creation",
+   "desc": "Assorted screen printed items",
+   "model": "Screen Printer",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/xtool-academy/how-xtool-reinvents-screen-printing"
+  },
+  {
+   "file": "creations/screen-print-pillow-01.jpg",
+   "category": "creation",
+   "desc": "Screen printed throw pillows",
+   "model": "Screen Printer",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/business-ideas/screen-printing-ideas"
+  },
+  {
+   "file": "creations/screen-print-tote-bag-01.jpg",
+   "category": "creation",
+   "desc": "Screen printed custom tote bags",
+   "model": "Screen Printer",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/business-ideas/screen-printing-ideas"
+  },
+  {
+   "file": "creations/heatpress-tshirt-01.jpg",
+   "category": "creation",
+   "desc": "Finished shirt after heat press transfer",
+   "model": "Heat Press",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/how-to/heat-press-a-shirt"
+  },
+  {
+   "file": "creations/heatpress-acrylic-keychain-01.jpg",
+   "category": "creation",
+   "desc": "Heat pressed acrylic keychains",
+   "model": "Heat Press",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/automatic-vs-manual-heat-press"
+  },
+  {
+   "file": "creations/heatpress-photo-slate-01.png",
+   "category": "creation",
+   "desc": "Sublimation photo slate made with heat press",
+   "model": "Heat Press",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/automatic-vs-manual-heat-press"
+  },
+  {
+   "file": "creations/heatpress-puff-tshirt-01.png",
+   "category": "creation",
+   "desc": "3D puff HTV design on a T-shirt",
+   "model": "Heat Press",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/automatic-vs-manual-heat-press"
+  },
+  {
+   "file": "events/makerfest-tour-stop1-02.jpg",
+   "category": "event",
+   "desc": "MakerFest Tour stop 1 booth activities",
+   "model": null,
+   "eventName": "MakerFest Tour",
+   "sourceUrl": "https://www.xtool.com/blogs/news/xtool-makerfest-tour"
+  },
+  {
+   "file": "events/makerfest-tour-stop1-03.jpg",
+   "category": "event",
+   "desc": "MakerFest Tour stop 1 visitors trying machines",
+   "model": null,
+   "eventName": "MakerFest Tour",
+   "sourceUrl": "https://www.xtool.com/blogs/news/xtool-makerfest-tour"
+  },
+  {
+   "file": "events/makerfest-tour-stop2-02.jpg",
+   "category": "event",
+   "desc": "MakerFest Tour stop 2 crowd at demo tables",
+   "model": null,
+   "eventName": "MakerFest Tour",
+   "sourceUrl": "https://www.xtool.com/blogs/news/xtool-makerfest-tour"
+  },
+  {
+   "file": "events/makerfest-tour-stop3-01.jpg",
+   "category": "event",
+   "desc": "MakerFest Tour stop 3 event scene",
+   "model": null,
+   "eventName": "MakerFest Tour",
+   "sourceUrl": "https://www.xtool.com/blogs/news/xtool-makerfest-tour"
+  },
+  {
+   "file": "events/makerfest-tour-stop4-01.jpg",
+   "category": "event",
+   "desc": "MakerFest Tour stop 4 event scene",
+   "model": null,
+   "eventName": "MakerFest Tour",
+   "sourceUrl": "https://www.xtool.com/blogs/news/xtool-makerfest-tour"
+  },
+  {
+   "file": "events/makerfest-tour-stop10-01.jpg",
+   "category": "event",
+   "desc": "MakerFest Tour stop 10 event scene",
+   "model": null,
+   "eventName": "MakerFest Tour",
+   "sourceUrl": "https://www.xtool.com/blogs/news/xtool-makerfest-tour"
+  },
+  {
+   "file": "events/ces-2026-uv-printer-demo.jpg",
+   "category": "event",
+   "desc": "xTool UV printer demo at CES 2026 booth",
+   "model": null,
+   "eventName": "CES 2026",
+   "sourceUrl": "https://www.xtool.com/blogs/news/ces-2026"
+  },
+  {
+   "file": "events/ces-2026-secret-room.jpg",
+   "category": "event",
+   "desc": "Secret Room showcase at xTool CES 2026 booth",
+   "model": null,
+   "eventName": "CES 2026",
+   "sourceUrl": "https://www.xtool.com/blogs/news/ces-2026"
+  },
+  {
+   "file": "events/ces-2026-justine-ezarik.jpg",
+   "category": "event",
+   "desc": "Creator Justine Ezarik at xTool CES 2026 booth",
+   "model": null,
+   "eventName": "CES 2026",
+   "sourceUrl": "https://www.xtool.com/blogs/news/ces-2026"
+  },
+  {
+   "file": "events/ces-2026-broadcast.jpg",
+   "category": "event",
+   "desc": "Live broadcast at xTool CES 2026 booth",
+   "model": null,
+   "eventName": "CES 2026",
+   "sourceUrl": "https://www.xtool.com/blogs/news/ces-2026"
+  },
+  {
+   "file": "events/fab26-boston-event-01.jpg",
+   "category": "event",
+   "desc": "xTool booth at FAB26 Boston",
+   "model": null,
+   "eventName": "FAB26 Boston",
+   "sourceUrl": "https://www.xtool.com/blogs/news/xtool-fab26-boston"
+  },
+  {
+   "file": "events/fab26-boston-workshops-01.jpg",
+   "category": "event",
+   "desc": "Community workshops at FAB26 Boston",
+   "model": null,
+   "eventName": "FAB26 Boston",
+   "sourceUrl": "https://www.xtool.com/blogs/news/xtool-fab26-boston"
+  },
+  {
+   "file": "events/fab26-boston-makers-01.jpg",
+   "category": "event",
+   "desc": "xTool team with makers at FAB26 Boston",
+   "model": null,
+   "eventName": "FAB26 Boston",
+   "sourceUrl": "https://www.xtool.com/blogs/news/xtool-fab26-boston"
+  },
+  {
+   "file": "events/us-office-opening-speech-01.jpg",
+   "category": "event",
+   "desc": "Opening speech at xTool US office opening",
+   "model": null,
+   "eventName": "US Office Opening",
+   "sourceUrl": "https://www.xtool.com/blogs/news/us-office-opening"
+  },
+  {
+   "file": "events/us-office-opening-group-01.jpg",
+   "category": "event",
+   "desc": "Group photo at xTool US office opening",
+   "model": null,
+   "eventName": "US Office Opening",
+   "sourceUrl": "https://www.xtool.com/blogs/news/us-office-opening"
+  },
+  {
+   "file": "events/us-office-opening-metalfab-zone-01.jpg",
+   "category": "event",
+   "desc": "MetalFab demo zone at US office opening",
+   "model": null,
+   "eventName": "US Office Opening",
+   "sourceUrl": "https://www.xtool.com/blogs/news/us-office-opening"
+  },
+  {
+   "file": "machines/f1-ultra-real-03.jpg",
+   "category": "machine",
+   "desc": "xTool F1 Ultra on reviewer test bench",
+   "model": "F1 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-f1-ultra/"
+  },
+  {
+   "file": "machines/f1-ultra-real-04.jpg",
+   "category": "machine",
+   "desc": "F1 Ultra touchscreen controller close-up",
+   "model": "F1 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-f1-ultra/"
+  },
+  {
+   "file": "machines/f1-ultra-real-05.jpg",
+   "category": "machine",
+   "desc": "F1 Ultra engraving and cutting plywood",
+   "model": "F1 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-f1-ultra/"
+  },
+  {
+   "file": "machines/f1-ultra-real-06.webp",
+   "category": "machine",
+   "desc": "F1 Ultra review setup at 3DWithUs",
+   "model": "F1 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://3dwithus.com/xtool-f1-ultra-review-laser-engraver-cutter-tests-tips-settings"
+  },
+  {
+   "file": "machines/f1-ultra-real-07.webp",
+   "category": "machine",
+   "desc": "F1 Ultra with conveyor belt system",
+   "model": "F1 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://3dwithus.com/xtool-f1-ultra-review-laser-engraver-cutter-tests-tips-settings"
+  },
+  {
+   "file": "machines/f1-ultra-real-08.jpg",
+   "category": "machine",
+   "desc": "Creator selfie with her F1 Ultra in studio",
+   "model": "F1 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/mary-wanderlost-artz-f2u-uv"
+  },
+  {
+   "file": "machines/f1-real-03.jpg",
+   "category": "machine",
+   "desc": "xTool F1 portable engraver on desk",
+   "model": "F1",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-f1/"
+  },
+  {
+   "file": "machines/f1-real-04.jpg",
+   "category": "machine",
+   "desc": "F1 blue diode laser beam during engraving",
+   "model": "F1",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-f1/"
+  },
+  {
+   "file": "machines/f1-real-05.jpg",
+   "category": "machine",
+   "desc": "F1 unboxing with accessories on bench",
+   "model": "F1",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-f1/"
+  },
+  {
+   "file": "machines/s1-real-03.jpg",
+   "category": "machine",
+   "desc": "xTool S1 on reviewer test bench",
+   "model": "S1",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-s1/"
+  },
+  {
+   "file": "machines/s1-real-04.jpg",
+   "category": "machine",
+   "desc": "xTool S1 with lid open during review",
+   "model": "S1",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-s1/"
+  },
+  {
+   "file": "machines/s1-real-05.jpg",
+   "category": "machine",
+   "desc": "S1 40W laser module close-up",
+   "model": "S1",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-s1/"
+  },
+  {
+   "file": "machines/s1-real-06.jpg",
+   "category": "machine",
+   "desc": "S1 rotary engraving a tumbler in test",
+   "model": "S1",
+   "eventName": null,
+   "sourceUrl": "https://www.tomshardware.com/3d-printing/xtool-s1-review"
+  },
+  {
+   "file": "machines/s1-real-07.jpg",
+   "category": "machine",
+   "desc": "S1 unboxing with accessory kit",
+   "model": "S1",
+   "eventName": null,
+   "sourceUrl": "https://www.tomshardware.com/3d-printing/xtool-s1-review"
+  },
+  {
+   "file": "machines/s1-real-08.jpg",
+   "category": "machine",
+   "desc": "xTool S1 beside Glowforge Aura comparison",
+   "model": "S1",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/xtool-s1-vs-glowforge-aura"
+  },
+  {
+   "file": "machines/s1-real-09.webp",
+   "category": "machine",
+   "desc": "S1 with 40W module in 3DWithUs studio",
+   "model": "S1",
+   "eventName": null,
+   "sourceUrl": "https://3dwithus.com/xtool-s1-review-laser-cutter-engraver-tests-settings"
+  },
+  {
+   "file": "machines/p2s-real-02.jpg",
+   "category": "machine",
+   "desc": "xTool P2S in reviewer workshop",
+   "model": "P2S",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-p2s/"
+  },
+  {
+   "file": "machines/p2s-real-03.jpg",
+   "category": "machine",
+   "desc": "P2S and P2 side by side in workshop",
+   "model": "P2S",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-p2s/"
+  },
+  {
+   "file": "machines/p2s-real-04.jpg",
+   "category": "machine",
+   "desc": "P2S laser head close-up",
+   "model": "P2S",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-p2s/"
+  },
+  {
+   "file": "machines/p2s-real-05.jpg",
+   "category": "machine",
+   "desc": "P2S touchscreen display panel",
+   "model": "P2S",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-p2s/"
+  },
+  {
+   "file": "machines/p2s-real-06.jpg",
+   "category": "machine",
+   "desc": "P2S honeycomb work bed",
+   "model": "P2S",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-p2s/"
+  },
+  {
+   "file": "machines/p2s-real-07.jpg",
+   "category": "machine",
+   "desc": "P2S CO2 laser tube inside chassis",
+   "model": "P2S",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-p2s/"
+  },
+  {
+   "file": "machines/f2-ultra-uv-real-02.jpg",
+   "category": "machine",
+   "desc": "F2 Ultra UV on reviewer desk",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-f2-ultra/"
+  },
+  {
+   "file": "machines/f2-ultra-uv-real-03.jpg",
+   "category": "machine",
+   "desc": "F2 Ultra UV folding stand for 3D glass work",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-f2-ultra/"
+  },
+  {
+   "file": "machines/f2-ultra-uv-real-04.jpg",
+   "category": "machine",
+   "desc": "F2 Ultra UV press photo via All3DP",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://all3dp.com/6/xtool-surprise-debuts-a-cold-uv-laser-engraver-for-ornamental-engravings-inside-glass-and-plastic/"
+  },
+  {
+   "file": "machines/f2-ultra-uv-real-05.jpg",
+   "category": "machine",
+   "desc": "F2 Ultra UV touch controller close-up",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-f2-ultra/"
+  },
+  {
+   "file": "machines/f2-ultra-uv-real-06.jpg",
+   "category": "machine",
+   "desc": "F2 Ultra UV work bed detail",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-f2-ultra/"
+  },
+  {
+   "file": "machines/metalfab-real-03.jpg",
+   "category": "machine",
+   "desc": "Welder using MetalFab handheld torch",
+   "model": "MetalFab",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/buyer-guide/best-welder-for-beginner"
+  },
+  {
+   "file": "machines/o1-omni-real-04.jpg",
+   "category": "machine",
+   "desc": "O1 Omni Retail Studio demo with visitors",
+   "model": "O1 Omni",
+   "eventName": null,
+   "sourceUrl": "https://www.prnewswire.com/news-releases/xtool-o1-omni-printer-hits-the-global-market-empowering-businesses-and-creators-with-industrial-grade-print-anything-versatility-302827332.html"
+  },
+  {
+   "file": "machines/p3-real-02.jpg",
+   "category": "machine",
+   "desc": "Maker Mike Smerka with his xTool P3",
+   "model": "P3",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/mike-smerka-p3"
+  },
+  {
+   "file": "creations/metal-dog-tag-01.jpg",
+   "category": "creation",
+   "desc": "Anodized aluminum dog tag engraved on F1 Ultra",
+   "model": "F1 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-f1-ultra/"
+  },
+  {
+   "file": "creations/metal-business-card-02.jpg",
+   "category": "creation",
+   "desc": "Engraved aluminum business card",
+   "model": "F1 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-f1-ultra/"
+  },
+  {
+   "file": "creations/metal-hip-flask-01.jpg",
+   "category": "creation",
+   "desc": "Stainless steel hip flask engraving",
+   "model": "F1 Ultra",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-f1-ultra/"
+  },
+  {
+   "file": "creations/stone-slate-coaster-01.jpg",
+   "category": "creation",
+   "desc": "Slate stone coaster engraved with UV laser",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-f2-ultra/"
+  },
+  {
+   "file": "creations/glass-uv-engraving-detail-01.jpg",
+   "category": "creation",
+   "desc": "Surface glass engraving detail by UV laser",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://hobbylasercutters.com/xtool-f2-ultra/"
+  },
+  {
+   "file": "creations/metal-tumbler-mine-01.jpg",
+   "category": "creation",
+   "desc": "Engraved MINE lettering on black tumbler",
+   "model": "S1",
+   "eventName": null,
+   "sourceUrl": "https://www.tomshardware.com/3d-printing/xtool-s1-review"
+  },
+  {
+   "file": "creations/glass-crystal-photo-ornament-01.jpg",
+   "category": "creation",
+   "desc": "Crystal photo ornament engraved with UV laser",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/janice-sharon-street-studios-f2u-uv"
+  },
+  {
+   "file": "creations/glass-crystal-heart-photo-01.jpg",
+   "category": "creation",
+   "desc": "Photo engraved heart-shaped crystal",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/janice-sharon-street-studios-f2u-uv"
+  },
+  {
+   "file": "creations/wood-welcome-sign-02.jpg",
+   "category": "creation",
+   "desc": "Intricate laser-cut wooden welcome sign",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/janice-sharon-street-studios-f2u-uv"
+  },
+  {
+   "file": "creations/glass-crystal-phoenix-01.jpg",
+   "category": "creation",
+   "desc": "3D engraved crystal phoenix on glowing base",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/mary-wanderlost-artz-f2u-uv"
+  },
+  {
+   "file": "creations/metal-tag-keychains-01.jpg",
+   "category": "creation",
+   "desc": "Custom engraved metal tag keychains",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/mary-wanderlost-artz-f2u-uv"
+  },
+  {
+   "file": "creations/wood-easter-bunny-01.jpg",
+   "category": "creation",
+   "desc": "Laser-cut wooden Easter bunny crafts",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/mary-wanderlost-artz-f2u-uv"
+  },
+  {
+   "file": "creations/wood-book-tracker-01.jpg",
+   "category": "creation",
+   "desc": "Engraved wooden book tracker plaque",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/mary-wanderlost-artz-f2u-uv"
+  },
+  {
+   "file": "creations/glass-decanter-whiskey-set-01.png",
+   "category": "creation",
+   "desc": "Engraved glass decanter and whiskey set",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/shital-nk-handcrafted-gifts-f2u-uv"
+  },
+  {
+   "file": "creations/stone-slate-pet-memorial-01.jpg",
+   "category": "creation",
+   "desc": "Slate pet memorial stone with photo engraving",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/shital-nk-handcrafted-gifts-f2u-uv"
+  },
+  {
+   "file": "creations/metal-bangle-bracelet-01.png",
+   "category": "creation",
+   "desc": "Personalized engraved metal bangle bracelet",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/shital-nk-handcrafted-gifts-f2u-uv"
+  },
+  {
+   "file": "creations/wood-engraved-board-02.png",
+   "category": "creation",
+   "desc": "Maker holding engraved wooden gift board",
+   "model": "F2 Ultra UV",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/shital-nk-handcrafted-gifts-f2u-uv"
+  },
+  {
+   "file": "creations/wood-valentine-decor-01.jpg",
+   "category": "creation",
+   "desc": "Painted layered wood Valentine decor set",
+   "model": "P3",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/geni-adams-p3"
+  },
+  {
+   "file": "creations/acrylic-glitter-keychains-01.jpg",
+   "category": "creation",
+   "desc": "Glitter acrylic keychain discs batch",
+   "model": "P3",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/geni-adams-p3"
+  },
+  {
+   "file": "creations/wood-letter-bank-01.jpg",
+   "category": "creation",
+   "desc": "Personalized wooden letter coin bank",
+   "model": "P3",
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/geni-adams-p3"
+  },
+  {
+   "file": "creations/wood-court-coasters-01.jpg",
+   "category": "creation",
+   "desc": "Engraved magistrate court coaster set",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/wil-cope-combat-veteran-laser-engraving-business"
+  },
+  {
+   "file": "creations/wood-veteran-clock-01.jpg",
+   "category": "creation",
+   "desc": "Wooden clock made by veteran maker Wil",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/wil-cope-combat-veteran-laser-engraving-business"
+  },
+  {
+   "file": "creations/wood-plaque-sheepdog-01.jpg",
+   "category": "creation",
+   "desc": "Sheepdog Designs engraved wooden plaque",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/wil-cope-combat-veteran-laser-engraving-business"
+  },
+  {
+   "file": "creations/mixed-product-display-01.jpg",
+   "category": "creation",
+   "desc": "Shelf of engraved tumblers and gift products",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/wil-cope-combat-veteran-laser-engraving-business"
+  },
+  {
+   "file": "creations/mixed-product-display-02.jpg",
+   "category": "creation",
+   "desc": "Engraved tumblers slates and gifts close-up",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/wil-cope-combat-veteran-laser-engraving-business"
+  },
+  {
+   "file": "creations/wood-wedding-sign-making-01.jpg",
+   "category": "creation",
+   "desc": "Michelle assembling laser-cut wedding sign",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/michelle-wedding-business-from-home"
+  },
+  {
+   "file": "creations/acrylic-wedding-monogram-01.jpg",
+   "category": "creation",
+   "desc": "Assembling laser-cut acrylic wedding monogram",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/michelle-wedding-business-from-home"
+  },
+  {
+   "file": "creations/acrylic-wedding-welcome-sign-01.jpg",
+   "category": "creation",
+   "desc": "Finished wedding welcome sign with florals",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/michelle-wedding-business-from-home"
+  },
+  {
+   "file": "creations/acrylic-engraving-flourish-01.jpg",
+   "category": "creation",
+   "desc": "Rose-gold acrylic flourish engraving close-up",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/michelle-wedding-business-from-home"
+  },
+  {
+   "file": "creations/acrylic-wedding-table-number-01.jpg",
+   "category": "creation",
+   "desc": "Acrylic wedding table number on reception table",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.xtool.com/blogs/user-story/michelle-wedding-business-from-home"
+  },
+  {
+   "file": "creations/wood-cutting-board-dandelion-01.webp",
+   "category": "creation",
+   "desc": "Dandelion wish engraved bamboo cutting board",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.atomm.com/blog/2703-engraved-cutting-board-ideas"
+  },
+  {
+   "file": "creations/wood-cutting-board-dragonfly-01.webp",
+   "category": "creation",
+   "desc": "Dragonfly and floral engraved oak board",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.atomm.com/blog/2703-engraved-cutting-board-ideas"
+  },
+  {
+   "file": "creations/wood-cutting-board-mushroom-01.webp",
+   "category": "creation",
+   "desc": "Artistic mushroom engraved bamboo board",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.atomm.com/blog/2703-engraved-cutting-board-ideas"
+  },
+  {
+   "file": "creations/wood-wedding-welcome-sign-01.webp",
+   "category": "creation",
+   "desc": "Laser-cut wooden wedding welcome sign",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.atomm.com/blog/2740-wedding-sign-ideas"
+  },
+  {
+   "file": "creations/wood-wedding-floral-sign-01.webp",
+   "category": "creation",
+   "desc": "Floral laser-cut wedding welcome sign",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.atomm.com/blog/2740-wedding-sign-ideas"
+  },
+  {
+   "file": "creations/wood-wedding-arch-sign-01.webp",
+   "category": "creation",
+   "desc": "Stained-glass style wedding arch sign",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.atomm.com/blog/2740-wedding-sign-ideas"
+  },
+  {
+   "file": "creations/wood-candle-holder-tealight-01.png",
+   "category": "creation",
+   "desc": "Laser-cut wooden tealight candle holder",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.atomm.com/blog/2730-candle-holder-ideas"
+  },
+  {
+   "file": "creations/wood-candle-holder-led-01.webp",
+   "category": "creation",
+   "desc": "Wooden candle holders with LED tea lights",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.atomm.com/blog/2730-candle-holder-ideas"
+  },
+  {
+   "file": "creations/wood-candlestick-ornamental-01.webp",
+   "category": "creation",
+   "desc": "Laser-cut candlestick with ornamental pattern",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.atomm.com/blog/2730-candle-holder-ideas"
+  },
+  {
+   "file": "creations/wood-name-keychains-01.webp",
+   "category": "creation",
+   "desc": "Engraved wooden name keychains",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.atomm.com/blog/2766-keychain-ideas-to-sell-on-etsy"
+  },
+  {
+   "file": "creations/wood-dragon-keychain-3d-01.webp",
+   "category": "creation",
+   "desc": "Layered 3D dragon wooden keychain",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.atomm.com/blog/2766-keychain-ideas-to-sell-on-etsy"
+  },
+  {
+   "file": "creations/wood-game-keychain-retro-01.jpg",
+   "category": "creation",
+   "desc": "Retro handheld game wooden keychain making",
+   "model": null,
+   "eventName": null,
+   "sourceUrl": "https://www.atomm.com/blog/2766-keychain-ideas-to-sell-on-etsy"
+  },
+  {
+   "file": "creations/metal-fire-pit-01.webp",
+   "category": "creation",
+   "desc": "Portable metal fire pit cut with MetalFab",
+   "model": "MetalFab",
+   "eventName": null,
+   "sourceUrl": "https://www.atomm.com/blog/2537-what-is-xtool-metalfab"
+  },
+  {
+   "file": "creations/metal-camping-grill-01.webp",
+   "category": "creation",
+   "desc": "Stainless steel camping grill by MetalFab",
+   "model": "MetalFab",
+   "eventName": null,
+   "sourceUrl": "https://www.atomm.com/blog/2537-what-is-xtool-metalfab"
+  },
+  {
+   "file": "events/ces-2026-material-library-01.jpg",
+   "category": "event",
+   "desc": "xTool Material Library bar at CES 2026 booth",
+   "model": null,
+   "eventName": "CES 2026",
+   "sourceUrl": "https://www.xtool.com/pages/xtool-at-ces-2026"
+  },
+  {
+   "file": "events/ces-2026-booth-floor-01.jpg",
+   "category": "event",
+   "desc": "CES 2026 booth floor with visitor lounge",
+   "model": null,
+   "eventName": "CES 2026",
+   "sourceUrl": "https://www.xtool.com/pages/xtool-at-ces-2026"
+  },
+  {
+   "file": "events/ces-2026-stage-talk-01.jpg",
+   "category": "event",
+   "desc": "Speaker on xTool stage at CES 2026",
+   "model": null,
+   "eventName": "CES 2026",
+   "sourceUrl": "https://www.xtool.com/pages/xtool-at-ces-2026"
+  },
+  {
+   "file": "events/ces-2026-stage-talk-02.jpg",
+   "category": "event",
+   "desc": "Retail Studio presentation at CES 2026",
+   "model": null,
+   "eventName": "CES 2026",
+   "sourceUrl": "https://www.xtool.com/pages/xtool-at-ces-2026"
+  },
+  {
+   "file": "events/ces-2026-team-photo-01.jpg",
+   "category": "event",
+   "desc": "xTool team group photo at CES 2026 booth",
+   "model": null,
+   "eventName": "CES 2026",
+   "sourceUrl": "https://www.xtool.com/pages/xtool-at-ces-2026"
+  },
+  {
+   "file": "events/ces-2026-squad-catering-01.jpg",
+   "category": "event",
+   "desc": "xTool Squad member at CES booth catering",
+   "model": null,
+   "eventName": "CES 2026",
+   "sourceUrl": "https://www.xtool.com/pages/xtool-at-ces-2026"
+  },
+  {
+   "file": "events/ces-2026-visitors-01.jpg",
+   "category": "event",
+   "desc": "Attendees chatting at xTool CES 2026 booth",
+   "model": null,
+   "eventName": "CES 2026",
+   "sourceUrl": "https://www.xtool.com/pages/xtool-at-ces-2026"
+  },
+  {
+   "file": "events/makerfest-tour-truck-01.jpg",
+   "category": "event",
+   "desc": "xTool MakerFest Tour truck on the road",
+   "model": null,
+   "eventName": "xTool MakerFest Tour",
+   "sourceUrl": "https://www.prnewswire.com/news-releases/xtool-rides-into-custom-motorcycle-culture-as-title-sponsor-of-the-handbuilt-show-302727590.html"
+  },
+  {
+   "file": "events/coca-cola-collab-01.jpg",
+   "category": "event",
+   "desc": "F1 Ultra rotary engraving Coca-Cola can",
+   "model": null,
+   "eventName": "Coca-Cola x xTool Collaboration",
+   "sourceUrl": "https://www.xtool.com/blogs/news/coca-cola-with-xtool"
+  },
+  {
+   "file": "events/coca-cola-collab-02.jpg",
+   "category": "event",
+   "desc": "Personalized Coke cans beta test with F1 Ultra",
+   "model": null,
+   "eventName": "Coca-Cola x xTool Collaboration",
+   "sourceUrl": "https://www.xtool.com/blogs/news/coca-cola-with-xtool"
+  },
+  {
+   "file": "events/us-hq-opening-mvv-01.jpg",
+   "category": "event",
+   "desc": "xTool US HQ building on grand opening day",
+   "model": null,
+   "eventName": "xTool US HQ Grand Opening",
+   "sourceUrl": "https://www.mv-voice.com/business/2025/08/04/creative-tech-company-celebrates-grand-opening-in-mountain-view/"
+  },
+  {
+   "file": "events/us-hq-opening-mvv-02.jpg",
+   "category": "event",
+   "desc": "Retail Studio demo zone at HQ opening",
+   "model": null,
+   "eventName": "xTool US HQ Grand Opening",
+   "sourceUrl": "https://www.mv-voice.com/business/2025/08/04/creative-tech-company-celebrates-grand-opening-in-mountain-view/"
+  }
+ ]
+}

@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>xTooler_Tracker — Find xToolers Near You</title>
+  <link rel="icon" type="image/png" href="/assets/brand/xtool-favicon-32.png">
+  
+  
+  <link href="vendor/fonts.css" rel="stylesheet">
+  <link rel="stylesheet" href="vendor/maplibre-gl.css">
+  <link rel="stylesheet" href="styles.css?v=6">
+</head>
+<body>
+  <div id="map"></div>
+
+  <!-- Loading overlay (#9) -->
+  <div class="loading-overlay" id="loading-overlay">
+    <div class="loading-inner">
+      <div class="brand loading-brand">
+        <img class="brand-logo" src="/assets/brand/xtool-logo-white.svg" alt="xTool">
+        <span class="brand-suffix">TRACKER</span>
+      </div>
+      <div class="laser-line"></div>
+      <p class="loading-msg" id="loading-msg" data-i18n="loading.msg">LOCATING XTOOLERS AROUND YOU...</p>
+    </div>
+  </div>
+
+  <!-- Demo ribbon -->
+  <div class="demo-ribbon">DEMO DATA</div>
+
+  <!-- Header -->
+  <header class="hud-header">
+    <div class="brand" id="brand-logo-hit" title="xTool">
+      <img class="brand-logo" src="/assets/brand/xtool-logo-white.svg" alt="xTool">
+      <span class="brand-suffix">TRACKER</span>
+    </div>
+    <p class="tagline" data-i18n="tagline">Connect with xToolers around you. Let creativity bloom everywhere.</p>
+  </header>
+
+  <!-- Filter bar -->
+  <div class="filter-bar" id="filter-bar">
+    <button class="chip chip-machine active" data-type="machine" aria-label="Toggle machines">
+      <span class="dot"></span><span class="chip-label" data-i18n="chip.machines">MACHINES</span> <span class="count" id="count-machine">0</span>
+    </button>
+    <button class="chip chip-creation active" data-type="creation" aria-label="Toggle creations">
+      <span class="dot"></span><span class="chip-label" data-i18n="chip.creations">CREATIONS</span> <span class="count" id="count-creation">0</span>
+    </button>
+    <button class="chip chip-event active" data-type="event" aria-label="Toggle events">
+      <span class="dot"></span><span class="chip-label" data-i18n="chip.events">EVENTS</span> <span class="count" id="count-event">0</span>
+    </button>
+    <select id="model-filter" class="model-select" aria-label="Filter by machine model">
+      <option value="" data-i18n="filter.allModels">ALL MODELS</option>
+    </select>
+    <select id="lang-switch" class="model-select" aria-label="Language">
+      <option value="en">EN</option>
+      <option value="zh">中文</option>
+      <option value="de">DE</option>
+    </select>
+  </div>
+
+  <!-- Side actions (#8: labeled buttons) -->
+  <div class="side-actions">
+    <button id="log-btn" class="hud-btn" title="Activity log" aria-label="Open activity log">
+      <span class="btn-icon">≡</span><span class="btn-label" data-i18n="btn.log">LOG</span>
+    </button>
+    <button id="locate-btn" class="hud-btn" title="Center map on my area" aria-label="Center map on my area">
+      <span class="btn-icon">◎</span><span class="btn-label" data-i18n="btn.nearme">NEAR ME</span>
+    </button>
+    <button id="legend-btn" class="hud-btn" title="What is this map?" aria-label="Open legend and help">
+      <span class="btn-icon">?</span><span class="btn-label" data-i18n="btn.legend">LEGEND</span>
+    </button>
+    <button id="share-btn" class="hud-btn accent" title="Share your setup" aria-label="Share your setup">
+      <span class="btn-icon">＋</span><span class="btn-label" data-i18n="btn.share">SHARE</span>
+    </button>
+  </div>
+
+  <!-- Pin hover tooltip (#6) -->
+  <div class="pin-tooltip" id="pin-tooltip" hidden>
+    <span class="tip-dot" id="tip-dot"></span><span id="tip-text"></span>
+  </div>
+
+  <!-- Activity log panel -->
+  <aside class="log-panel" id="log-panel" hidden>
+    <div class="panel-head">
+      <h2 data-i18n="log.title">ACTIVITY LOG</h2>
+      <button class="panel-close" id="log-close" aria-label="Close activity log">✕</button>
+    </div>
+    <ul id="log-list"></ul>
+  </aside>
+
+  <!-- Pin card -->
+  <div class="pin-card" id="pin-card" hidden>
+    <button class="panel-close card-close" id="card-close" aria-label="Close card">✕</button>
+    <div class="card-media">
+      <img id="card-img" alt="" title="Click to view full size">
+      <span class="engrave-line" id="card-engrave-line"></span>
+      <button class="gal-btn gal-prev" id="gal-prev" hidden aria-label="Previous image">‹</button>
+      <button class="gal-btn gal-next" id="gal-next" hidden aria-label="Next image">›</button>
+      <span class="card-demo-badge">DEMO</span>
+      <span class="zoom-hint">⤢</span>
+    </div>
+    <div class="card-body">
+      <div class="badge-row">
+        <span class="type-badge" id="card-type"></span>
+        <span id="card-models"></span>
+      </div>
+      <h3 id="card-title"></h3>
+      <p class="card-meta"><span id="card-loc"></span> · <span id="card-date"></span></p>
+      <p class="card-author"><span data-i18n="card.by">by</span> <strong id="card-author"></strong> <span data-i18n="card.on">on</span> <span id="card-platform"></span></p>
+      <div class="card-actions">
+        <a id="card-cta" class="cta-btn" target="_blank" rel="noopener noreferrer">VIEW ORIGINAL POST ↗</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Image lightbox (#7) -->
+  <div class="lightbox" id="lightbox" hidden>
+    <button class="panel-close lb-close" id="lb-close" aria-label="Close full image">✕</button>
+    <div class="lb-stage">
+      <img id="lb-img" alt="">
+      <span class="engrave-line" id="lb-engrave-line"></span>
+    </div>
+    <button class="gal-btn lb-prev" id="lb-prev" hidden aria-label="Previous image">‹</button>
+    <button class="gal-btn lb-next" id="lb-next" hidden aria-label="Next image">›</button>
+  </div>
+
+  <!-- Welcome / Legend modal (#2) -->
+  <div class="modal-backdrop" id="legend-modal" hidden>
+    <div class="modal">
+      <h3 id="legend-title">WELCOME, MAKER</h3>
+      <p data-i18n-html="legend.body">This is a live map of the <strong>xTool community</strong> — machines you can visit, crafts made nearby, and offline events. Tap a pin, view the original post, and connect.</p>
+      <ul class="legend-list">
+        <li><span class="legend-dot" style="--c:#00c601"></span><span data-i18n-html="legend.machine"><strong>MACHINES</strong> — someone near you owns this xTool. Ask for a demo!</span></li>
+        <li><span class="legend-dot" style="--c:#ff9a3d"></span><span data-i18n-html="legend.creation"><strong>CREATIONS</strong> — crafts made with xTool, posted by real makers.</span></li>
+        <li><span class="legend-dot" style="--c:#4da3ff"></span><span data-i18n-html="legend.event"><strong>EVENTS</strong> — official tours & community meetups near you.</span></li>
+      </ul>
+      <p class="safety-tips" data-i18n-html="legend.tips">City badges show how many makers are in each city — tap one to dive in. Small numbered circles fan out when clicked. Post with <strong>#xToolerTracker</strong> + your city to get on the map.</p>
+      <div class="modal-actions">
+        <button class="hud-btn accent wide" id="legend-ok" data-i18n="legend.cta">EXPLORE THE MAP</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Safety modal (first original-post jump) -->
+  <div class="modal-backdrop" id="safety-modal" hidden>
+    <div class="modal">
+      <h3 data-i18n="safety.title">HEADS UP, MAKER</h3>
+      <p data-i18n="safety.body">You're about to leave xTooler_Tracker to contact this creator on their social platform.</p>
+      <p class="safety-tips" data-i18n="safety.tips">If you plan to meet offline: choose a public place, tell a friend, and meet during the day. Stay safe and have fun!</p>
+      <div class="modal-actions">
+        <button class="hud-btn" id="safety-cancel" data-i18n="safety.cancel">CANCEL</button>
+        <button class="hud-btn accent" id="safety-ok" data-i18n="safety.ok">GOT IT, CONTINUE</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Share modal -->
+  <div class="modal-backdrop" id="share-modal" hidden>
+    <div class="modal">
+      <h3 data-i18n="share.title">SHOW YOUR SETUP</h3>
+      <p data-i18n-html="share.body">Post on Instagram / X / Facebook with the tag <strong>#xToolerTracker</strong> and your city — our pipeline will put you on the map.</p>
+      <pre class="share-template" id="share-template" data-i18n="share.template">Proud xTooler here! My [machine] lives in [your city].
+Come say hi if you're nearby!
+#xToolerTracker #xtool</pre>
+      <p class="safety-tips" data-i18n="share.tips">Only include your city or neighborhood — never your exact address. The map shows exactly what you write, no more.</p>
+      <div class="modal-actions">
+        <button class="hud-btn" id="share-close" data-i18n="share.close">CLOSE</button>
+        <button class="hud-btn accent" id="copy-template" data-i18n="share.copy">COPY TEMPLATE</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Easter egg: laser engraving overlay (C1) -->
+  <div class="egg-engrave" id="egg-engrave" hidden>
+    <svg viewBox="0 0 640 180" aria-hidden="true">
+      <text x="320" y="120" text-anchor="middle" class="egg-text">xTooler</text>
+    </svg>
+    <span class="egg-smoke s1"></span>
+    <span class="egg-smoke s2"></span>
+    <span class="egg-smoke s3"></span>
+  </div>
+
+  <footer class="hud-footer">
+    <span data-i18n="footer.text">xTooler_Tracker · MVP demo · all pins are demo data</span>
+  </footer>
+
+  <script src="vendor/maplibre-gl.js"></script>
+  <script src="app.js?v=9"></script>
+</body>
+</html>

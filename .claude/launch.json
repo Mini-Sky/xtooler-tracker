@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "demo",
+      "runtimeExecutable": "C:/ProgramData/miniconda3/python.exe",
+      "runtimeArgs": ["-m", "http.server", "8123", "--directory", "D:/Design/VibeCoding/xTooler_Tracker"],
+      "port": 8123
+    }
+  ]
+}

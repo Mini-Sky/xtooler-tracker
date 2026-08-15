@@ -1,0 +1,6173 @@
+{
+ "pins": [
+  {
+   "id": "demo-m-001",
+   "pinType": "machine",
+   "lat": 52.4718,
+   "lng": -1.896,
+   "locationPrecision": "city",
+   "displayLocation": "Birmingham, UK",
+   "title": "xTool F1 Ultra dual laser engraver product shot",
+   "media": [
+    "/assets/machines/xtool-f1-ultra-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/products/xtool-f1-ultra-20w-fiber-diode-dual-laser-engraver",
+   "authorHandle": "@beam.supply",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-06-21T08:11:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-002",
+   "pinType": "machine",
+   "lat": 53.374,
+   "lng": -6.2383,
+   "locationPrecision": "city",
+   "displayLocation": "Dublin, Ireland",
+   "title": "xTool F1 Ultra standalone product shot",
+   "media": [
+    "/assets/machines/xtool-f1-ultra-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/products/xtool-f1-ultra-20w-fiber-diode-dual-laser-engraver",
+   "authorHandle": "@ink.garage",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-06-16T20:45:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-003",
+   "pinType": "machine",
+   "lat": 49.2551,
+   "lng": -123.0697,
+   "locationPrecision": "city",
+   "displayLocation": "Vancouver, Canada",
+   "title": "xTool S1 enclosed diode laser cutter product shot",
+   "media": [
+    "/assets/machines/xtool-s1-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/products/xtool-s1-laser-cutter",
+   "authorHandle": "@pixel.co",
+   "machineModels": [
+    "S1"
+   ],
+   "createdAt": "2026-06-23T05:43:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-004",
+   "pinType": "machine",
+   "lat": 41.9394,
+   "lng": 12.4845,
+   "locationPrecision": "city",
+   "displayLocation": "Rome, Italy",
+   "title": "xTool S1 10W black standalone product shot",
+   "media": [
+    "/assets/machines/xtool-s1-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/products/xtool-s1-laser-cutter",
+   "authorHandle": "@etch.designs",
+   "machineModels": [
+    "S1"
+   ],
+   "createdAt": "2026-07-09T09:53:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-005",
+   "pinType": "machine",
+   "lat": 44.9949,
+   "lng": -93.3079,
+   "locationPrecision": "city",
+   "displayLocation": "Minneapolis, MN, USA",
+   "title": "xTool P2S 55W CO2 laser cutter product shot",
+   "media": [
+    "/assets/machines/xtool-p2s-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/products/xtool-p2s-55w-desktop-co2-laser-cutter",
+   "authorHandle": "@shop.made",
+   "machineModels": [
+    "P2S"
+   ],
+   "createdAt": "2026-07-27T15:43:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-006",
+   "pinType": "machine",
+   "lat": 52.3339,
+   "lng": 4.9638,
+   "locationPrecision": "city",
+   "displayLocation": "Amsterdam, Netherlands",
+   "title": "xTool P2S black standalone product shot",
+   "media": [
+    "/assets/machines/xtool-p2s-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/products/xtool-p2s-55w-desktop-co2-laser-cutter",
+   "authorHandle": "@laser.haus",
+   "machineModels": [
+    "P2S"
+   ],
+   "createdAt": "2026-06-15T20:08:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-007",
+   "pinType": "machine",
+   "lat": 35.8146,
+   "lng": -78.6475,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Raleigh, NC, USA",
+   "title": "xTool P3 flagship 80W CO2 laser cutter shot",
+   "media": [
+    "/assets/machines/xtool-p3-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/products/xtool-p3-the-flagship-80w-co2-laser-cutters",
+   "authorHandle": "@works.craftco",
+   "machineModels": [
+    "P3"
+   ],
+   "createdAt": "2026-07-22T08:55:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-008",
+   "pinType": "machine",
+   "lat": 30.2736,
+   "lng": -97.69,
+   "locationPrecision": "city",
+   "displayLocation": "Austin, TX, USA",
+   "title": "xTool F2 portable dual laser engraver shot",
+   "media": [
+    "/assets/machines/xtool-f2-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/products/xtool-f2-5w-ir-15w-diode-portable-dual-laser-engraver",
+   "authorHandle": "@ink.atelier",
+   "machineModels": [
+    "F2"
+   ],
+   "createdAt": "2026-08-02T05:32:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-009",
+   "pinType": "machine",
+   "lat": 43.5902,
+   "lng": -116.2433,
+   "locationPrecision": "city",
+   "displayLocation": "Boise, ID, USA",
+   "title": "xTool F2 Ultra 60W MOPA dual laser shot",
+   "media": [
+    "/assets/machines/xtool-f2-ultra-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/products/xtool-f2-ultra-60w-mopa-40w-diode-dual-laser-engraver",
+   "authorHandle": "@print.loft",
+   "machineModels": [
+    "F2 Ultra"
+   ],
+   "createdAt": "2026-07-20T06:59:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-010",
+   "pinType": "machine",
+   "lat": 39.3349,
+   "lng": -76.6364,
+   "locationPrecision": "city",
+   "displayLocation": "Baltimore, MD, USA",
+   "title": "xTool F2 Ultra UV 5W laser engraver shot",
+   "media": [
+    "/assets/machines/xtool-f2-ultra-uv-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/products/xtool-f2-ultra-uv-5w-uv-laser-engraver",
+   "authorHandle": "@spark.supply",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-06-16T16:26:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-011",
+   "pinType": "machine",
+   "lat": 35.2605,
+   "lng": -80.8395,
+   "locationPrecision": "city",
+   "displayLocation": "Charlotte, NC, USA",
+   "title": "xTool M2 Color Craft laser cutter product shot",
+   "media": [
+    "/assets/machines/xtool-m2-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/products/xtool-m2-color-craft-laser-cutter-engraver",
+   "authorHandle": "@press.lab",
+   "machineModels": [
+    "M2"
+   ],
+   "createdAt": "2026-06-11T20:40:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-012",
+   "pinType": "machine",
+   "lat": 45.5473,
+   "lng": -73.5276,
+   "locationPrecision": "city",
+   "displayLocation": "Montreal, Canada",
+   "title": "xTool MetalFab 800W laser welder product shot",
+   "media": [
+    "/assets/machines/xtool-metalfab-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/products/xtool-metalfab-laser-welder",
+   "authorHandle": "@forge.bros",
+   "machineModels": [
+    "MetalFab"
+   ],
+   "createdAt": "2026-06-08T15:31:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-c-013",
+   "pinType": "creation",
+   "lat": 45.7623,
+   "lng": 4.784,
+   "locationPrecision": "city",
+   "displayLocation": "Lyon, France",
+   "title": "Personalized laser engraved wooden coaster",
+   "media": [
+    "/assets/creations/wood-engraving-coaster.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/business-ideas/wood-burning-ideas",
+   "authorHandle": "@spark.designs",
+   "machineModels": [],
+   "createdAt": "2026-07-24T09:08:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-014",
+   "pinType": "creation",
+   "lat": 40.7161,
+   "lng": -73.9932,
+   "locationPrecision": "city",
+   "displayLocation": "New York, NY, USA",
+   "title": "Laser engraved wooden cutting board",
+   "media": [
+    "/assets/creations/wood-engraving-cutting-board.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/business-ideas/wood-burning-ideas",
+   "authorHandle": "@wood.andco",
+   "machineModels": [],
+   "createdAt": "2026-08-05T05:08:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-015",
+   "pinType": "creation",
+   "lat": 38.6196,
+   "lng": -90.1973,
+   "locationPrecision": "city",
+   "displayLocation": "St. Louis, MO, USA",
+   "title": "Laser engraved wooden wall clock",
+   "media": [
+    "/assets/creations/wood-engraving-wall-clock.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/business-ideas/wood-burning-ideas",
+   "authorHandle": "@craft.goods",
+   "machineModels": [],
+   "createdAt": "2026-06-03T01:00:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-016",
+   "pinType": "creation",
+   "lat": 48.1758,
+   "lng": 16.3402,
+   "locationPrecision": "city",
+   "displayLocation": "Vienna, Austria",
+   "title": "Photo portrait laser engraved on wood",
+   "media": [
+    "/assets/creations/wood-engraving-photo-portrait.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/business-ideas/wood-burning-ideas",
+   "authorHandle": "@forge.works",
+   "machineModels": [],
+   "createdAt": "2026-06-04T01:11:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-017",
+   "pinType": "creation",
+   "lat": 51.8729,
+   "lng": 4.4463,
+   "locationPrecision": "city",
+   "displayLocation": "Rotterdam, Netherlands",
+   "title": "Laser engraved acrylic award trophy",
+   "media": [
+    "/assets/creations/acrylic-engraving-award.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/acrylic-engraving",
+   "authorHandle": "@ink.den",
+   "machineModels": [],
+   "createdAt": "2026-07-26T10:37:00Z",
+   "demo": true,
+   "materials": [
+    "acrylic"
+   ]
+  },
+  {
+   "id": "demo-c-018",
+   "pinType": "creation",
+   "lat": 39.9218,
+   "lng": -75.1684,
+   "locationPrecision": "city",
+   "displayLocation": "Philadelphia, PA, USA",
+   "title": "Engraved acrylic LED light sign",
+   "media": [
+    "/assets/creations/acrylic-engraving-led-light.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/acrylic-engraving",
+   "authorHandle": "@grain.made",
+   "machineModels": [],
+   "createdAt": "2026-07-05T09:34:00Z",
+   "demo": true,
+   "materials": [
+    "acrylic"
+   ]
+  },
+  {
+   "id": "demo-c-019",
+   "pinType": "creation",
+   "lat": 29.7564,
+   "lng": -95.3423,
+   "locationPrecision": "city",
+   "displayLocation": "Houston, TX, USA",
+   "title": "Laser engraved acrylic keychains",
+   "media": [
+    "/assets/creations/acrylic-engraving-keychain.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/acrylic-engraving",
+   "authorHandle": "@laser.andco",
+   "machineModels": [],
+   "createdAt": "2026-07-03T22:37:00Z",
+   "demo": true,
+   "materials": [
+    "acrylic"
+   ]
+  },
+  {
+   "id": "demo-c-020",
+   "pinType": "creation",
+   "lat": 47.5593,
+   "lng": -122.3691,
+   "locationPrecision": "city",
+   "displayLocation": "Seattle, WA, USA",
+   "title": "Laser engraved leather hat patch",
+   "media": [
+    "/assets/creations/leather-engraving-hat-patch.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/business-ideas/leather-projects-that-sell",
+   "authorHandle": "@cut.loft",
+   "machineModels": [],
+   "createdAt": "2026-06-28T01:03:00Z",
+   "demo": true,
+   "materials": [
+    "leather"
+   ]
+  },
+  {
+   "id": "demo-c-021",
+   "pinType": "creation",
+   "lat": 49.3276,
+   "lng": -123.1717,
+   "locationPrecision": "city",
+   "displayLocation": "Vancouver, Canada",
+   "title": "Personalized laser engraved leather wallet",
+   "media": [
+    "/assets/creations/leather-engraving-wallet.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/business-ideas/leather-projects-that-sell",
+   "authorHandle": "@laser.workshop",
+   "machineModels": [],
+   "createdAt": "2026-06-02T10:23:00Z",
+   "demo": true,
+   "materials": [
+    "leather"
+   ]
+  },
+  {
+   "id": "demo-c-022",
+   "pinType": "creation",
+   "lat": -36.7973,
+   "lng": 174.8051,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Auckland, New Zealand",
+   "title": "Laser cut leather earrings",
+   "media": [
+    "/assets/creations/leather-cut-earrings.png"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/business-ideas/leather-projects-that-sell",
+   "authorHandle": "@press.shed",
+   "machineModels": [],
+   "createdAt": "2026-07-09T22:29:00Z",
+   "demo": true,
+   "materials": [
+    "leather"
+   ]
+  },
+  {
+   "id": "demo-c-023",
+   "pinType": "creation",
+   "lat": 45.475,
+   "lng": -122.7381,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Portland, OR, USA",
+   "title": "Personalized laser etched wine glass",
+   "media": [
+    "/assets/creations/glass-etching-wine-glass.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/business-ideas/glass-etching-ideas",
+   "authorHandle": "@wood.made",
+   "machineModels": [],
+   "createdAt": "2026-08-07T15:10:00Z",
+   "demo": true,
+   "materials": [
+    "glass"
+   ]
+  },
+  {
+   "id": "demo-c-024",
+   "pinType": "creation",
+   "lat": 48.9161,
+   "lng": 2.3589,
+   "locationPrecision": "city",
+   "displayLocation": "Paris, France",
+   "title": "Laser cut wooden Christmas ornament",
+   "media": [
+    "/assets/creations/wood-cut-christmas-ornament.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/business-ideas/laser-cut-christmas-ornaments",
+   "authorHandle": "@etch.collective",
+   "machineModels": [],
+   "createdAt": "2026-06-22T03:16:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-m-025",
+   "pinType": "machine",
+   "lat": -36.839,
+   "lng": 174.7684,
+   "locationPrecision": "city",
+   "displayLocation": "Auckland, New Zealand",
+   "title": "xTool O1 Omni printer on a studio worktable",
+   "media": [
+    "/assets/machines/o1-omni-real-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/xtool-o1-uv-dtf-dtg-printing",
+   "authorHandle": "@laser.bros",
+   "machineModels": [
+    "O1 Omni"
+   ],
+   "createdAt": "2026-07-17T06:59:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-026",
+   "pinType": "machine",
+   "lat": 28.5806,
+   "lng": -81.4203,
+   "locationPrecision": "city",
+   "displayLocation": "Orlando, FL, USA",
+   "title": "UV DTF printing in progress on xTool O1 Omni",
+   "media": [
+    "/assets/machines/o1-omni-real-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/uv-dtf-printer",
+   "authorHandle": "@burn.works",
+   "machineModels": [
+    "O1 Omni"
+   ],
+   "createdAt": "2026-07-28T18:31:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-027",
+   "pinType": "machine",
+   "lat": 45.8074,
+   "lng": 4.8242,
+   "locationPrecision": "city",
+   "displayLocation": "Lyon, France",
+   "title": "O1 Omni printing a design onto transfer film",
+   "media": [
+    "/assets/machines/o1-omni-real-03.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/uv-dtf-printer",
+   "authorHandle": "@shop.sis",
+   "machineModels": [
+    "O1 Omni"
+   ],
+   "createdAt": "2026-06-04T20:36:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-028",
+   "pinType": "machine",
+   "lat": 52.22,
+   "lng": 21.0222,
+   "locationPrecision": "city",
+   "displayLocation": "Warsaw, Poland",
+   "title": "xTool Apparel Printer in a print shop scene",
+   "media": [
+    "/assets/machines/apparel-printer-real-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/xtool-apparel-printer-review",
+   "authorHandle": "@etch.goods",
+   "machineModels": [
+    "Apparel Printer"
+   ],
+   "createdAt": "2026-06-24T04:10:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-029",
+   "pinType": "machine",
+   "lat": 47.3326,
+   "lng": 8.5592,
+   "locationPrecision": "city",
+   "displayLocation": "Zurich, Switzerland",
+   "title": "Printing shirts with the xTool Apparel Printer",
+   "media": [
+    "/assets/machines/apparel-printer-real-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/xtool-apparel-printer-review",
+   "authorHandle": "@maker.craftco",
+   "machineModels": [
+    "Apparel Printer"
+   ],
+   "createdAt": "2026-07-31T07:24:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-030",
+   "pinType": "machine",
+   "lat": 42.3909,
+   "lng": -83.097,
+   "locationPrecision": "city",
+   "displayLocation": "Detroit, MI, USA",
+   "title": "xTool Apparel Printer in a small business workshop",
+   "media": [
+    "/assets/machines/apparel-printer-real-03.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/best-dtf-printer-for-small-business",
+   "authorHandle": "@craft.garage",
+   "machineModels": [
+    "Apparel Printer"
+   ],
+   "createdAt": "2026-07-06T21:03:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-031",
+   "pinType": "machine",
+   "lat": 47.3695,
+   "lng": 8.5469,
+   "locationPrecision": "city",
+   "displayLocation": "Zurich, Switzerland",
+   "title": "Powder shaker oven working with Apparel Printer",
+   "media": [
+    "/assets/machines/apparel-printer-real-04.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/how-to/how-to-make-dtf-transfers",
+   "authorHandle": "@ink.collective",
+   "machineModels": [
+    "Apparel Printer"
+   ],
+   "createdAt": "2026-08-04T09:48:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-032",
+   "pinType": "machine",
+   "lat": 45.8094,
+   "lng": 4.8074,
+   "locationPrecision": "city",
+   "displayLocation": "Lyon, France",
+   "title": "Creator with xTool WonderPress in a craft room",
+   "media": [
+    "/assets/machines/wonderpress-real-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/products/xtool-wonderpress-modular-auto-heat-press-for-2d-transfers-and-3d-creations",
+   "authorHandle": "@studio.collective",
+   "machineModels": [
+    "WonderPress"
+   ],
+   "createdAt": "2026-07-29T17:21:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-033",
+   "pinType": "machine",
+   "lat": 30.2483,
+   "lng": -97.7206,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Austin, TX, USA",
+   "title": "WonderPress with modules in a creator studio",
+   "media": [
+    "/assets/machines/wonderpress-real-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/products/xtool-wonderpress-modular-auto-heat-press-for-2d-transfers-and-3d-creations",
+   "authorHandle": "@studio.co",
+   "machineModels": [
+    "WonderPress"
+   ],
+   "createdAt": "2026-06-09T23:04:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-034",
+   "pinType": "machine",
+   "lat": 35.8191,
+   "lng": -78.6929,
+   "locationPrecision": "city",
+   "displayLocation": "Raleigh, NC, USA",
+   "title": "xTool Screen Printer station in a workshop",
+   "media": [
+    "/assets/machines/screen-printer-real-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/screen-printing-machines-for-small-business",
+   "authorHandle": "@studio.loft",
+   "machineModels": [
+    "Screen Printer"
+   ],
+   "createdAt": "2026-07-13T21:33:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-035",
+   "pinType": "machine",
+   "lat": 41.3764,
+   "lng": 2.1146,
+   "locationPrecision": "city",
+   "displayLocation": "Barcelona, Spain",
+   "title": "Screen printing a shirt with xTool Screen Printer",
+   "media": [
+    "/assets/machines/screen-printer-real-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/screen-printing-machines-for-small-business",
+   "authorHandle": "@ink.co",
+   "machineModels": [
+    "Screen Printer"
+   ],
+   "createdAt": "2026-07-06T20:20:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-036",
+   "pinType": "machine",
+   "lat": 39.9104,
+   "lng": -75.2099,
+   "locationPrecision": "city",
+   "displayLocation": "Philadelphia, PA, USA",
+   "title": "Family screen printing with xTool S1 and Screen Printer",
+   "media": [
+    "/assets/machines/screen-printer-real-03.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/how-xtool-reinvents-screen-printing",
+   "authorHandle": "@beam.shed",
+   "machineModels": [
+    "Screen Printer"
+   ],
+   "createdAt": "2026-08-06T05:19:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-037",
+   "pinType": "machine",
+   "lat": 30.2195,
+   "lng": -97.7095,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Austin, TX, USA",
+   "title": "xTool S1 enclosed laser on a desk",
+   "media": [
+    "/assets/machines/s1-real-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-engraver-for-beginners",
+   "authorHandle": "@works.den",
+   "machineModels": [
+    "S1"
+   ],
+   "createdAt": "2026-06-23T23:38:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-038",
+   "pinType": "machine",
+   "lat": 52.5433,
+   "lng": -1.8531,
+   "locationPrecision": "city",
+   "displayLocation": "Birmingham, UK",
+   "title": "xTool S1 diode laser engraver in use",
+   "media": [
+    "/assets/machines/s1-real-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-cutter-for-small-business",
+   "authorHandle": "@burn.goods",
+   "machineModels": [
+    "S1"
+   ],
+   "createdAt": "2026-07-10T23:21:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-039",
+   "pinType": "machine",
+   "lat": 47.6499,
+   "lng": -122.2948,
+   "locationPrecision": "city",
+   "displayLocation": "Seattle, WA, USA",
+   "title": "xTool M2 crafting felt projects on a desk",
+   "media": [
+    "/assets/machines/m2-real-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/news/introducing-xtool-m2",
+   "authorHandle": "@glow.co",
+   "machineModels": [
+    "M2"
+   ],
+   "createdAt": "2026-07-16T16:47:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-040",
+   "pinType": "machine",
+   "lat": 30.3052,
+   "lng": -97.7479,
+   "locationPrecision": "city",
+   "displayLocation": "Austin, TX, USA",
+   "title": "xTool M2 craft machine on a work desk",
+   "media": [
+    "/assets/machines/m2-real-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/how-to/heat-press-a-shirt",
+   "authorHandle": "@forge.lab",
+   "machineModels": [
+    "M2"
+   ],
+   "createdAt": "2026-08-04T01:59:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-041",
+   "pinType": "machine",
+   "lat": 40.6922,
+   "lng": -73.9623,
+   "locationPrecision": "city",
+   "displayLocation": "New York, NY, USA",
+   "title": "xTool F1 portable engraver on a desk",
+   "media": [
+    "/assets/machines/f1-real-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-engraver-for-beginners",
+   "authorHandle": "@beam.studio",
+   "machineModels": [
+    "F1"
+   ],
+   "createdAt": "2026-07-09T19:19:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-042",
+   "pinType": "machine",
+   "lat": 53.5923,
+   "lng": 9.9734,
+   "locationPrecision": "city",
+   "displayLocation": "Hamburg, Germany",
+   "title": "xTool F1 at a maker craft fair booth",
+   "media": [
+    "/assets/machines/f1-real-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/galvo-laser-engraver",
+   "authorHandle": "@burn.bros",
+   "machineModels": [
+    "F1"
+   ],
+   "createdAt": "2026-06-26T18:34:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-043",
+   "pinType": "machine",
+   "lat": -33.8572,
+   "lng": 151.1908,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Sydney, Australia",
+   "title": "xTool F1 Ultra engraving metal on a desk",
+   "media": [
+    "/assets/machines/f1-ultra-real-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-engraver-for-beginners",
+   "authorHandle": "@works.studio",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-06-12T05:28:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-044",
+   "pinType": "machine",
+   "lat": 36.1719,
+   "lng": -86.811,
+   "locationPrecision": "city",
+   "displayLocation": "Nashville, TN, USA",
+   "title": "F1 Ultra batch engraving flasks with conveyor",
+   "media": [
+    "/assets/machines/f1-ultra-real-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving",
+   "authorHandle": "@print.workshop",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-08-06T16:29:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-045",
+   "pinType": "machine",
+   "lat": 52.549,
+   "lng": 13.4255,
+   "locationPrecision": "city",
+   "displayLocation": "Berlin, Germany",
+   "title": "xTool F2 Ultra on an office workbench",
+   "media": [
+    "/assets/machines/f2-ultra-real-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-engraver-for-small-business",
+   "authorHandle": "@pixel.sis",
+   "machineModels": [
+    "F2 Ultra"
+   ],
+   "createdAt": "2026-07-01T11:28:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-046",
+   "pinType": "machine",
+   "lat": 53.3048,
+   "lng": -6.2123,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Dublin, Ireland",
+   "title": "xTool F2 Ultra in a maker studio",
+   "media": [
+    "/assets/machines/f2-ultra-real-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving",
+   "authorHandle": "@pixel.andco",
+   "machineModels": [
+    "F2 Ultra"
+   ],
+   "createdAt": "2026-08-07T16:36:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-047",
+   "pinType": "machine",
+   "lat": 47.3322,
+   "lng": 8.5322,
+   "locationPrecision": "city",
+   "displayLocation": "Zurich, Switzerland",
+   "title": "xTool F2 Ultra UV engraving glass",
+   "media": [
+    "/assets/machines/f2-ultra-uv-real-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/6-high-margin-uv-laser-glass-crystal-engraving-projects",
+   "authorHandle": "@works.bros",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-06-30T05:15:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-048",
+   "pinType": "machine",
+   "lat": 52.4076,
+   "lng": 4.8806,
+   "locationPrecision": "city",
+   "displayLocation": "Amsterdam, Netherlands",
+   "title": "xTool P2S 55W CO2 laser cutter in a studio",
+   "media": [
+    "/assets/machines/p2s-real-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-cutter-for-small-business",
+   "authorHandle": "@mark.craftco",
+   "machineModels": [
+    "P2S"
+   ],
+   "createdAt": "2026-07-13T22:18:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-049",
+   "pinType": "machine",
+   "lat": 53.5524,
+   "lng": 10.0289,
+   "locationPrecision": "city",
+   "displayLocation": "Hamburg, Germany",
+   "title": "xTool P2 with passthrough in a workshop",
+   "media": [
+    "/assets/machines/p2-real-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-cutter-for-small-business",
+   "authorHandle": "@craft.collective",
+   "machineModels": [
+    "P2"
+   ],
+   "createdAt": "2026-07-21T01:05:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-050",
+   "pinType": "machine",
+   "lat": 53.3641,
+   "lng": -6.3091,
+   "locationPrecision": "city",
+   "displayLocation": "Dublin, Ireland",
+   "title": "xTool P3 CO2 laser cutter in a craft room",
+   "media": [
+    "/assets/machines/p3-real-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-engraver-for-small-business",
+   "authorHandle": "@wood.garage",
+   "machineModels": [
+    "P3"
+   ],
+   "createdAt": "2026-06-20T08:00:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-051",
+   "pinType": "machine",
+   "lat": 36.1154,
+   "lng": -115.0817,
+   "locationPrecision": "city",
+   "displayLocation": "Las Vegas, NV, USA",
+   "title": "xTool MetalFab laser welder in use",
+   "media": [
+    "/assets/machines/metalfab-real-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/news/introducing-metalfab",
+   "authorHandle": "@mark.made",
+   "machineModels": [
+    "MetalFab"
+   ],
+   "createdAt": "2026-08-01T03:27:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-052",
+   "pinType": "machine",
+   "lat": 39.9788,
+   "lng": -75.1791,
+   "locationPrecision": "city",
+   "displayLocation": "Philadelphia, PA, USA",
+   "title": "MetalFab welding a metal joint close-up",
+   "media": [
+    "/assets/machines/metalfab-real-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/news/introducing-metalfab",
+   "authorHandle": "@maker.haus",
+   "machineModels": [
+    "MetalFab"
+   ],
+   "createdAt": "2026-07-12T06:39:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-053",
+   "pinType": "machine",
+   "lat": 30.3037,
+   "lng": -97.7196,
+   "locationPrecision": "city",
+   "displayLocation": "Austin, TX, USA",
+   "title": "xTool M1 Ultra hobby craft machine on a desk",
+   "media": [
+    "/assets/machines/m1-ultra-real-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/best-laser-engraver-for-beginners",
+   "authorHandle": "@grain.craftco",
+   "machineModels": [
+    "M1 Ultra"
+   ],
+   "createdAt": "2026-06-13T22:42:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-c-054",
+   "pinType": "creation",
+   "lat": 47.6263,
+   "lng": -122.2736,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Seattle, WA, USA",
+   "title": "Laser engraved wooden gift box and cork coasters",
+   "media": [
+    "/assets/creations/wood-gift-box-coasters-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/reina-byus-boutique-f2u-uv",
+   "authorHandle": "@cut.workshop",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-14T07:03:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-055",
+   "pinType": "creation",
+   "lat": 45.5444,
+   "lng": -122.6814,
+   "locationPrecision": "city",
+   "displayLocation": "Portland, OR, USA",
+   "title": "Engraved wooden charcuterie board",
+   "media": [
+    "/assets/creations/wood-charcuterie-board-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/business-ideas/engraved-gifts",
+   "authorHandle": "@studio.studio",
+   "machineModels": [],
+   "createdAt": "2026-07-18T01:11:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-056",
+   "pinType": "creation",
+   "lat": 35.7526,
+   "lng": -78.6889,
+   "locationPrecision": "city",
+   "displayLocation": "Raleigh, NC, USA",
+   "title": "Home Sweet Home engraved wooden door sign",
+   "media": [
+    "/assets/creations/wood-door-sign-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/business-ideas/engraved-gifts",
+   "authorHandle": "@pixel.goods",
+   "machineModels": [],
+   "createdAt": "2026-07-23T10:38:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-057",
+   "pinType": "creation",
+   "lat": 45.7221,
+   "lng": 4.8217,
+   "locationPrecision": "city",
+   "displayLocation": "Lyon, France",
+   "title": "Engraved wooden welcome home sign",
+   "media": [
+    "/assets/creations/wood-welcome-sign-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/business-ideas/engraved-gifts",
+   "authorHandle": "@craft.made",
+   "machineModels": [
+    "P2"
+   ],
+   "createdAt": "2026-07-10T13:46:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-058",
+   "pinType": "creation",
+   "lat": 55.672,
+   "lng": 12.5158,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Copenhagen, Denmark",
+   "title": "Engraved wooden rolling pin",
+   "media": [
+    "/assets/creations/wood-rolling-pin-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/business-ideas/engraved-gifts",
+   "authorHandle": "@shop.lab",
+   "machineModels": [
+    "M1"
+   ],
+   "createdAt": "2026-07-26T21:27:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-059",
+   "pinType": "creation",
+   "lat": 36.1034,
+   "lng": -86.7994,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Nashville, TN, USA",
+   "title": "Engraved wooden kitchen spoons",
+   "media": [
+    "/assets/creations/wood-spoons-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/business-ideas/engraved-gifts",
+   "authorHandle": "@ink.workshop",
+   "machineModels": [],
+   "createdAt": "2026-07-29T13:40:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-060",
+   "pinType": "creation",
+   "lat": 45.5138,
+   "lng": -122.7056,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Portland, OR, USA",
+   "title": "Laser engraved stainless steel tumbler",
+   "media": [
+    "/assets/creations/metal-tumbler-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving",
+   "authorHandle": "@burn.craftco",
+   "machineModels": [],
+   "createdAt": "2026-06-13T09:23:00Z",
+   "demo": true,
+   "materials": [
+    "metal"
+   ]
+  },
+  {
+   "id": "demo-c-061",
+   "pinType": "creation",
+   "lat": 51.0488,
+   "lng": -114.0231,
+   "locationPrecision": "city",
+   "displayLocation": "Calgary, Canada",
+   "title": "Laser engraved metal business card case",
+   "media": [
+    "/assets/creations/metal-business-card-case-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving",
+   "authorHandle": "@spark.craftco",
+   "machineModels": [],
+   "createdAt": "2026-06-18T15:27:00Z",
+   "demo": true,
+   "materials": [
+    "metal"
+   ]
+  },
+  {
+   "id": "demo-c-062",
+   "pinType": "creation",
+   "lat": -33.8833,
+   "lng": 151.1747,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Sydney, Australia",
+   "title": "Laser engraved metal jewelry pieces",
+   "media": [
+    "/assets/creations/metal-jewelry-01.png"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving",
+   "authorHandle": "@studio.made",
+   "machineModels": [],
+   "createdAt": "2026-06-25T11:50:00Z",
+   "demo": true,
+   "materials": [
+    "metal"
+   ]
+  },
+  {
+   "id": "demo-c-063",
+   "pinType": "creation",
+   "lat": 45.4606,
+   "lng": 9.2199,
+   "locationPrecision": "city",
+   "displayLocation": "Milan, Italy",
+   "title": "Laser engraved copper coins",
+   "media": [
+    "/assets/creations/metal-copper-coins-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving",
+   "authorHandle": "@laser.lab",
+   "machineModels": [],
+   "createdAt": "2026-06-25T00:12:00Z",
+   "demo": true,
+   "materials": [
+    "metal"
+   ]
+  },
+  {
+   "id": "demo-c-064",
+   "pinType": "creation",
+   "lat": 40.6552,
+   "lng": -74.0477,
+   "locationPrecision": "city",
+   "displayLocation": "New York, NY, USA",
+   "title": "Laser engraved metal pet tags",
+   "media": [
+    "/assets/creations/metal-pet-tags-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving",
+   "authorHandle": "@shop.shed",
+   "machineModels": [],
+   "createdAt": "2026-07-16T03:36:00Z",
+   "demo": true,
+   "materials": [
+    "metal"
+   ]
+  },
+  {
+   "id": "demo-c-065",
+   "pinType": "creation",
+   "lat": 50.8823,
+   "lng": 4.3118,
+   "locationPrecision": "city",
+   "displayLocation": "Brussels, Belgium",
+   "title": "Laser engraved metal guitar picks",
+   "media": [
+    "/assets/creations/metal-guitar-picks-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving",
+   "authorHandle": "@burn.collective",
+   "machineModels": [],
+   "createdAt": "2026-06-11T11:53:00Z",
+   "demo": true,
+   "materials": [
+    "metal"
+   ]
+  },
+  {
+   "id": "demo-c-066",
+   "pinType": "creation",
+   "lat": 40.0041,
+   "lng": -75.1561,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Philadelphia, PA, USA",
+   "title": "Color laser engraving on a metal plate",
+   "media": [
+    "/assets/creations/metal-color-engraving-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/metal-engraving",
+   "authorHandle": "@glow.shed",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-06-08T09:05:00Z",
+   "demo": true,
+   "materials": [
+    "metal"
+   ]
+  },
+  {
+   "id": "demo-c-067",
+   "pinType": "creation",
+   "lat": 48.2479,
+   "lng": 16.3429,
+   "locationPrecision": "city",
+   "displayLocation": "Vienna, Austria",
+   "title": "Engraved tumbler and leather koozie merch batch",
+   "media": [
+    "/assets/creations/engraved-tumbler-merch-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/the-coleman-twins-p3",
+   "authorHandle": "@works.haus",
+   "machineModels": [
+    "P3"
+   ],
+   "createdAt": "2026-07-25T22:43:00Z",
+   "demo": true,
+   "materials": [
+    "leather"
+   ]
+  },
+  {
+   "id": "demo-c-068",
+   "pinType": "creation",
+   "lat": 25.7434,
+   "lng": -80.2004,
+   "locationPrecision": "city",
+   "displayLocation": "Miami, FL, USA",
+   "title": "Custom engraved wedding champagne glasses",
+   "media": [
+    "/assets/creations/glass-champagne-glasses-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/reina-byus-boutique-f2u-uv",
+   "authorHandle": "@maker.made",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-18T14:15:00Z",
+   "demo": true,
+   "materials": [
+    "glass"
+   ]
+  },
+  {
+   "id": "demo-c-069",
+   "pinType": "creation",
+   "lat": 36.2252,
+   "lng": -115.1235,
+   "locationPrecision": "city",
+   "displayLocation": "Las Vegas, NV, USA",
+   "title": "Wedding wine box with engraved glasses set",
+   "media": [
+    "/assets/creations/glass-wine-box-set-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/reina-byus-boutique-f2u-uv",
+   "authorHandle": "@print.atelier",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-30T19:10:00Z",
+   "demo": true,
+   "materials": [
+    "glass"
+   ]
+  },
+  {
+   "id": "demo-c-070",
+   "pinType": "creation",
+   "lat": 33.7536,
+   "lng": -84.39,
+   "locationPrecision": "city",
+   "displayLocation": "Atlanta, GA, USA",
+   "title": "Laser engraved crystal photo keychain",
+   "media": [
+    "/assets/creations/glass-crystal-keychain-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/reina-byus-boutique-f2u-uv",
+   "authorHandle": "@pixel.garage",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-06-09T09:56:00Z",
+   "demo": true,
+   "materials": [
+    "glass"
+   ]
+  },
+  {
+   "id": "demo-c-071",
+   "pinType": "creation",
+   "lat": 47.371,
+   "lng": 8.5718,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Zurich, Switzerland",
+   "title": "Corporate crystal award engraved with UV laser",
+   "media": [
+    "/assets/creations/glass-crystal-award-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/6-high-margin-uv-laser-glass-crystal-engraving-projects",
+   "authorHandle": "@pixel.lab",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-18T23:49:00Z",
+   "demo": true,
+   "materials": [
+    "glass",
+    "UV print"
+   ]
+  },
+  {
+   "id": "demo-c-072",
+   "pinType": "creation",
+   "lat": -37.8518,
+   "lng": 144.9286,
+   "locationPrecision": "city",
+   "displayLocation": "Melbourne, Australia",
+   "title": "Engraved liquor bottle with custom design",
+   "media": [
+    "/assets/creations/glass-liquor-bottle-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/6-high-margin-uv-laser-glass-crystal-engraving-projects",
+   "authorHandle": "@studio.sis",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-08-08T01:52:00Z",
+   "demo": true,
+   "materials": [
+    "glass"
+   ]
+  },
+  {
+   "id": "demo-c-073",
+   "pinType": "creation",
+   "lat": 50.0822,
+   "lng": 14.4398,
+   "locationPrecision": "city",
+   "displayLocation": "Prague, Czechia",
+   "title": "3D subsurface engraved crystal souvenir",
+   "media": [
+    "/assets/creations/glass-3d-souvenir-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/6-high-margin-uv-laser-glass-crystal-engraving-projects",
+   "authorHandle": "@cut.designs",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-24T21:39:00Z",
+   "demo": true,
+   "materials": [
+    "glass",
+    "UV print"
+   ]
+  },
+  {
+   "id": "demo-c-074",
+   "pinType": "creation",
+   "lat": 32.7386,
+   "lng": -117.1436,
+   "locationPrecision": "city",
+   "displayLocation": "San Diego, CA, USA",
+   "title": "Leather wallet engraved with a pet photo",
+   "media": [
+    "/assets/creations/leather-wallet-pet-photo-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/reina-byus-boutique-f2u-uv",
+   "authorHandle": "@forge.andco",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-08-07T03:58:00Z",
+   "demo": true,
+   "materials": [
+    "leather"
+   ]
+  },
+  {
+   "id": "demo-c-075",
+   "pinType": "creation",
+   "lat": 30.2869,
+   "lng": -97.7588,
+   "locationPrecision": "city",
+   "displayLocation": "Austin, TX, USA",
+   "title": "UV printed design on laser cut leather",
+   "media": [
+    "/assets/creations/leather-uv-print-01.png"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/uv-print-plus-laser-cut-ecosystem",
+   "authorHandle": "@pixel.supply",
+   "machineModels": [
+    "O1 Omni"
+   ],
+   "createdAt": "2026-08-08T05:46:00Z",
+   "demo": true,
+   "materials": [
+    "leather",
+    "UV print"
+   ]
+  },
+  {
+   "id": "demo-c-076",
+   "pinType": "creation",
+   "lat": 49.2595,
+   "lng": -123.153,
+   "locationPrecision": "city",
+   "displayLocation": "Vancouver, Canada",
+   "title": "Laser engraved Be My Valentine ceramic mug",
+   "media": [
+    "/assets/creations/ceramic-mug-valentine-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/how-to/laser-engrave-mug",
+   "authorHandle": "@grain.workshop",
+   "machineModels": [],
+   "createdAt": "2026-08-07T00:11:00Z",
+   "demo": true,
+   "materials": [
+    "ceramic"
+   ]
+  },
+  {
+   "id": "demo-c-077",
+   "pinType": "creation",
+   "lat": 40.6788,
+   "lng": -74.0079,
+   "locationPrecision": "city",
+   "displayLocation": "New York, NY, USA",
+   "title": "Set of laser engraved ceramic mugs",
+   "media": [
+    "/assets/creations/ceramic-mugs-engraved-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/how-to/laser-engrave-mug",
+   "authorHandle": "@grain.shed",
+   "machineModels": [],
+   "createdAt": "2026-06-29T18:18:00Z",
+   "demo": true,
+   "materials": [
+    "ceramic"
+   ]
+  },
+  {
+   "id": "demo-c-078",
+   "pinType": "creation",
+   "lat": 30.2287,
+   "lng": -97.8014,
+   "locationPrecision": "city",
+   "displayLocation": "Austin, TX, USA",
+   "title": "Finished personalized engraved tumbler",
+   "media": [
+    "/assets/creations/tumbler-personalized-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/how-to/make-personalized-tumblers",
+   "authorHandle": "@laser.co",
+   "machineModels": [],
+   "createdAt": "2026-07-24T17:25:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-079",
+   "pinType": "creation",
+   "lat": 47.4302,
+   "lng": 8.5582,
+   "locationPrecision": "city",
+   "displayLocation": "Zurich, Switzerland",
+   "title": "UV printed travel-themed phone cases",
+   "media": [
+    "/assets/creations/uv-print-phone-case-01.png"
+   ],
+   "sourcePlatform": "atomm.com",
+   "sourcePostUrl": "https://www.atomm.com/blog/2610-what-is-xtool-wonderpress",
+   "authorHandle": "@maker.bros",
+   "machineModels": [
+    "O1 Omni"
+   ],
+   "createdAt": "2026-06-28T14:33:00Z",
+   "demo": true,
+   "materials": [
+    "UV print"
+   ]
+  },
+  {
+   "id": "demo-c-080",
+   "pinType": "creation",
+   "lat": 38.5745,
+   "lng": -121.5323,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Sacramento, CA, USA",
+   "title": "UV printed art on laser cut acrylic piece",
+   "media": [
+    "/assets/creations/uv-print-acrylic-01.png"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/uv-print-plus-laser-cut-ecosystem",
+   "authorHandle": "@grain.works",
+   "machineModels": [
+    "O1 Omni"
+   ],
+   "createdAt": "2026-07-09T21:42:00Z",
+   "demo": true,
+   "materials": [
+    "acrylic",
+    "UV print"
+   ]
+  },
+  {
+   "id": "demo-c-081",
+   "pinType": "creation",
+   "lat": 38.5908,
+   "lng": -121.472,
+   "locationPrecision": "city",
+   "displayLocation": "Sacramento, CA, USA",
+   "title": "UV printed artwork on canvas",
+   "media": [
+    "/assets/creations/uv-print-canvas-01.png"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/what-is-uv-printer",
+   "authorHandle": "@cut.sis",
+   "machineModels": [
+    "O1 Omni"
+   ],
+   "createdAt": "2026-07-28T21:04:00Z",
+   "demo": true,
+   "materials": [
+    "UV print"
+   ]
+  },
+  {
+   "id": "demo-c-082",
+   "pinType": "creation",
+   "lat": 40.3839,
+   "lng": -3.7011,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Madrid, Spain",
+   "title": "UV printed personalized everyday objects",
+   "media": [
+    "/assets/creations/uv-print-objects-01.png"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/what-is-uv-printer",
+   "authorHandle": "@wood.bros",
+   "machineModels": [
+    "O1 Omni"
+   ],
+   "createdAt": "2026-07-12T15:14:00Z",
+   "demo": true,
+   "materials": [
+    "UV print"
+   ]
+  },
+  {
+   "id": "demo-c-083",
+   "pinType": "creation",
+   "lat": 47.3914,
+   "lng": 8.5549,
+   "locationPrecision": "city",
+   "displayLocation": "Zurich, Switzerland",
+   "title": "Waterproof UV DTF printed stickers",
+   "media": [
+    "/assets/creations/uv-dtf-stickers-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/uv-dtf-printer",
+   "authorHandle": "@etch.atelier",
+   "machineModels": [
+    "O1 Omni"
+   ],
+   "createdAt": "2026-08-04T02:54:00Z",
+   "demo": true,
+   "materials": [
+    "UV print",
+    "DTF print"
+   ]
+  },
+  {
+   "id": "demo-c-084",
+   "pinType": "creation",
+   "lat": 45.7328,
+   "lng": 4.8419,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Lyon, France",
+   "title": "UV DTF laminated wedding invitation",
+   "media": [
+    "/assets/creations/uv-dtf-wedding-invitation-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/uv-dtf-printer",
+   "authorHandle": "@mark.sis",
+   "machineModels": [
+    "O1 Omni"
+   ],
+   "createdAt": "2026-07-16T14:58:00Z",
+   "demo": true,
+   "materials": [
+    "UV print",
+    "DTF print"
+   ]
+  },
+  {
+   "id": "demo-c-085",
+   "pinType": "creation",
+   "lat": 47.3447,
+   "lng": 8.5665,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Zurich, Switzerland",
+   "title": "Custom prints on posters shoes cases and tumblers",
+   "media": [
+    "/assets/creations/uv-print-products-mix-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/xtool-o1-uv-dtf-dtg-printing",
+   "authorHandle": "@studio.bros",
+   "machineModels": [
+    "O1 Omni"
+   ],
+   "createdAt": "2026-08-04T04:40:00Z",
+   "demo": true,
+   "materials": [
+    "UV print"
+   ]
+  },
+  {
+   "id": "demo-c-086",
+   "pinType": "creation",
+   "lat": 47.5699,
+   "lng": -122.3783,
+   "locationPrecision": "city",
+   "displayLocation": "Seattle, WA, USA",
+   "title": "DTF printed custom T-shirts",
+   "media": [
+    "/assets/creations/dtf-tshirt-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/xtool-apparel-printer-review",
+   "authorHandle": "@studio.den",
+   "machineModels": [
+    "Apparel Printer"
+   ],
+   "createdAt": "2026-06-07T22:23:00Z",
+   "demo": true,
+   "materials": [
+    "DTF print"
+   ]
+  },
+  {
+   "id": "demo-c-087",
+   "pinType": "creation",
+   "lat": 45.7991,
+   "lng": 4.8471,
+   "locationPrecision": "city",
+   "displayLocation": "Lyon, France",
+   "title": "DTF printed hoodies and sweatshirts",
+   "media": [
+    "/assets/creations/dtf-hoodie-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/xtool-apparel-printer-review",
+   "authorHandle": "@mark.haus",
+   "machineModels": [
+    "Apparel Printer"
+   ],
+   "createdAt": "2026-07-16T12:08:00Z",
+   "demo": true,
+   "materials": [
+    "DTF print"
+   ]
+  },
+  {
+   "id": "demo-c-088",
+   "pinType": "creation",
+   "lat": 50.8743,
+   "lng": 4.4048,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Brussels, Belgium",
+   "title": "DTF printed tote bags and canvas accessories",
+   "media": [
+    "/assets/creations/dtf-tote-bag-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/xtool-apparel-printer-review",
+   "authorHandle": "@mark.works",
+   "machineModels": [
+    "Apparel Printer"
+   ],
+   "createdAt": "2026-07-29T01:31:00Z",
+   "demo": true,
+   "materials": [
+    "DTF print"
+   ]
+  },
+  {
+   "id": "demo-c-089",
+   "pinType": "creation",
+   "lat": -33.877,
+   "lng": 151.188,
+   "locationPrecision": "city",
+   "displayLocation": "Sydney, Australia",
+   "title": "Finished DTF transfer sheets with designs",
+   "media": [
+    "/assets/creations/dtf-transfers-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/how-to/how-to-make-dtf-transfers",
+   "authorHandle": "@laser.loft",
+   "machineModels": [
+    "Apparel Printer"
+   ],
+   "createdAt": "2026-07-16T16:20:00Z",
+   "demo": true,
+   "materials": [
+    "DTF print"
+   ]
+  },
+  {
+   "id": "demo-c-090",
+   "pinType": "creation",
+   "lat": 28.5314,
+   "lng": -81.4058,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Orlando, FL, USA",
+   "title": "DTF printed shirt made with xTool O1 Omni",
+   "media": [
+    "/assets/creations/dtf-tshirt-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/xtool-o1-uv-dtf-dtg-printing",
+   "authorHandle": "@press.works",
+   "machineModels": [
+    "O1 Omni"
+   ],
+   "createdAt": "2026-07-16T15:12:00Z",
+   "demo": true,
+   "materials": [
+    "DTF print"
+   ]
+  },
+  {
+   "id": "demo-c-091",
+   "pinType": "creation",
+   "lat": 43.595,
+   "lng": -116.1819,
+   "locationPrecision": "city",
+   "displayLocation": "Boise, ID, USA",
+   "title": "Screen printed graphic T-shirt",
+   "media": [
+    "/assets/creations/screen-print-tshirt-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/how-xtool-reinvents-screen-printing",
+   "authorHandle": "@pixel.atelier",
+   "machineModels": [
+    "Screen Printer"
+   ],
+   "createdAt": "2026-07-02T09:16:00Z",
+   "demo": true,
+   "materials": [
+    "screen print"
+   ]
+  },
+  {
+   "id": "demo-c-092",
+   "pinType": "creation",
+   "lat": 36.2026,
+   "lng": -115.096,
+   "locationPrecision": "city",
+   "displayLocation": "Las Vegas, NV, USA",
+   "title": "Assorted screen printed items",
+   "media": [
+    "/assets/creations/screen-print-items-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/xtool-academy/how-xtool-reinvents-screen-printing",
+   "authorHandle": "@ink.craftco",
+   "machineModels": [
+    "Screen Printer"
+   ],
+   "createdAt": "2026-07-11T02:56:00Z",
+   "demo": true,
+   "materials": [
+    "screen print"
+   ]
+  },
+  {
+   "id": "demo-c-093",
+   "pinType": "creation",
+   "lat": 45.7662,
+   "lng": 4.8504,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Lyon, France",
+   "title": "Screen printed throw pillows",
+   "media": [
+    "/assets/creations/screen-print-pillow-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/business-ideas/screen-printing-ideas",
+   "authorHandle": "@laser.shed",
+   "machineModels": [
+    "Screen Printer"
+   ],
+   "createdAt": "2026-06-26T22:17:00Z",
+   "demo": true,
+   "materials": [
+    "screen print"
+   ]
+  },
+  {
+   "id": "demo-c-094",
+   "pinType": "creation",
+   "lat": 41.4364,
+   "lng": 2.166,
+   "locationPrecision": "city",
+   "displayLocation": "Barcelona, Spain",
+   "title": "Screen printed custom tote bags",
+   "media": [
+    "/assets/creations/screen-print-tote-bag-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/business-ideas/screen-printing-ideas",
+   "authorHandle": "@maker.sis",
+   "machineModels": [
+    "Screen Printer"
+   ],
+   "createdAt": "2026-06-24T05:36:00Z",
+   "demo": true,
+   "materials": [
+    "screen print"
+   ]
+  },
+  {
+   "id": "demo-c-095",
+   "pinType": "creation",
+   "lat": -27.4925,
+   "lng": 152.9667,
+   "locationPrecision": "city",
+   "displayLocation": "Brisbane, Australia",
+   "title": "Finished shirt after heat press transfer",
+   "media": [
+    "/assets/creations/heatpress-tshirt-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/how-to/heat-press-a-shirt",
+   "authorHandle": "@grain.den",
+   "machineModels": [
+    "Heat Press"
+   ],
+   "createdAt": "2026-07-19T09:17:00Z",
+   "demo": true,
+   "materials": [
+    "heat press"
+   ]
+  },
+  {
+   "id": "demo-c-096",
+   "pinType": "creation",
+   "lat": 45.4769,
+   "lng": -73.5428,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Montreal, Canada",
+   "title": "Heat pressed acrylic keychains",
+   "media": [
+    "/assets/creations/heatpress-acrylic-keychain-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/automatic-vs-manual-heat-press",
+   "authorHandle": "@press.garage",
+   "machineModels": [
+    "Heat Press"
+   ],
+   "createdAt": "2026-07-15T08:23:00Z",
+   "demo": true,
+   "materials": [
+    "acrylic",
+    "heat press"
+   ]
+  },
+  {
+   "id": "demo-c-097",
+   "pinType": "creation",
+   "lat": 41.3711,
+   "lng": 2.224,
+   "locationPrecision": "city",
+   "displayLocation": "Barcelona, Spain",
+   "title": "Sublimation photo slate made with heat press",
+   "media": [
+    "/assets/creations/heatpress-photo-slate-01.png"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/automatic-vs-manual-heat-press",
+   "authorHandle": "@craft.atelier",
+   "machineModels": [
+    "Heat Press"
+   ],
+   "createdAt": "2026-07-11T06:53:00Z",
+   "demo": true,
+   "materials": [
+    "slate",
+    "heat press",
+    "sublimation"
+   ]
+  },
+  {
+   "id": "demo-c-098",
+   "pinType": "creation",
+   "lat": 43.6495,
+   "lng": -116.2302,
+   "locationPrecision": "city",
+   "displayLocation": "Boise, ID, USA",
+   "title": "3D puff HTV design on a T-shirt",
+   "media": [
+    "/assets/creations/heatpress-puff-tshirt-01.png"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/automatic-vs-manual-heat-press",
+   "authorHandle": "@shop.bros",
+   "machineModels": [
+    "Heat Press"
+   ],
+   "createdAt": "2026-08-04T01:46:00Z",
+   "demo": true,
+   "materials": [
+    "heat press"
+   ]
+  },
+  {
+   "id": "demo-m-099",
+   "pinType": "machine",
+   "lat": 38.5394,
+   "lng": -121.4898,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Sacramento, CA, USA",
+   "title": "xTool F1 Ultra on reviewer test bench",
+   "media": [
+    "/assets/machines/f1-ultra-real-03.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-f1-ultra/",
+   "authorHandle": "@mark.goods",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-06-19T07:35:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-100",
+   "pinType": "machine",
+   "lat": 51.0134,
+   "lng": -114.0859,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Calgary, Canada",
+   "title": "F1 Ultra touchscreen controller close-up",
+   "media": [
+    "/assets/machines/f1-ultra-real-04.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-f1-ultra/",
+   "authorHandle": "@laser.goods",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-07-16T22:06:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-101",
+   "pinType": "machine",
+   "lat": -27.4324,
+   "lng": 153.0114,
+   "locationPrecision": "city",
+   "displayLocation": "Brisbane, Australia",
+   "title": "F1 Ultra engraving and cutting plywood",
+   "media": [
+    "/assets/machines/f1-ultra-real-05.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-f1-ultra/",
+   "authorHandle": "@press.co",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-06-13T06:10:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-102",
+   "pinType": "machine",
+   "lat": 28.5491,
+   "lng": -81.3348,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Orlando, FL, USA",
+   "title": "F1 Ultra review setup at 3DWithUs",
+   "media": [
+    "/assets/machines/f1-ultra-real-06.webp"
+   ],
+   "sourcePlatform": "3dwithus.com",
+   "sourcePostUrl": "https://3dwithus.com/xtool-f1-ultra-review-laser-engraver-cutter-tests-tips-settings",
+   "authorHandle": "@grain.studio",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-07-15T08:43:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-103",
+   "pinType": "machine",
+   "lat": -33.9115,
+   "lng": 151.2538,
+   "locationPrecision": "city",
+   "displayLocation": "Sydney, Australia",
+   "title": "F1 Ultra with conveyor belt system",
+   "media": [
+    "/assets/machines/f1-ultra-real-07.webp"
+   ],
+   "sourcePlatform": "3dwithus.com",
+   "sourcePostUrl": "https://3dwithus.com/xtool-f1-ultra-review-laser-engraver-cutter-tests-tips-settings",
+   "authorHandle": "@press.atelier",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-07-03T20:54:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-104",
+   "pinType": "machine",
+   "lat": 52.2174,
+   "lng": 20.9618,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Warsaw, Poland",
+   "title": "Creator selfie with her F1 Ultra in studio",
+   "media": [
+    "/assets/machines/f1-ultra-real-08.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/mary-wanderlost-artz-f2u-uv",
+   "authorHandle": "@pixel.designs",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-07-23T12:39:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-105",
+   "pinType": "machine",
+   "lat": -33.9206,
+   "lng": 151.225,
+   "locationPrecision": "city",
+   "displayLocation": "Sydney, Australia",
+   "title": "xTool F1 portable engraver on desk",
+   "media": [
+    "/assets/machines/f1-real-03.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-f1/",
+   "authorHandle": "@grain.haus",
+   "machineModels": [
+    "F1"
+   ],
+   "createdAt": "2026-07-14T01:50:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-106",
+   "pinType": "machine",
+   "lat": 40.6887,
+   "lng": -74.0625,
+   "locationPrecision": "city",
+   "displayLocation": "New York, NY, USA",
+   "title": "F1 blue diode laser beam during engraving",
+   "media": [
+    "/assets/machines/f1-real-04.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-f1/",
+   "authorHandle": "@wood.supply",
+   "machineModels": [
+    "F1"
+   ],
+   "createdAt": "2026-07-07T09:26:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-107",
+   "pinType": "machine",
+   "lat": 29.7297,
+   "lng": -95.3804,
+   "locationPrecision": "city",
+   "displayLocation": "Houston, TX, USA",
+   "title": "F1 unboxing with accessories on bench",
+   "media": [
+    "/assets/machines/f1-real-05.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-f1/",
+   "authorHandle": "@burn.loft",
+   "machineModels": [
+    "F1"
+   ],
+   "createdAt": "2026-06-08T16:00:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-108",
+   "pinType": "machine",
+   "lat": 48.7617,
+   "lng": 9.2049,
+   "locationPrecision": "city",
+   "displayLocation": "Stuttgart, Germany",
+   "title": "xTool S1 on reviewer test bench",
+   "media": [
+    "/assets/machines/s1-real-03.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-s1/",
+   "authorHandle": "@forge.craftco",
+   "machineModels": [
+    "S1"
+   ],
+   "createdAt": "2026-08-01T22:25:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-109",
+   "pinType": "machine",
+   "lat": 30.2378,
+   "lng": -97.802,
+   "locationPrecision": "city",
+   "displayLocation": "Austin, TX, USA",
+   "title": "xTool S1 with lid open during review",
+   "media": [
+    "/assets/machines/s1-real-04.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-s1/",
+   "authorHandle": "@ink.loft",
+   "machineModels": [
+    "S1"
+   ],
+   "createdAt": "2026-06-08T04:06:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-110",
+   "pinType": "machine",
+   "lat": 49.2642,
+   "lng": -123.1102,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Vancouver, Canada",
+   "title": "S1 40W laser module close-up",
+   "media": [
+    "/assets/machines/s1-real-05.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-s1/",
+   "authorHandle": "@studio.craftco",
+   "machineModels": [
+    "S1"
+   ],
+   "createdAt": "2026-06-30T07:59:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-111",
+   "pinType": "machine",
+   "lat": 40.699,
+   "lng": -74.008,
+   "locationPrecision": "city",
+   "displayLocation": "New York, NY, USA",
+   "title": "S1 rotary engraving a tumbler in test",
+   "media": [
+    "/assets/machines/s1-real-06.jpg"
+   ],
+   "sourcePlatform": "tomshardware.com",
+   "sourcePostUrl": "https://www.tomshardware.com/3d-printing/xtool-s1-review",
+   "authorHandle": "@shop.collective",
+   "machineModels": [
+    "S1"
+   ],
+   "createdAt": "2026-08-07T21:26:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-112",
+   "pinType": "machine",
+   "lat": 47.4343,
+   "lng": 8.5607,
+   "locationPrecision": "city",
+   "displayLocation": "Zurich, Switzerland",
+   "title": "S1 unboxing with accessory kit",
+   "media": [
+    "/assets/machines/s1-real-07.jpg"
+   ],
+   "sourcePlatform": "tomshardware.com",
+   "sourcePostUrl": "https://www.tomshardware.com/3d-printing/xtool-s1-review",
+   "authorHandle": "@works.designs",
+   "machineModels": [
+    "S1"
+   ],
+   "createdAt": "2026-06-28T18:52:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-113",
+   "pinType": "machine",
+   "lat": 51.475,
+   "lng": -0.0916,
+   "locationPrecision": "city",
+   "displayLocation": "London, UK",
+   "title": "xTool S1 beside Glowforge Aura comparison",
+   "media": [
+    "/assets/machines/s1-real-08.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/xtool-s1-vs-glowforge-aura",
+   "authorHandle": "@works.atelier",
+   "machineModels": [
+    "S1"
+   ],
+   "createdAt": "2026-08-05T19:18:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-114",
+   "pinType": "machine",
+   "lat": 32.7478,
+   "lng": -117.1394,
+   "locationPrecision": "city",
+   "displayLocation": "San Diego, CA, USA",
+   "title": "S1 with 40W module in 3DWithUs studio",
+   "media": [
+    "/assets/machines/s1-real-09.webp"
+   ],
+   "sourcePlatform": "3dwithus.com",
+   "sourcePostUrl": "https://3dwithus.com/xtool-s1-review-laser-cutter-engraver-tests-settings",
+   "authorHandle": "@laser.collective",
+   "machineModels": [
+    "S1"
+   ],
+   "createdAt": "2026-07-13T19:11:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-115",
+   "pinType": "machine",
+   "lat": -33.885,
+   "lng": 151.1651,
+   "locationPrecision": "city",
+   "displayLocation": "Sydney, Australia",
+   "title": "xTool P2S in reviewer workshop",
+   "media": [
+    "/assets/machines/p2s-real-02.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-p2s/",
+   "authorHandle": "@etch.den",
+   "machineModels": [
+    "P2S"
+   ],
+   "createdAt": "2026-07-23T08:54:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-116",
+   "pinType": "machine",
+   "lat": 43.6371,
+   "lng": -79.383,
+   "locationPrecision": "city",
+   "displayLocation": "Toronto, Canada",
+   "title": "P2S and P2 side by side in workshop",
+   "media": [
+    "/assets/machines/p2s-real-03.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-p2s/",
+   "authorHandle": "@studio.designs",
+   "machineModels": [
+    "P2S"
+   ],
+   "createdAt": "2026-06-29T15:43:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-117",
+   "pinType": "machine",
+   "lat": 59.3099,
+   "lng": 18.0224,
+   "locationPrecision": "city",
+   "displayLocation": "Stockholm, Sweden",
+   "title": "P2S laser head close-up",
+   "media": [
+    "/assets/machines/p2s-real-04.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-p2s/",
+   "authorHandle": "@ink.supply",
+   "machineModels": [
+    "P2S"
+   ],
+   "createdAt": "2026-06-09T18:25:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-118",
+   "pinType": "machine",
+   "lat": 40.3585,
+   "lng": -3.6994,
+   "locationPrecision": "city",
+   "displayLocation": "Madrid, Spain",
+   "title": "P2S touchscreen display panel",
+   "media": [
+    "/assets/machines/p2s-real-05.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-p2s/",
+   "authorHandle": "@shop.andco",
+   "machineModels": [
+    "P2S"
+   ],
+   "createdAt": "2026-08-01T23:55:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-119",
+   "pinType": "machine",
+   "lat": 59.8669,
+   "lng": 10.7203,
+   "locationPrecision": "city",
+   "displayLocation": "Oslo, Norway",
+   "title": "P2S honeycomb work bed",
+   "media": [
+    "/assets/machines/p2s-real-06.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-p2s/",
+   "authorHandle": "@works.garage",
+   "machineModels": [
+    "P2S"
+   ],
+   "createdAt": "2026-08-02T21:08:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-120",
+   "pinType": "machine",
+   "lat": 45.8029,
+   "lng": 4.8848,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Lyon, France",
+   "title": "P2S CO2 laser tube inside chassis",
+   "media": [
+    "/assets/machines/p2s-real-07.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-p2s/",
+   "authorHandle": "@wood.designs",
+   "machineModels": [
+    "P2S"
+   ],
+   "createdAt": "2026-06-12T06:34:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-121",
+   "pinType": "machine",
+   "lat": 45.8105,
+   "lng": 4.792,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Lyon, France",
+   "title": "F2 Ultra UV on reviewer desk",
+   "media": [
+    "/assets/machines/f2-ultra-uv-real-02.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-f2-ultra/",
+   "authorHandle": "@shop.den",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-11T06:45:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-122",
+   "pinType": "machine",
+   "lat": 38.667,
+   "lng": -90.1855,
+   "locationPrecision": "city",
+   "displayLocation": "St. Louis, MO, USA",
+   "title": "F2 Ultra UV folding stand for 3D glass work",
+   "media": [
+    "/assets/machines/f2-ultra-uv-real-03.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-f2-ultra/",
+   "authorHandle": "@laser.supply",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-06-22T02:16:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-123",
+   "pinType": "machine",
+   "lat": 49.3368,
+   "lng": -123.078,
+   "locationPrecision": "city",
+   "displayLocation": "Vancouver, Canada",
+   "title": "F2 Ultra UV press photo via All3DP",
+   "media": [
+    "/assets/machines/f2-ultra-uv-real-04.jpg"
+   ],
+   "sourcePlatform": "all3dp.com",
+   "sourcePostUrl": "https://all3dp.com/6/xtool-surprise-debuts-a-cold-uv-laser-engraver-for-ornamental-engravings-inside-glass-and-plastic/",
+   "authorHandle": "@studio.shed",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-06-12T20:39:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-124",
+   "pinType": "machine",
+   "lat": 39.7781,
+   "lng": -105.0393,
+   "locationPrecision": "city",
+   "displayLocation": "Denver, CO, USA",
+   "title": "F2 Ultra UV touch controller close-up",
+   "media": [
+    "/assets/machines/f2-ultra-uv-real-05.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-f2-ultra/",
+   "authorHandle": "@forge.den",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-25T19:33:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-125",
+   "pinType": "machine",
+   "lat": 40.7524,
+   "lng": -73.9995,
+   "locationPrecision": "city",
+   "displayLocation": "New York, NY, USA",
+   "title": "F2 Ultra UV work bed detail",
+   "media": [
+    "/assets/machines/f2-ultra-uv-real-06.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-f2-ultra/",
+   "authorHandle": "@pixel.den",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-28T20:44:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-126",
+   "pinType": "machine",
+   "lat": -33.8258,
+   "lng": 151.1667,
+   "locationPrecision": "city",
+   "displayLocation": "Sydney, Australia",
+   "title": "Welder using MetalFab handheld torch",
+   "media": [
+    "/assets/machines/metalfab-real-03.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/buyer-guide/best-welder-for-beginner",
+   "authorHandle": "@burn.haus",
+   "machineModels": [
+    "MetalFab"
+   ],
+   "createdAt": "2026-08-04T04:22:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-127",
+   "pinType": "machine",
+   "lat": 52.442,
+   "lng": -1.9074,
+   "locationPrecision": "city",
+   "displayLocation": "Birmingham, UK",
+   "title": "O1 Omni Retail Studio demo with visitors",
+   "media": [
+    "/assets/machines/o1-omni-real-04.jpg"
+   ],
+   "sourcePlatform": "prnewswire.com",
+   "sourcePostUrl": "https://www.prnewswire.com/news-releases/xtool-o1-omni-printer-hits-the-global-market-empowering-businesses-and-creators-with-industrial-grade-print-anything-versatility-302827332.html",
+   "authorHandle": "@maker.loft",
+   "machineModels": [
+    "O1 Omni"
+   ],
+   "createdAt": "2026-06-26T18:21:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-128",
+   "pinType": "machine",
+   "lat": 45.793,
+   "lng": 4.8388,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Lyon, France",
+   "title": "Maker Mike Smerka with his xTool P3",
+   "media": [
+    "/assets/machines/p3-real-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/mike-smerka-p3",
+   "authorHandle": "@mark.supply",
+   "machineModels": [
+    "P3"
+   ],
+   "createdAt": "2026-07-20T19:55:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-c-129",
+   "pinType": "creation",
+   "lat": 48.2024,
+   "lng": 16.3404,
+   "locationPrecision": "city",
+   "displayLocation": "Vienna, Austria",
+   "title": "Anodized aluminum dog tag engraved on F1 Ultra",
+   "media": [
+    "/assets/creations/metal-dog-tag-01.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-f1-ultra/",
+   "authorHandle": "@mark.lab",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-06-06T21:44:00Z",
+   "demo": true,
+   "materials": [
+    "metal"
+   ]
+  },
+  {
+   "id": "demo-c-130",
+   "pinType": "creation",
+   "lat": 42.3731,
+   "lng": -83.0546,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Detroit, MI, USA",
+   "title": "Engraved aluminum business card",
+   "media": [
+    "/assets/creations/metal-business-card-02.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-f1-ultra/",
+   "authorHandle": "@craft.works",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-07-02T06:34:00Z",
+   "demo": true,
+   "materials": [
+    "metal"
+   ]
+  },
+  {
+   "id": "demo-c-131",
+   "pinType": "creation",
+   "lat": 48.7237,
+   "lng": 9.1559,
+   "locationPrecision": "city",
+   "displayLocation": "Stuttgart, Germany",
+   "title": "Stainless steel hip flask engraving",
+   "media": [
+    "/assets/creations/metal-hip-flask-01.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-f1-ultra/",
+   "authorHandle": "@glow.sis",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-07-22T12:17:00Z",
+   "demo": true,
+   "materials": [
+    "metal"
+   ]
+  },
+  {
+   "id": "demo-c-132",
+   "pinType": "creation",
+   "lat": 47.3776,
+   "lng": 8.5333,
+   "locationPrecision": "city",
+   "displayLocation": "Zurich, Switzerland",
+   "title": "Slate stone coaster engraved with UV laser",
+   "media": [
+    "/assets/creations/stone-slate-coaster-01.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-f2-ultra/",
+   "authorHandle": "@ink.shed",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-12T18:08:00Z",
+   "demo": true,
+   "materials": [
+    "slate",
+    "stone",
+    "UV print"
+   ]
+  },
+  {
+   "id": "demo-c-133",
+   "pinType": "creation",
+   "lat": 49.2501,
+   "lng": -123.14,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Vancouver, Canada",
+   "title": "Surface glass engraving detail by UV laser",
+   "media": [
+    "/assets/creations/glass-uv-engraving-detail-01.jpg"
+   ],
+   "sourcePlatform": "hobbylasercutters.com",
+   "sourcePostUrl": "https://hobbylasercutters.com/xtool-f2-ultra/",
+   "authorHandle": "@grain.goods",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-12T10:25:00Z",
+   "demo": true,
+   "materials": [
+    "glass",
+    "UV print"
+   ]
+  },
+  {
+   "id": "demo-c-134",
+   "pinType": "creation",
+   "lat": 55.6467,
+   "lng": 12.6227,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Copenhagen, Denmark",
+   "title": "Engraved MINE lettering on black tumbler",
+   "media": [
+    "/assets/creations/metal-tumbler-mine-01.jpg"
+   ],
+   "sourcePlatform": "tomshardware.com",
+   "sourcePostUrl": "https://www.tomshardware.com/3d-printing/xtool-s1-review",
+   "authorHandle": "@cut.haus",
+   "machineModels": [
+    "S1"
+   ],
+   "createdAt": "2026-07-07T04:19:00Z",
+   "demo": true,
+   "materials": [
+    "metal"
+   ]
+  },
+  {
+   "id": "demo-c-135",
+   "pinType": "creation",
+   "lat": 40.7676,
+   "lng": -111.8806,
+   "locationPrecision": "city",
+   "displayLocation": "Salt Lake City, UT, USA",
+   "title": "Crystal photo ornament engraved with UV laser",
+   "media": [
+    "/assets/creations/glass-crystal-photo-ornament-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/janice-sharon-street-studios-f2u-uv",
+   "authorHandle": "@beam.made",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-06-05T23:52:00Z",
+   "demo": true,
+   "materials": [
+    "glass",
+    "UV print"
+   ]
+  },
+  {
+   "id": "demo-c-136",
+   "pinType": "creation",
+   "lat": -36.8365,
+   "lng": 174.7455,
+   "locationPrecision": "city",
+   "displayLocation": "Auckland, New Zealand",
+   "title": "Photo engraved heart-shaped crystal",
+   "media": [
+    "/assets/creations/glass-crystal-heart-photo-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/janice-sharon-street-studios-f2u-uv",
+   "authorHandle": "@forge.haus",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-04T23:49:00Z",
+   "demo": true,
+   "materials": [
+    "glass"
+   ]
+  },
+  {
+   "id": "demo-c-137",
+   "pinType": "creation",
+   "lat": 41.8622,
+   "lng": -87.5983,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Chicago, IL, USA",
+   "title": "Intricate laser-cut wooden welcome sign",
+   "media": [
+    "/assets/creations/wood-welcome-sign-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/janice-sharon-street-studios-f2u-uv",
+   "authorHandle": "@ink.sis",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-30T13:43:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-138",
+   "pinType": "creation",
+   "lat": 53.3566,
+   "lng": -6.2472,
+   "locationPrecision": "city",
+   "displayLocation": "Dublin, Ireland",
+   "title": "3D engraved crystal phoenix on glowing base",
+   "media": [
+    "/assets/creations/glass-crystal-phoenix-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/mary-wanderlost-artz-f2u-uv",
+   "authorHandle": "@spark.bros",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-08-03T19:43:00Z",
+   "demo": true,
+   "materials": [
+    "glass"
+   ]
+  },
+  {
+   "id": "demo-c-139",
+   "pinType": "creation",
+   "lat": 52.3246,
+   "lng": 4.9201,
+   "locationPrecision": "city",
+   "displayLocation": "Amsterdam, Netherlands",
+   "title": "Custom engraved metal tag keychains",
+   "media": [
+    "/assets/creations/metal-tag-keychains-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/mary-wanderlost-artz-f2u-uv",
+   "authorHandle": "@glow.made",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-15T01:04:00Z",
+   "demo": true,
+   "materials": [
+    "metal"
+   ]
+  },
+  {
+   "id": "demo-c-140",
+   "pinType": "creation",
+   "lat": 43.5994,
+   "lng": -116.1757,
+   "locationPrecision": "city",
+   "displayLocation": "Boise, ID, USA",
+   "title": "Laser-cut wooden Easter bunny crafts",
+   "media": [
+    "/assets/creations/wood-easter-bunny-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/mary-wanderlost-artz-f2u-uv",
+   "authorHandle": "@laser.den",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-06-16T06:47:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-141",
+   "pinType": "creation",
+   "lat": 32.6617,
+   "lng": -117.2113,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "San Diego, CA, USA",
+   "title": "Engraved wooden book tracker plaque",
+   "media": [
+    "/assets/creations/wood-book-tracker-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/mary-wanderlost-artz-f2u-uv",
+   "authorHandle": "@press.sis",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-13T22:02:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-142",
+   "pinType": "creation",
+   "lat": 52.3335,
+   "lng": 4.9056,
+   "locationPrecision": "city",
+   "displayLocation": "Amsterdam, Netherlands",
+   "title": "Engraved glass decanter and whiskey set",
+   "media": [
+    "/assets/creations/glass-decanter-whiskey-set-01.png"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/shital-nk-handcrafted-gifts-f2u-uv",
+   "authorHandle": "@press.studio",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-08-04T18:31:00Z",
+   "demo": true,
+   "materials": [
+    "glass"
+   ]
+  },
+  {
+   "id": "demo-c-143",
+   "pinType": "creation",
+   "lat": 47.3434,
+   "lng": 8.5998,
+   "locationPrecision": "city",
+   "displayLocation": "Zurich, Switzerland",
+   "title": "Slate pet memorial stone with photo engraving",
+   "media": [
+    "/assets/creations/stone-slate-pet-memorial-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/shital-nk-handcrafted-gifts-f2u-uv",
+   "authorHandle": "@wood.shed",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-06-14T07:46:00Z",
+   "demo": true,
+   "materials": [
+    "slate",
+    "stone"
+   ]
+  },
+  {
+   "id": "demo-c-144",
+   "pinType": "creation",
+   "lat": 32.6904,
+   "lng": -117.2067,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "San Diego, CA, USA",
+   "title": "Personalized engraved metal bangle bracelet",
+   "media": [
+    "/assets/creations/metal-bangle-bracelet-01.png"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/shital-nk-handcrafted-gifts-f2u-uv",
+   "authorHandle": "@burn.den",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-07T21:56:00Z",
+   "demo": true,
+   "materials": [
+    "metal"
+   ]
+  },
+  {
+   "id": "demo-c-145",
+   "pinType": "creation",
+   "lat": 35.1947,
+   "lng": -80.8361,
+   "locationPrecision": "city",
+   "displayLocation": "Charlotte, NC, USA",
+   "title": "Maker holding engraved wooden gift board",
+   "media": [
+    "/assets/creations/wood-engraved-board-02.png"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/shital-nk-handcrafted-gifts-f2u-uv",
+   "authorHandle": "@craft.andco",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-06-05T02:34:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-146",
+   "pinType": "creation",
+   "lat": 29.7556,
+   "lng": -95.4205,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Houston, TX, USA",
+   "title": "Painted layered wood Valentine decor set",
+   "media": [
+    "/assets/creations/wood-valentine-decor-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/geni-adams-p3",
+   "authorHandle": "@cut.collective",
+   "machineModels": [
+    "P3"
+   ],
+   "createdAt": "2026-06-12T04:22:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-147",
+   "pinType": "creation",
+   "lat": 52.4235,
+   "lng": 4.8647,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Amsterdam, Netherlands",
+   "title": "Glitter acrylic keychain discs batch",
+   "media": [
+    "/assets/creations/acrylic-glitter-keychains-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/geni-adams-p3",
+   "authorHandle": "@beam.works",
+   "machineModels": [
+    "P3"
+   ],
+   "createdAt": "2026-07-13T09:36:00Z",
+   "demo": true,
+   "materials": [
+    "acrylic"
+   ]
+  },
+  {
+   "id": "demo-c-148",
+   "pinType": "creation",
+   "lat": 41.8473,
+   "lng": -87.6191,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Chicago, IL, USA",
+   "title": "Personalized wooden letter coin bank",
+   "media": [
+    "/assets/creations/wood-letter-bank-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/geni-adams-p3",
+   "authorHandle": "@wood.goods",
+   "machineModels": [
+    "P3"
+   ],
+   "createdAt": "2026-06-22T12:18:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-149",
+   "pinType": "creation",
+   "lat": 55.6363,
+   "lng": 12.5696,
+   "locationPrecision": "city",
+   "displayLocation": "Copenhagen, Denmark",
+   "title": "Engraved magistrate court coaster set",
+   "media": [
+    "/assets/creations/wood-court-coasters-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/wil-cope-combat-veteran-laser-engraving-business",
+   "authorHandle": "@spark.garage",
+   "machineModels": [],
+   "createdAt": "2026-06-10T23:33:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-150",
+   "pinType": "creation",
+   "lat": 36.1336,
+   "lng": -115.1275,
+   "locationPrecision": "city",
+   "displayLocation": "Las Vegas, NV, USA",
+   "title": "Wooden clock made by veteran maker Wil",
+   "media": [
+    "/assets/creations/wood-veteran-clock-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/wil-cope-combat-veteran-laser-engraving-business",
+   "authorHandle": "@burn.designs",
+   "machineModels": [],
+   "createdAt": "2026-07-16T01:05:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-151",
+   "pinType": "creation",
+   "lat": 32.7469,
+   "lng": -117.1672,
+   "locationPrecision": "city",
+   "displayLocation": "San Diego, CA, USA",
+   "title": "Sheepdog Designs engraved wooden plaque",
+   "media": [
+    "/assets/creations/wood-plaque-sheepdog-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/wil-cope-combat-veteran-laser-engraving-business",
+   "authorHandle": "@press.craftco",
+   "machineModels": [],
+   "createdAt": "2026-08-01T07:14:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-152",
+   "pinType": "creation",
+   "lat": 47.3499,
+   "lng": 8.4884,
+   "locationPrecision": "city",
+   "displayLocation": "Zurich, Switzerland",
+   "title": "Shelf of engraved tumblers and gift products",
+   "media": [
+    "/assets/creations/mixed-product-display-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/wil-cope-combat-veteran-laser-engraving-business",
+   "authorHandle": "@beam.collective",
+   "machineModels": [],
+   "createdAt": "2026-06-08T10:47:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-153",
+   "pinType": "creation",
+   "lat": 28.0079,
+   "lng": -82.5064,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Tampa, FL, USA",
+   "title": "Engraved tumblers slates and gifts close-up",
+   "media": [
+    "/assets/creations/mixed-product-display-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/wil-cope-combat-veteran-laser-engraving-business",
+   "authorHandle": "@mark.bros",
+   "machineModels": [],
+   "createdAt": "2026-07-24T19:39:00Z",
+   "demo": true,
+   "materials": [
+    "slate"
+   ]
+  },
+  {
+   "id": "demo-c-154",
+   "pinType": "creation",
+   "lat": 39.7679,
+   "lng": -105.0454,
+   "locationPrecision": "city",
+   "displayLocation": "Denver, CO, USA",
+   "title": "Michelle assembling laser-cut wedding sign",
+   "media": [
+    "/assets/creations/wood-wedding-sign-making-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/michelle-wedding-business-from-home",
+   "authorHandle": "@spark.co",
+   "machineModels": [],
+   "createdAt": "2026-07-14T17:47:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-155",
+   "pinType": "creation",
+   "lat": 45.8119,
+   "lng": 4.8169,
+   "locationPrecision": "city",
+   "displayLocation": "Lyon, France",
+   "title": "Assembling laser-cut acrylic wedding monogram",
+   "media": [
+    "/assets/creations/acrylic-wedding-monogram-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/michelle-wedding-business-from-home",
+   "authorHandle": "@laser.garage",
+   "machineModels": [],
+   "createdAt": "2026-08-08T16:52:00Z",
+   "demo": true,
+   "materials": [
+    "acrylic"
+   ]
+  },
+  {
+   "id": "demo-c-156",
+   "pinType": "creation",
+   "lat": 29.7531,
+   "lng": -95.3671,
+   "locationPrecision": "city",
+   "displayLocation": "Houston, TX, USA",
+   "title": "Finished wedding welcome sign with florals",
+   "media": [
+    "/assets/creations/acrylic-wedding-welcome-sign-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/michelle-wedding-business-from-home",
+   "authorHandle": "@cut.goods",
+   "machineModels": [],
+   "createdAt": "2026-08-05T21:56:00Z",
+   "demo": true,
+   "materials": [
+    "acrylic"
+   ]
+  },
+  {
+   "id": "demo-c-157",
+   "pinType": "creation",
+   "lat": 48.8105,
+   "lng": 9.2006,
+   "locationPrecision": "city",
+   "displayLocation": "Stuttgart, Germany",
+   "title": "Rose-gold acrylic flourish engraving close-up",
+   "media": [
+    "/assets/creations/acrylic-engraving-flourish-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/michelle-wedding-business-from-home",
+   "authorHandle": "@ink.andco",
+   "machineModels": [],
+   "createdAt": "2026-06-28T14:06:00Z",
+   "demo": true,
+   "materials": [
+    "acrylic"
+   ]
+  },
+  {
+   "id": "demo-c-158",
+   "pinType": "creation",
+   "lat": 30.3094,
+   "lng": -97.6874,
+   "locationPrecision": "city",
+   "displayLocation": "Austin, TX, USA",
+   "title": "Acrylic wedding table number on reception table",
+   "media": [
+    "/assets/creations/acrylic-wedding-table-number-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/user-story/michelle-wedding-business-from-home",
+   "authorHandle": "@pixel.works",
+   "machineModels": [],
+   "createdAt": "2026-07-27T13:52:00Z",
+   "demo": true,
+   "materials": [
+    "acrylic"
+   ]
+  },
+  {
+   "id": "demo-c-159",
+   "pinType": "creation",
+   "lat": 53.3998,
+   "lng": -6.2831,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Dublin, Ireland",
+   "title": "Dandelion wish engraved bamboo cutting board",
+   "media": [
+    "/assets/creations/wood-cutting-board-dandelion-01.webp"
+   ],
+   "sourcePlatform": "atomm.com",
+   "sourcePostUrl": "https://www.atomm.com/blog/2703-engraved-cutting-board-ideas",
+   "authorHandle": "@spark.sis",
+   "machineModels": [],
+   "createdAt": "2026-08-08T19:42:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-160",
+   "pinType": "creation",
+   "lat": 59.891,
+   "lng": 10.7374,
+   "locationPrecision": "city",
+   "displayLocation": "Oslo, Norway",
+   "title": "Dragonfly and floral engraved oak board",
+   "media": [
+    "/assets/creations/wood-cutting-board-dragonfly-01.webp"
+   ],
+   "sourcePlatform": "atomm.com",
+   "sourcePostUrl": "https://www.atomm.com/blog/2703-engraved-cutting-board-ideas",
+   "authorHandle": "@print.works",
+   "machineModels": [],
+   "createdAt": "2026-08-02T17:20:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-161",
+   "pinType": "creation",
+   "lat": 53.3508,
+   "lng": -6.3181,
+   "locationPrecision": "city",
+   "displayLocation": "Dublin, Ireland",
+   "title": "Artistic mushroom engraved bamboo board",
+   "media": [
+    "/assets/creations/wood-cutting-board-mushroom-01.webp"
+   ],
+   "sourcePlatform": "atomm.com",
+   "sourcePostUrl": "https://www.atomm.com/blog/2703-engraved-cutting-board-ideas",
+   "authorHandle": "@etch.garage",
+   "machineModels": [],
+   "createdAt": "2026-06-14T08:33:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-162",
+   "pinType": "creation",
+   "lat": 36.1454,
+   "lng": -115.1052,
+   "locationPrecision": "city",
+   "displayLocation": "Las Vegas, NV, USA",
+   "title": "Laser-cut wooden wedding welcome sign",
+   "media": [
+    "/assets/creations/wood-wedding-welcome-sign-01.webp"
+   ],
+   "sourcePlatform": "atomm.com",
+   "sourcePostUrl": "https://www.atomm.com/blog/2740-wedding-sign-ideas",
+   "authorHandle": "@glow.den",
+   "machineModels": [],
+   "createdAt": "2026-06-16T18:03:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-163",
+   "pinType": "creation",
+   "lat": 40.7359,
+   "lng": -73.991,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "New York, NY, USA",
+   "title": "Floral laser-cut wedding welcome sign",
+   "media": [
+    "/assets/creations/wood-wedding-floral-sign-01.webp"
+   ],
+   "sourcePlatform": "atomm.com",
+   "sourcePostUrl": "https://www.atomm.com/blog/2740-wedding-sign-ideas",
+   "authorHandle": "@laser.made",
+   "machineModels": [],
+   "createdAt": "2026-07-06T08:52:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-164",
+   "pinType": "creation",
+   "lat": 53.5196,
+   "lng": 9.987,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Hamburg, Germany",
+   "title": "Stained-glass style wedding arch sign",
+   "media": [
+    "/assets/creations/wood-wedding-arch-sign-01.webp"
+   ],
+   "sourcePlatform": "atomm.com",
+   "sourcePostUrl": "https://www.atomm.com/blog/2740-wedding-sign-ideas",
+   "authorHandle": "@forge.workshop",
+   "machineModels": [],
+   "createdAt": "2026-06-24T05:18:00Z",
+   "demo": true,
+   "materials": [
+    "wood",
+    "glass"
+   ]
+  },
+  {
+   "id": "demo-c-165",
+   "pinType": "creation",
+   "lat": 47.4139,
+   "lng": 8.538,
+   "locationPrecision": "city",
+   "displayLocation": "Zurich, Switzerland",
+   "title": "Laser-cut wooden tealight candle holder",
+   "media": [
+    "/assets/creations/wood-candle-holder-tealight-01.png"
+   ],
+   "sourcePlatform": "atomm.com",
+   "sourcePostUrl": "https://www.atomm.com/blog/2730-candle-holder-ideas",
+   "authorHandle": "@shop.craftco",
+   "machineModels": [],
+   "createdAt": "2026-07-15T19:47:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-166",
+   "pinType": "creation",
+   "lat": 51.5408,
+   "lng": -0.1275,
+   "locationPrecision": "city",
+   "displayLocation": "London, UK",
+   "title": "Wooden candle holders with LED tea lights",
+   "media": [
+    "/assets/creations/wood-candle-holder-led-01.webp"
+   ],
+   "sourcePlatform": "atomm.com",
+   "sourcePostUrl": "https://www.atomm.com/blog/2730-candle-holder-ideas",
+   "authorHandle": "@etch.sis",
+   "machineModels": [],
+   "createdAt": "2026-06-14T10:29:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-167",
+   "pinType": "creation",
+   "lat": 43.5995,
+   "lng": -79.3855,
+   "locationPrecision": "city",
+   "displayLocation": "Toronto, Canada",
+   "title": "Laser-cut candlestick with ornamental pattern",
+   "media": [
+    "/assets/creations/wood-candlestick-ornamental-01.webp"
+   ],
+   "sourcePlatform": "atomm.com",
+   "sourcePostUrl": "https://www.atomm.com/blog/2730-candle-holder-ideas",
+   "authorHandle": "@print.haus",
+   "machineModels": [],
+   "createdAt": "2026-06-28T16:14:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-168",
+   "pinType": "creation",
+   "lat": 45.7232,
+   "lng": 4.8296,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Lyon, France",
+   "title": "Engraved wooden name keychains",
+   "media": [
+    "/assets/creations/wood-name-keychains-01.webp"
+   ],
+   "sourcePlatform": "atomm.com",
+   "sourcePostUrl": "https://www.atomm.com/blog/2766-keychain-ideas-to-sell-on-etsy",
+   "authorHandle": "@print.supply",
+   "machineModels": [],
+   "createdAt": "2026-06-23T21:24:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-169",
+   "pinType": "creation",
+   "lat": 36.1125,
+   "lng": -86.8147,
+   "locationPrecision": "city",
+   "displayLocation": "Nashville, TN, USA",
+   "title": "Layered 3D dragon wooden keychain",
+   "media": [
+    "/assets/creations/wood-dragon-keychain-3d-01.webp"
+   ],
+   "sourcePlatform": "atomm.com",
+   "sourcePostUrl": "https://www.atomm.com/blog/2766-keychain-ideas-to-sell-on-etsy",
+   "authorHandle": "@maker.works",
+   "machineModels": [],
+   "createdAt": "2026-06-02T20:16:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-170",
+   "pinType": "creation",
+   "lat": 30.3074,
+   "lng": -97.7372,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Austin, TX, USA",
+   "title": "Retro handheld game wooden keychain making",
+   "media": [
+    "/assets/creations/wood-game-keychain-retro-01.jpg"
+   ],
+   "sourcePlatform": "atomm.com",
+   "sourcePostUrl": "https://www.atomm.com/blog/2766-keychain-ideas-to-sell-on-etsy",
+   "authorHandle": "@grain.collective",
+   "machineModels": [],
+   "createdAt": "2026-06-24T01:44:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-c-171",
+   "pinType": "creation",
+   "lat": 47.3226,
+   "lng": 8.5321,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "Zurich, Switzerland",
+   "title": "Portable metal fire pit cut with MetalFab",
+   "media": [
+    "/assets/creations/metal-fire-pit-01.webp"
+   ],
+   "sourcePlatform": "atomm.com",
+   "sourcePostUrl": "https://www.atomm.com/blog/2537-what-is-xtool-metalfab",
+   "authorHandle": "@craft.haus",
+   "machineModels": [
+    "MetalFab"
+   ],
+   "createdAt": "2026-07-19T12:41:00Z",
+   "demo": true,
+   "materials": [
+    "metal"
+   ]
+  },
+  {
+   "id": "demo-c-172",
+   "pinType": "creation",
+   "lat": 48.1502,
+   "lng": 16.3756,
+   "locationPrecision": "city",
+   "displayLocation": "Vienna, Austria",
+   "title": "Stainless steel camping grill by MetalFab",
+   "media": [
+    "/assets/creations/metal-camping-grill-01.webp"
+   ],
+   "sourcePlatform": "atomm.com",
+   "sourcePostUrl": "https://www.atomm.com/blog/2537-what-is-xtool-metalfab",
+   "authorHandle": "@beam.garage",
+   "machineModels": [
+    "MetalFab"
+   ],
+   "createdAt": "2026-07-26T09:44:00Z",
+   "demo": true,
+   "materials": [
+    "metal"
+   ]
+  },
+  {
+   "id": "demo-m-173",
+   "pinType": "machine",
+   "lat": 26.0942,
+   "lng": 119.2468,
+   "locationPrecision": "city",
+   "displayLocation": "福州",
+   "title": "xTool P2 首次开箱体验实拍",
+   "media": [
+    "/assets/machines/cn-p2-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1zE4m1R79W",
+   "authorHandle": "xTool官方君",
+   "machineModels": [
+    "P2"
+   ],
+   "createdAt": "2026-07-22T01:48:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-174",
+   "pinType": "machine",
+   "lat": 31.3333,
+   "lng": 120.5862,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "苏州",
+   "title": "xTool F2 开箱，创作者迷你工作室",
+   "media": [
+    "/assets/machines/cn-f2-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV13Eu66REq6",
+   "authorHandle": "每日好物优选师",
+   "machineModels": [
+    "F2"
+   ],
+   "createdAt": "2026-06-05T05:26:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-175",
+   "pinType": "machine",
+   "lat": 29.926,
+   "lng": 121.5144,
+   "locationPrecision": "city",
+   "displayLocation": "宁波",
+   "title": "xTool DTF服装打印机开箱全流程",
+   "media": [
+    "/assets/machines/cn-dtf-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1UBuEzrEix",
+   "authorHandle": "xTool官方君",
+   "machineModels": [
+    "DTF服装打印机"
+   ],
+   "createdAt": "2026-07-04T11:26:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-176",
+   "pinType": "machine",
+   "lat": 23.0396,
+   "lng": 113.7042,
+   "locationPrecision": "city",
+   "displayLocation": "东莞",
+   "title": "xTool M2 新品开箱测评实拍",
+   "media": [
+    "/assets/machines/cn-m2-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1oeTY6CECL",
+   "authorHandle": "山野藏着浪漫",
+   "machineModels": [
+    "M2"
+   ],
+   "createdAt": "2026-06-13T22:52:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-177",
+   "pinType": "machine",
+   "lat": 22.5486,
+   "lng": 114.0955,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "深圳",
+   "title": "xTool HP2 自动烫画机桌面实拍",
+   "media": [
+    "/assets/machines/cn-hp2-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1n2osB7ETa",
+   "authorHandle": "xTool官方君",
+   "machineModels": [
+    "HP2"
+   ],
+   "createdAt": "2026-08-07T12:22:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-178",
+   "pinType": "machine",
+   "lat": 30.236,
+   "lng": 120.1113,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "杭州",
+   "title": "创作者工作间里的 xTool O1 实拍",
+   "media": [
+    "/assets/machines/cn-o1-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV18RMX6RE33",
+   "authorHandle": "xTool官方君",
+   "machineModels": [
+    "O1"
+   ],
+   "createdAt": "2026-06-04T14:10:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-179",
+   "pinType": "machine",
+   "lat": 22.9671,
+   "lng": 113.0858,
+   "locationPrecision": "city",
+   "displayLocation": "佛山",
+   "title": "xTool F2 Ultra UV 开箱实拍",
+   "media": [
+    "/assets/machines/cn-f2ultrauv-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1uKf4BgEoK",
+   "authorHandle": "xTool官方君",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-21T00:55:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-180",
+   "pinType": "machine",
+   "lat": 26.1123,
+   "lng": 119.2933,
+   "locationPrecision": "city",
+   "displayLocation": "福州",
+   "title": "xTool F2 Ultra 开箱上手实拍",
+   "media": [
+    "/assets/machines/cn-f2ultra-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1zybFzWE1C",
+   "authorHandle": "SHUX树杈",
+   "machineModels": [
+    "F2 Ultra"
+   ],
+   "createdAt": "2026-06-28T18:41:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-181",
+   "pinType": "machine",
+   "lat": 24.5135,
+   "lng": 118.1333,
+   "locationPrecision": "city",
+   "displayLocation": "厦门",
+   "title": "xTool M1 家用桌面开箱实拍",
+   "media": [
+    "/assets/machines/cn-m1-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1Ba4y1P7v6",
+   "authorHandle": "xTool官方君",
+   "machineModels": [
+    "M1"
+   ],
+   "createdAt": "2026-07-06T17:32:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-182",
+   "pinType": "machine",
+   "lat": 31.2184,
+   "lng": 121.4665,
+   "locationPrecision": "city",
+   "displayLocation": "上海",
+   "title": "xTool P2 激光雕刻切割机开箱测评",
+   "media": [
+    "/assets/machines/cn-p2-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1ip421C7Gj",
+   "authorHandle": "大鱼DIY",
+   "machineModels": [
+    "P2"
+   ],
+   "createdAt": "2026-06-19T03:18:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-183",
+   "pinType": "machine",
+   "lat": 30.2738,
+   "lng": 120.206,
+   "locationPrecision": "city",
+   "displayLocation": "杭州",
+   "title": "xTool F1 首次开箱体验实拍",
+   "media": [
+    "/assets/machines/cn-f1-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1HS421o7j1",
+   "authorHandle": "xTool官方君",
+   "machineModels": [
+    "F1"
+   ],
+   "createdAt": "2026-07-12T05:09:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-184",
+   "pinType": "machine",
+   "lat": 22.5554,
+   "lng": 114.0966,
+   "locationPrecision": "city",
+   "displayLocation": "深圳",
+   "title": "入门级 xTool M2 桌面实拍",
+   "media": [
+    "/assets/machines/cn-m2-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1gHLm6tE1r",
+   "authorHandle": "橙豆造物ing",
+   "machineModels": [
+    "M2"
+   ],
+   "createdAt": "2026-06-10T23:04:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-185",
+   "pinType": "machine",
+   "lat": 22.5624,
+   "lng": 114.0347,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "深圳",
+   "title": "xTool M2 半年使用体验实拍",
+   "media": [
+    "/assets/machines/cn-m2-03.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1vSu76NETM",
+   "authorHandle": "阁楼里的盐酱",
+   "machineModels": [
+    "M2"
+   ],
+   "createdAt": "2026-06-17T04:18:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-186",
+   "pinType": "machine",
+   "lat": 39.8864,
+   "lng": 116.3525,
+   "locationPrecision": "city",
+   "displayLocation": "北京",
+   "title": "xTool H1 智能热压机开箱实拍",
+   "media": [
+    "/assets/machines/cn-h1-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1t3Tvz7EzM",
+   "authorHandle": "xTool官方君",
+   "machineModels": [
+    "H1"
+   ],
+   "createdAt": "2026-07-30T16:42:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-187",
+   "pinType": "machine",
+   "lat": 45.7767,
+   "lng": 126.5916,
+   "locationPrecision": "city",
+   "displayLocation": "哈尔滨",
+   "title": "书房中的 xTool S1 开箱实拍",
+   "media": [
+    "/assets/machines/cn-s1-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1QQ4y1J7aS",
+   "authorHandle": "xTool官方君",
+   "machineModels": [
+    "S1"
+   ],
+   "createdAt": "2026-08-05T03:58:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-188",
+   "pinType": "machine",
+   "lat": 29.8519,
+   "lng": 121.5801,
+   "locationPrecision": "city",
+   "displayLocation": "宁波",
+   "title": "xTool M1 Ultra 多功能主机实拍",
+   "media": [
+    "/assets/machines/cn-m1ultra-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1FQD3YvEpH",
+   "authorHandle": "Owen来造",
+   "machineModels": [
+    "M1 Ultra"
+   ],
+   "createdAt": "2026-06-14T20:42:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-189",
+   "pinType": "machine",
+   "lat": 29.5844,
+   "lng": 106.5442,
+   "locationPrecision": "city",
+   "displayLocation": "重庆",
+   "title": "一机多用的 xTool M2 体验实拍",
+   "media": [
+    "/assets/machines/cn-m2-04.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1dHV862EmR",
+   "authorHandle": "品质研究所所长",
+   "machineModels": [
+    "M2"
+   ],
+   "createdAt": "2026-08-02T15:20:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-190",
+   "pinType": "machine",
+   "lat": 24.4657,
+   "lng": 118.0975,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "厦门",
+   "title": "桌面级激光切割机 xTool P3 实拍",
+   "media": [
+    "/assets/machines/cn-p2-03.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV19N411y7V7",
+   "authorHandle": "Owen来造",
+   "machineModels": [
+    "P2"
+   ],
+   "createdAt": "2026-07-07T00:24:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-191",
+   "pinType": "machine",
+   "lat": 24.5114,
+   "lng": 118.0983,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "厦门",
+   "title": "xTool M1 激光刀切一体机实拍",
+   "media": [
+    "/assets/machines/cn-m1-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1pV4y1o7GB",
+   "authorHandle": "三三三三三文啊",
+   "machineModels": [
+    "M1"
+   ],
+   "createdAt": "2026-07-01T12:34:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-192",
+   "pinType": "machine",
+   "lat": 31.4612,
+   "lng": 120.2655,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "无锡",
+   "title": "微缩手工创作者的 xTool M2 工作台",
+   "media": [
+    "/assets/machines/cn-m2-05.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV17EoKB9ETC",
+   "authorHandle": "迷你妈妈minimama",
+   "machineModels": [
+    "M2"
+   ],
+   "createdAt": "2026-07-21T06:26:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-193",
+   "pinType": "machine",
+   "lat": 26.0819,
+   "lng": 119.2679,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "福州",
+   "title": "xTool F1 Ultra 金属切割工作台",
+   "media": [
+    "/assets/machines/cn-f1ultra-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1nhSLYrEEo",
+   "authorHandle": "Yang_FPV",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-06-21T19:59:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-194",
+   "pinType": "machine",
+   "lat": 45.7781,
+   "lng": 126.584,
+   "locationPrecision": "city",
+   "displayLocation": "哈尔滨",
+   "title": "便携激光雕刻机 xTool F1 特写",
+   "media": [
+    "/assets/machines/cn-f1-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV16p421U7ry",
+   "authorHandle": "忙了一天的高师傅",
+   "machineModels": [
+    "F1"
+   ],
+   "createdAt": "2026-06-14T04:16:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-195",
+   "pinType": "machine",
+   "lat": 30.587,
+   "lng": 114.3533,
+   "locationPrecision": "city",
+   "displayLocation": "武汉",
+   "title": "xTool F1 与同类机型对比实拍",
+   "media": [
+    "/assets/machines/cn-f1-03.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1cAEBz6EU2",
+   "authorHandle": "Phonebrother手机兄弟",
+   "machineModels": [
+    "F1"
+   ],
+   "createdAt": "2026-08-06T05:00:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-196",
+   "pinType": "machine",
+   "lat": 41.8641,
+   "lng": 123.4516,
+   "locationPrecision": "city",
+   "displayLocation": "沈阳",
+   "title": "xTool F1 Ultra 切割太阳能硅板实验",
+   "media": [
+    "/assets/machines/cn-f1ultra-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1hAA8ePEps",
+   "authorHandle": "万魔寺",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-06-30T02:56:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-197",
+   "pinType": "machine",
+   "lat": 30.6182,
+   "lng": 114.3568,
+   "locationPrecision": "city",
+   "displayLocation": "武汉",
+   "title": "封闭式多功能切割机 xTool S1 实拍",
+   "media": [
+    "/assets/machines/cn-s1-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1FC4y1H7c8",
+   "authorHandle": "xTool官方君",
+   "machineModels": [
+    "S1"
+   ],
+   "createdAt": "2026-07-20T09:29:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-198",
+   "pinType": "machine",
+   "lat": 23.0789,
+   "lng": 113.7868,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "东莞",
+   "title": "xTool M1 Ultra 机内彩印实拍",
+   "media": [
+    "/assets/machines/cn-m1ultra-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1RpmBYtE4c",
+   "authorHandle": "品质研究所所长",
+   "machineModels": [
+    "M1 Ultra"
+   ],
+   "createdAt": "2026-06-03T13:14:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-199",
+   "pinType": "machine",
+   "lat": 24.4885,
+   "lng": 118.0855,
+   "locationPrecision": "city",
+   "displayLocation": "厦门",
+   "title": "xTool P2 CO2激光切割机结构讲解",
+   "media": [
+    "/assets/machines/cn-p2-04.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1vdqmYhEop",
+   "authorHandle": "橙豆造物ing",
+   "machineModels": [
+    "P2"
+   ],
+   "createdAt": "2026-07-30T09:56:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-200",
+   "pinType": "machine",
+   "lat": 28.1761,
+   "lng": 112.9266,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "长沙",
+   "title": "航模玩家开箱 xTool P2 实拍",
+   "media": [
+    "/assets/machines/cn-p2-05.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1tw411F767",
+   "authorHandle": "魔界航模俱乐部",
+   "machineModels": [
+    "P2"
+   ],
+   "createdAt": "2026-07-22T00:57:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-201",
+   "pinType": "machine",
+   "lat": 26.0636,
+   "lng": 119.3055,
+   "locationPrecision": "city",
+   "displayLocation": "福州",
+   "title": "xTool M1 蓝光雕刻不锈钢实拍",
+   "media": [
+    "/assets/machines/cn-m1-03.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1du411K7z2",
+   "authorHandle": "xTool官方君",
+   "machineModels": [
+    "M1"
+   ],
+   "createdAt": "2026-08-02T08:45:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-202",
+   "pinType": "machine",
+   "lat": 22.539,
+   "lng": 114.06,
+   "locationPrecision": "city",
+   "displayLocation": "深圳",
+   "title": "紫光雕刻机 xTool F2 Ultra UV 实拍",
+   "media": [
+    "/assets/machines/cn-f2ultrauv-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV16bcXzTEQu",
+   "authorHandle": "橙夕Ori",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-06-13T12:40:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-203",
+   "pinType": "machine",
+   "lat": 31.2797,
+   "lng": 121.4203,
+   "locationPrecision": "city",
+   "displayLocation": "上海",
+   "title": "创作者房间里的 xTool 烫画机实拍",
+   "media": [
+    "/assets/machines/cn-o1-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV11AM96JED7",
+   "authorHandle": "xTool官方君",
+   "machineModels": [
+    "O1"
+   ],
+   "createdAt": "2026-06-30T12:39:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-204",
+   "pinType": "machine",
+   "lat": 23.1078,
+   "lng": 113.2895,
+   "locationPrecision": "city",
+   "displayLocation": "广州",
+   "title": "xTool F2 Ultra 机身特写实拍",
+   "media": [
+    "/assets/machines/cn-f2ultrauv-03.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1VbtwzJEDM",
+   "authorHandle": "xTool官方君",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-06-08T15:45:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-205",
+   "pinType": "machine",
+   "lat": 23.0369,
+   "lng": 113.7579,
+   "locationPrecision": "city",
+   "displayLocation": "东莞",
+   "title": "xTool D1 Pro 开箱试用实拍",
+   "media": [
+    "/assets/machines/cn-d1pro-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1ZV4y1z79u",
+   "authorHandle": "爆改车间主任",
+   "machineModels": [
+    "D1 Pro"
+   ],
+   "createdAt": "2026-07-30T15:43:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-m-206",
+   "pinType": "machine",
+   "lat": 31.2992,
+   "lng": 120.5455,
+   "locationPrecision": "city",
+   "displayLocation": "苏州",
+   "title": "xTool P2 开盖使用实拍",
+   "media": [
+    "/assets/machines/cn-p2-06.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV17w4m1a7nE",
+   "authorHandle": "酱酱三维设计",
+   "machineModels": [
+    "P2"
+   ],
+   "createdAt": "2026-06-17T14:55:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-c-207",
+   "pinType": "creation",
+   "lat": 31.5177,
+   "lng": 120.3245,
+   "locationPrecision": "city",
+   "displayLocation": "无锡",
+   "title": "F1 Ultra 激光开模制作贝壳金属模具",
+   "media": [
+    "/assets/creations/cn-f1ultra-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1rqTTzdEcQ",
+   "authorHandle": "Owen来造",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-06-03T18:06:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-208",
+   "pinType": "creation",
+   "lat": 22.5969,
+   "lng": 114.0904,
+   "locationPrecision": "city",
+   "displayLocation": "深圳",
+   "title": "F2 Ultra UV 紫外激光雕刻演示",
+   "media": [
+    "/assets/creations/cn-f2ultrauv-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1ArPLzLEdG",
+   "authorHandle": "橙豆造物ing",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-26T13:10:00Z",
+   "demo": true,
+   "materials": [
+    "UV print"
+   ]
+  },
+  {
+   "id": "demo-c-209",
+   "pinType": "creation",
+   "lat": 26.0912,
+   "lng": 119.2963,
+   "locationPrecision": "city",
+   "displayLocation": "福州",
+   "title": "用 P3 激光切割拼装彩色家具",
+   "media": [
+    "/assets/creations/cn-p3-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1K2ynBmEHA",
+   "authorHandle": "Owen来造",
+   "machineModels": [
+    "P3"
+   ],
+   "createdAt": "2026-08-02T07:45:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-210",
+   "pinType": "creation",
+   "lat": 38.912,
+   "lng": 121.6513,
+   "locationPrecision": "city",
+   "displayLocation": "大连",
+   "title": "木板批量雕刻姜饼人图案",
+   "media": [
+    "/assets/creations/cn-m1ultra-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV11gzeYrEee",
+   "authorHandle": "合梳",
+   "machineModels": [
+    "M1 Ultra"
+   ],
+   "createdAt": "2026-07-15T00:50:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-211",
+   "pinType": "creation",
+   "lat": 22.4903,
+   "lng": 114.0507,
+   "locationPrecision": "city",
+   "displayLocation": "深圳",
+   "title": "手机背壳激光雕刻花卉图案",
+   "media": [
+    "/assets/creations/cn-f1-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1CLLNzrEZW",
+   "authorHandle": "阿吐R2",
+   "machineModels": [
+    "F1"
+   ],
+   "createdAt": "2026-07-04T00:42:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-212",
+   "pinType": "creation",
+   "lat": 29.8458,
+   "lng": 121.5702,
+   "locationPrecision": "city",
+   "displayLocation": "宁波",
+   "title": "M2 制作彩色贴纸与谷子周边",
+   "media": [
+    "/assets/creations/cn-m2-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1vx5i6wEM6",
+   "authorHandle": "Vya造梦局",
+   "machineModels": [
+    "M2"
+   ],
+   "createdAt": "2026-07-09T17:04:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-213",
+   "pinType": "creation",
+   "lat": 23.1136,
+   "lng": 113.2718,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "广州",
+   "title": "P2 切割的成组木质建筑模型",
+   "media": [
+    "/assets/creations/cn-p2-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1w4421S7JL",
+   "authorHandle": "小黑烘焙",
+   "machineModels": [
+    "P2"
+   ],
+   "createdAt": "2026-06-12T21:29:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-214",
+   "pinType": "creation",
+   "lat": 22.9916,
+   "lng": 113.0735,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "佛山",
+   "title": "F2 Ultra UV 水晶内雕DIY灯",
+   "media": [
+    "/assets/creations/cn-f2ultrauv-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1x9PAzmEs4",
+   "authorHandle": "工科博士焦爱玩",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-30T17:56:00Z",
+   "demo": true,
+   "materials": [
+    "UV print"
+   ]
+  },
+  {
+   "id": "demo-c-215",
+   "pinType": "creation",
+   "lat": 26.13,
+   "lng": 119.3448,
+   "locationPrecision": "city",
+   "displayLocation": "福州",
+   "title": "金属币浮雕激光雕刻作品",
+   "media": [
+    "/assets/creations/cn-f1ultra-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1hr421T7np",
+   "authorHandle": "大鱼DIY",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-06-19T10:20:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-216",
+   "pinType": "creation",
+   "lat": 36.651,
+   "lng": 117.1219,
+   "locationPrecision": "city",
+   "displayLocation": "济南",
+   "title": "多材质激光雕刻样品展示",
+   "media": [
+    "/assets/creations/cn-f1-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV197421Z7KH",
+   "authorHandle": "Yang_FPV",
+   "machineModels": [
+    "F1"
+   ],
+   "createdAt": "2026-07-19T06:57:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-217",
+   "pinType": "creation",
+   "lat": 22.5965,
+   "lng": 114.0586,
+   "locationPrecision": "city",
+   "displayLocation": "深圳",
+   "title": "红光激光可雕刻材料作品集",
+   "media": [
+    "/assets/creations/cn-f1-03.png"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1Ry411e7r8",
+   "authorHandle": "BD黑色蒲公英",
+   "machineModels": [
+    "F1"
+   ],
+   "createdAt": "2026-07-27T15:17:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-218",
+   "pinType": "creation",
+   "lat": 24.4259,
+   "lng": 118.0888,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "厦门",
+   "title": "笔记本外壳动漫图案激光雕刻",
+   "media": [
+    "/assets/creations/cn-f1ultra-03.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1vws4e9Eko",
+   "authorHandle": "Misaka062",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-06-28T17:50:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-219",
+   "pinType": "creation",
+   "lat": 31.3406,
+   "lng": 120.577,
+   "locationPrecision": "city",
+   "displayLocation": "苏州",
+   "title": "蓝光雕刻曼陀罗花纹卡片",
+   "media": [
+    "/assets/creations/cn-f1lite-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1z5Kz6ZEgh",
+   "authorHandle": "啪焙盼咏Zo9",
+   "machineModels": [
+    "F1 Lite"
+   ],
+   "createdAt": "2026-07-10T03:39:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-220",
+   "pinType": "creation",
+   "lat": 24.4679,
+   "lng": 118.0978,
+   "locationPrecision": "city",
+   "displayLocation": "厦门",
+   "title": "树叶上激光雕刻皮卡丘",
+   "media": [
+    "/assets/creations/cn-f1-04.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1794y137ae",
+   "authorHandle": "工科博士焦爱玩",
+   "machineModels": [
+    "F1"
+   ],
+   "createdAt": "2026-06-08T03:20:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-221",
+   "pinType": "creation",
+   "lat": 26.0685,
+   "lng": 119.3025,
+   "locationPrecision": "city",
+   "displayLocation": "福州",
+   "title": "加密币图案金属雕刻作品",
+   "media": [
+    "/assets/creations/cn-f1ultra-04.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV127TvzVEXH",
+   "authorHandle": "那个牧之",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-06-13T11:48:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-222",
+   "pinType": "creation",
+   "lat": 41.793,
+   "lng": 123.4669,
+   "locationPrecision": "city",
+   "displayLocation": "沈阳",
+   "title": "F1 Lite 树叶雕照片作品",
+   "media": [
+    "/assets/creations/cn-f1lite-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1vxXjYyE4Y",
+   "authorHandle": "会修图的大橙子",
+   "machineModels": [
+    "F1 Lite"
+   ],
+   "createdAt": "2026-06-15T00:10:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-223",
+   "pinType": "creation",
+   "lat": 23.0218,
+   "lng": 113.7518,
+   "locationPrecision": "city",
+   "displayLocation": "东莞",
+   "title": "F1 刀具表面激光淬火纹理",
+   "media": [
+    "/assets/creations/cn-s1-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1LJ4m137fZ",
+   "authorHandle": "Owen来造",
+   "machineModels": [
+    "S1"
+   ],
+   "createdAt": "2026-08-09T06:47:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-224",
+   "pinType": "creation",
+   "lat": 23.0186,
+   "lng": 113.1167,
+   "locationPrecision": "city",
+   "displayLocation": "佛山",
+   "title": "赛博非遗：激光叶雕人像作品",
+   "media": [
+    "/assets/creations/cn-f1-05.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1DM4m1r7h7",
+   "authorHandle": "普罗米修斯盗火者",
+   "machineModels": [
+    "F1"
+   ],
+   "createdAt": "2026-07-02T20:12:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-225",
+   "pinType": "creation",
+   "lat": 24.8583,
+   "lng": 102.8201,
+   "locationPrecision": "city",
+   "displayLocation": "昆明",
+   "title": "F1 Ultra 制作的木盒与雕刻币",
+   "media": [
+    "/assets/creations/cn-f1ultra-05.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV18gH4eqEcM",
+   "authorHandle": "BD黑色蒲公英",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-07-28T15:28:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-226",
+   "pinType": "creation",
+   "lat": 23.0612,
+   "lng": 113.1258,
+   "locationPrecision": "city",
+   "displayLocation": "佛山",
+   "title": "F1 Ultra 金属浮雕深雕作品",
+   "media": [
+    "/assets/creations/cn-f1ultra-06.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1rY4re1EpX",
+   "authorHandle": "阿文菌kk",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-07-17T02:34:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-227",
+   "pinType": "creation",
+   "lat": 30.557,
+   "lng": 104.0877,
+   "locationPrecision": "city",
+   "displayLocation": "成都",
+   "title": "S1 切割制作的复古金塔电脑机箱",
+   "media": [
+    "/assets/creations/cn-s1-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1tw4m1v7fZ",
+   "authorHandle": "碳基少年",
+   "machineModels": [
+    "S1"
+   ],
+   "createdAt": "2026-08-06T19:15:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-228",
+   "pinType": "creation",
+   "lat": 29.8799,
+   "lng": 121.5159,
+   "locationPrecision": "city",
+   "displayLocation": "宁波",
+   "title": "P2 打造的超大豪华仓鼠屋",
+   "media": [
+    "/assets/creations/cn-p2-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1nk4y1M7aR",
+   "authorHandle": "酷睿比比",
+   "machineModels": [
+    "P2"
+   ],
+   "createdAt": "2026-06-05T23:39:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-229",
+   "pinType": "creation",
+   "lat": 32.0208,
+   "lng": 118.8124,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "南京",
+   "title": "P2 在吐司面包上雕刻纹理",
+   "media": [
+    "/assets/creations/cn-p2-03.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1LwVkzFEDg",
+   "authorHandle": "账号已注销",
+   "machineModels": [
+    "P2"
+   ],
+   "createdAt": "2026-06-15T08:20:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-230",
+   "pinType": "creation",
+   "lat": 30.5419,
+   "lng": 104.0755,
+   "locationPrecision": "city",
+   "displayLocation": "成都",
+   "title": "M1 空气辅助切割木质星星",
+   "media": [
+    "/assets/creations/cn-m1-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1uP411y72d",
+   "authorHandle": "千象工造",
+   "machineModels": [
+    "M1"
+   ],
+   "createdAt": "2026-06-02T20:07:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-231",
+   "pinType": "creation",
+   "lat": 31.2207,
+   "lng": 121.4633,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "上海",
+   "title": "M1 制作的家用木质小物合集",
+   "media": [
+    "/assets/creations/cn-m1-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1Cd4y1k7Cx",
+   "authorHandle": "阿文菌kk",
+   "machineModels": [
+    "M1"
+   ],
+   "createdAt": "2026-06-07T01:07:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-232",
+   "pinType": "creation",
+   "lat": 39.3456,
+   "lng": 117.3689,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "天津",
+   "title": "M2 制作的微缩奢华厨房场景",
+   "media": [
+    "/assets/creations/cn-m2-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV11NLd63EbS",
+   "authorHandle": "碳烤毛线球",
+   "machineModels": [
+    "M2"
+   ],
+   "createdAt": "2026-07-22T00:27:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-233",
+   "pinType": "creation",
+   "lat": 24.5346,
+   "lng": 118.0846,
+   "locationPrecision": "city",
+   "displayLocation": "厦门",
+   "title": "xTool 激光雕刻微缩房间场景",
+   "media": [
+    "/assets/creations/cn-xtool-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1QJuJ6YE8u",
+   "authorHandle": "西瓜瓜虫",
+   "machineModels": [],
+   "createdAt": "2026-08-05T14:53:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-234",
+   "pinType": "creation",
+   "lat": 34.7731,
+   "lng": 113.6426,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "郑州",
+   "title": "F1 Ultra 铜版画日历作品",
+   "media": [
+    "/assets/creations/cn-f1ultra-07.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1R8SRYyEU9",
+   "authorHandle": "工科博士焦爱玩",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-06-19T16:00:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-235",
+   "pinType": "creation",
+   "lat": 38.8875,
+   "lng": 121.5905,
+   "locationPrecision": "city",
+   "displayLocation": "大连",
+   "title": "P2 切割15mm厚木板示范",
+   "media": [
+    "/assets/creations/cn-xtool-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1bA4m1w71x",
+   "authorHandle": "xTool官方君",
+   "machineModels": [],
+   "createdAt": "2026-06-29T01:25:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-236",
+   "pinType": "creation",
+   "lat": 39.3662,
+   "lng": 117.3603,
+   "locationPrecision": "city",
+   "displayLocation": "天津",
+   "title": "透明亚克力激光加工作品",
+   "media": [
+    "/assets/creations/cn-xtool-03.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1Lx4y1z752",
+   "authorHandle": "xTool官方君",
+   "machineModels": [],
+   "createdAt": "2026-06-28T22:35:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-237",
+   "pinType": "creation",
+   "lat": 23.1503,
+   "lng": 113.25,
+   "locationPrecision": "city",
+   "displayLocation": "广州",
+   "title": "S1 切割皮革圆片过程",
+   "media": [
+    "/assets/creations/cn-xtool-04.png"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1Mm421s7Nu",
+   "authorHandle": "xTool官方君",
+   "machineModels": [],
+   "createdAt": "2026-06-15T05:18:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-238",
+   "pinType": "creation",
+   "lat": 22.9963,
+   "lng": 113.1476,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "佛山",
+   "title": "P2 切割白色皮革图形",
+   "media": [
+    "/assets/creations/cn-xtool-05.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1y7421Z7P7",
+   "authorHandle": "xTool官方君",
+   "machineModels": [],
+   "createdAt": "2026-08-03T16:31:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-239",
+   "pinType": "creation",
+   "lat": 23.0193,
+   "lng": 113.0861,
+   "locationPrecision": "city",
+   "displayLocation": "佛山",
+   "title": "激光个性化定制皮革钱包",
+   "media": [
+    "/assets/creations/cn-xtool-06.png"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1BE421V7HC",
+   "authorHandle": "xTool官方君",
+   "machineModels": [],
+   "createdAt": "2026-06-14T07:52:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-240",
+   "pinType": "creation",
+   "lat": 23.158,
+   "lng": 113.2331,
+   "locationPrecision": "city",
+   "displayLocation": "广州",
+   "title": "AI+xTool 把儿童画做成桌游卡牌",
+   "media": [
+    "/assets/creations/cn-xtool-07.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV14W9GYWEaH",
+   "authorHandle": "工科博士焦爱玩",
+   "machineModels": [],
+   "createdAt": "2026-08-01T22:31:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-241",
+   "pinType": "creation",
+   "lat": 22.9727,
+   "lng": 113.7314,
+   "locationPrecision": "city",
+   "displayLocation": "东莞",
+   "title": "激光雕刻制作PCB电路板",
+   "media": [
+    "/assets/creations/cn-xtool-08.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1faMz6AEKY",
+   "authorHandle": "瓶碳酱盅Rv5",
+   "machineModels": [],
+   "createdAt": "2026-06-01T12:04:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-242",
+   "pinType": "creation",
+   "lat": 41.863,
+   "lng": 123.3905,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "沈阳",
+   "title": "3D打印+激光雕刻组合作品",
+   "media": [
+    "/assets/creations/cn-xtool-09.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1MiPKzoENH",
+   "authorHandle": "咔哧一下_Cliclack",
+   "machineModels": [],
+   "createdAt": "2026-07-17T08:32:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-243",
+   "pinType": "creation",
+   "lat": 31.5219,
+   "lng": 120.2864,
+   "locationPrecision": "city",
+   "displayLocation": "无锡",
+   "title": "xTool 丝网印刷机印制T恤",
+   "media": [
+    "/assets/creations/cn-xtool-10.png"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1cD421L7pr",
+   "authorHandle": "xTool官方君",
+   "machineModels": [
+    "丝网印刷机"
+   ],
+   "createdAt": "2026-06-09T16:27:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-244",
+   "pinType": "creation",
+   "lat": 31.4591,
+   "lng": 120.3405,
+   "locationPrecision": "city",
+   "displayLocation": "无锡",
+   "title": "F1 雕刻相干纸发光文字",
+   "media": [
+    "/assets/creations/cn-f1-06.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1hh4y1V7At",
+   "authorHandle": "木果创客",
+   "machineModels": [
+    "F1"
+   ],
+   "createdAt": "2026-06-17T23:55:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-245",
+   "pinType": "creation",
+   "lat": 26.115,
+   "lng": 119.3486,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "福州",
+   "title": "F1 叶雕画装裱成品",
+   "media": [
+    "/assets/creations/cn-f1-07.png"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1cZ421K7u2",
+   "authorHandle": "BD黑色蒲公英",
+   "machineModels": [
+    "F1"
+   ],
+   "createdAt": "2026-07-19T02:19:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-246",
+   "pinType": "creation",
+   "lat": 23.0506,
+   "lng": 113.7965,
+   "locationPrecision": "city",
+   "displayLocation": "东莞",
+   "title": "用 xTool 彩印制作机器猫咪配件",
+   "media": [
+    "/assets/creations/cn-xtool-11.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1Fsk3YyEQW",
+   "authorHandle": "独孤灬先生",
+   "machineModels": [],
+   "createdAt": "2026-06-01T21:35:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-247",
+   "pinType": "creation",
+   "lat": 23.0341,
+   "lng": 113.1733,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "佛山",
+   "title": "F1 文创用品制作案例集锦",
+   "media": [
+    "/assets/creations/cn-f1-08.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1t8411i7JS",
+   "authorHandle": "木果创客",
+   "machineModels": [
+    "F1"
+   ],
+   "createdAt": "2026-08-02T06:21:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-248",
+   "pinType": "creation",
+   "lat": 31.2982,
+   "lng": 120.6379,
+   "locationPrecision": "neighborhood",
+   "displayLocation": "苏州",
+   "title": "F2 私人定制雕刻纪念币",
+   "media": [
+    "/assets/creations/cn-f2-01.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1gEu66REk2",
+   "authorHandle": "甄选好物优选官",
+   "machineModels": [
+    "F2"
+   ],
+   "createdAt": "2026-06-27T11:45:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-249",
+   "pinType": "creation",
+   "lat": 22.9742,
+   "lng": 113.7113,
+   "locationPrecision": "city",
+   "displayLocation": "东莞",
+   "title": "用 P3 把旧工作台改造成书桌",
+   "media": [
+    "/assets/creations/cn-p3-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1ZMTT6vEa8",
+   "authorHandle": "鲁班的庇护所",
+   "machineModels": [
+    "P3"
+   ],
+   "createdAt": "2026-08-09T18:27:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-250",
+   "pinType": "creation",
+   "lat": 23.0491,
+   "lng": 113.7867,
+   "locationPrecision": "city",
+   "displayLocation": "东莞",
+   "title": "F1 Ultra 小型工作室金属雕刻件",
+   "media": [
+    "/assets/creations/cn-f1ultra-08.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1L6sZzBEou",
+   "authorHandle": "你大舅还是你大舅ovo",
+   "machineModels": [
+    "F1 Ultra"
+   ],
+   "createdAt": "2026-06-18T00:55:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-251",
+   "pinType": "creation",
+   "lat": 29.8849,
+   "lng": 121.5327,
+   "locationPrecision": "city",
+   "displayLocation": "宁波",
+   "title": "M1 切割3mm椴木板枫叶",
+   "media": [
+    "/assets/creations/cn-m1-03.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1js421P7Lj",
+   "authorHandle": "xTool官方君",
+   "machineModels": [
+    "M1"
+   ],
+   "createdAt": "2026-06-09T10:06:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-252",
+   "pinType": "creation",
+   "lat": 26.0259,
+   "lng": 119.3543,
+   "locationPrecision": "city",
+   "displayLocation": "福州",
+   "title": "F1 旋转轴雕刻金属保温杯",
+   "media": [
+    "/assets/creations/cn-f1-09.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV15r421j7P6",
+   "authorHandle": "xTool官方君",
+   "machineModels": [
+    "F1"
+   ],
+   "createdAt": "2026-06-01T15:54:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-253",
+   "pinType": "creation",
+   "lat": 22.9901,
+   "lng": 113.1524,
+   "locationPrecision": "city",
+   "displayLocation": "佛山",
+   "title": "F2U 激光雕刻自制PCB板",
+   "media": [
+    "/assets/creations/cn-f2ultrauv-03.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1TVsdzEEHF",
+   "authorHandle": "橙豆造物ing",
+   "machineModels": [
+    "F2 Ultra UV"
+   ],
+   "createdAt": "2026-07-27T13:13:00Z",
+   "demo": true,
+   "materials": [
+    "UV print"
+   ]
+  },
+  {
+   "id": "demo-c-254",
+   "pinType": "creation",
+   "lat": 39.2848,
+   "lng": 117.38,
+   "locationPrecision": "city",
+   "displayLocation": "天津",
+   "title": "P2 在相片纸上雕刻照片",
+   "media": [
+    "/assets/creations/cn-xtool-12.png"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1EC411G7cJ",
+   "authorHandle": "xTool官方君",
+   "machineModels": [],
+   "createdAt": "2026-08-04T20:03:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-255",
+   "pinType": "creation",
+   "lat": 23.1059,
+   "lng": 113.253,
+   "locationPrecision": "city",
+   "displayLocation": "广州",
+   "title": "M1 Ultra 多种材料雕刻效果测试",
+   "media": [
+    "/assets/creations/cn-m1ultra-02.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1xmyrBqEXC",
+   "authorHandle": "exckfj44446",
+   "machineModels": [
+    "M1 Ultra"
+   ],
+   "createdAt": "2026-08-07T00:29:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-c-256",
+   "pinType": "creation",
+   "lat": 23.179,
+   "lng": 113.2398,
+   "locationPrecision": "city",
+   "displayLocation": "广州",
+   "title": "F1 金属项链吊牌打标作品",
+   "media": [
+    "/assets/creations/cn-xtool-13.png"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1Tm411C7Fr",
+   "authorHandle": "xTool官方君",
+   "machineModels": [],
+   "createdAt": "2026-06-13T23:14:00Z",
+   "demo": true,
+   "materials": [
+    "mixed"
+   ]
+  },
+  {
+   "id": "demo-m-257",
+   "pinType": "machine",
+   "lat": 23.1265,
+   "lng": 113.259,
+   "locationPrecision": "city",
+   "displayLocation": "广东",
+   "title": "首日破亿！xTool O1 创造了历史",
+   "media": [
+    "/assets/machines/cn-xhs-o1-01.jpg"
+   ],
+   "sourcePlatform": "xiaohongshu.com",
+   "sourcePostUrl": "https://www.xiaohongshu.com/explore/6a5b35a5000000001b01d7fb",
+   "authorHandle": "xTool",
+   "machineModels": [
+    "O1 Omni"
+   ],
+   "createdAt": "2026-07-11T08:59:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-c-258",
+   "pinType": "creation",
+   "lat": 30.2983,
+   "lng": 120.2046,
+   "locationPrecision": "city",
+   "displayLocation": "浙江",
+   "title": "用高科技制作传统工艺木刻画（非遗木刻版画）",
+   "media": [
+    "/assets/creations/cn-xhs-woodcut-01.jpg"
+   ],
+   "sourcePlatform": "xiaohongshu.com",
+   "sourcePostUrl": "https://www.xiaohongshu.com/explore/6a59fdab000000000100103b",
+   "authorHandle": "宅家玩啥",
+   "machineModels": [],
+   "createdAt": "2026-06-25T00:38:00Z",
+   "demo": true,
+   "materials": [
+    "wood"
+   ]
+  },
+  {
+   "id": "demo-e-259",
+   "pinType": "event",
+   "lat": 36.1716,
+   "lng": -115.1391,
+   "locationPrecision": "exact",
+   "displayLocation": "Las Vegas Convention Center, NV, USA",
+   "title": "xTool @ CES",
+   "media": [
+    "/assets/events/ces-2026-xtool-booth.jpg",
+    "/assets/events/ces-2026-booth-crowd.jpg",
+    "/assets/events/ces-2026-cgtn-interview.jpg",
+    "/assets/events/ces-2026-open-gallery.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/news/ces-2026",
+   "authorHandle": "@xtool.official",
+   "machineModels": [],
+   "eventDate": "2026-01-06",
+   "createdAt": "2026-05-16T21:32:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-260",
+   "pinType": "event",
+   "lat": 35.2305,
+   "lng": -80.8597,
+   "locationPrecision": "exact",
+   "displayLocation": "Charlotte, NC, USA",
+   "title": "xTool MakerFest Tour stop 1 booth",
+   "media": [
+    "/assets/events/makerfest-tour-stop1-booth.jpg",
+    "/assets/events/makerfest-tour-stop2-visitors.jpg",
+    "/assets/events/makerfest-tour-event-photo.jpg",
+    "/assets/events/makerfest-tour-stop1-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/news/xtool-makerfest-tour",
+   "authorHandle": "@xtool.official",
+   "machineModels": [],
+   "eventDate": "2026-10-08",
+   "createdAt": "2026-05-22T18:55:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-261",
+   "pinType": "event",
+   "lat": 42.3601,
+   "lng": -71.0589,
+   "locationPrecision": "exact",
+   "displayLocation": "Boston, MA, USA",
+   "title": "xTool @ FAB26",
+   "media": [
+    "/assets/events/fab26-boston-event-01.jpg",
+    "/assets/events/fab26-boston-workshops-01.jpg",
+    "/assets/events/fab26-boston-makers-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/news/xtool-fab26-boston",
+   "authorHandle": "@xtool.official",
+   "machineModels": [],
+   "eventDate": "2026-08-03",
+   "createdAt": "2026-05-12T23:48:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-262",
+   "pinType": "event",
+   "lat": 42.4084,
+   "lng": -71.0946,
+   "locationPrecision": "exact",
+   "displayLocation": "Boston, MA, USA",
+   "title": "Opening speech at xTool US office opening",
+   "media": [
+    "/assets/events/us-office-opening-speech-01.jpg",
+    "/assets/events/us-office-opening-group-01.jpg",
+    "/assets/events/us-office-opening-metalfab-zone-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/news/us-office-opening",
+   "authorHandle": "@xtool.official",
+   "machineModels": [],
+   "eventDate": "2026-10-06",
+   "createdAt": "2026-05-30T02:21:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-263",
+   "pinType": "event",
+   "lat": 40.7553,
+   "lng": -74.013,
+   "locationPrecision": "exact",
+   "displayLocation": "New York, NY, USA",
+   "title": "xTool MakerFest Tour truck on the road",
+   "media": [
+    "/assets/events/makerfest-tour-truck-01.jpg"
+   ],
+   "sourcePlatform": "prnewswire.com",
+   "sourcePostUrl": "https://www.prnewswire.com/news-releases/xtool-rides-into-custom-motorcycle-culture-as-title-sponsor-of-the-handbuilt-show-302727590.html",
+   "authorHandle": "@xtool.official",
+   "machineModels": [],
+   "eventDate": "2026-10-20",
+   "createdAt": "2026-06-09T21:14:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-264",
+   "pinType": "event",
+   "lat": 52.5187,
+   "lng": 13.4529,
+   "locationPrecision": "exact",
+   "displayLocation": "Berlin, Germany",
+   "title": "F1 Ultra rotary engraving Coca-Cola can",
+   "media": [
+    "/assets/events/coca-cola-collab-01.jpg",
+    "/assets/events/coca-cola-collab-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/news/coca-cola-with-xtool",
+   "authorHandle": "@xtool.official",
+   "machineModels": [],
+   "eventDate": "2026-09-27",
+   "createdAt": "2026-05-11T19:16:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-265",
+   "pinType": "event",
+   "lat": 49.2843,
+   "lng": -123.1259,
+   "locationPrecision": "exact",
+   "displayLocation": "Vancouver, Canada",
+   "title": "xTool US HQ building on grand opening day",
+   "media": [
+    "/assets/events/us-hq-opening-mvv-01.jpg",
+    "/assets/events/us-hq-opening-mvv-02.jpg"
+   ],
+   "sourcePlatform": "mv-voice.com",
+   "sourcePostUrl": "https://www.mv-voice.com/business/2025/08/04/creative-tech-company-celebrates-grand-opening-in-mountain-view/",
+   "authorHandle": "@xtool.official",
+   "machineModels": [],
+   "eventDate": "2026-08-20",
+   "createdAt": "2026-07-29T18:50:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-266",
+   "pinType": "event",
+   "lat": 31.1932,
+   "lng": 121.3013,
+   "locationPrecision": "exact",
+   "displayLocation": "国家会展中心, 上海",
+   "title": "xTool @ TCT",
+   "media": [
+    "/assets/events/cn-event-01.jpg",
+    "/assets/events/cn-event-04.jpg",
+    "/assets/events/cn-event-05.jpg",
+    "/assets/events/cn-event-06.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1N8oyYnEtg",
+   "authorHandle": "@xtool.official",
+   "machineModels": [],
+   "eventDate": "2026-09-15",
+   "createdAt": "2026-06-29T20:10:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-267",
+   "pinType": "event",
+   "lat": 22.5699,
+   "lng": 114.0454,
+   "locationPrecision": "exact",
+   "displayLocation": "深圳",
+   "title": "创作者受邀探访xTool深圳总部生产线",
+   "media": [
+    "/assets/events/cn-event-02.jpg",
+    "/assets/events/cn-event-09.jpg",
+    "/assets/events/cn-event-10.jpg",
+    "/assets/events/cn-event-11.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1f8AJz5Ex1",
+   "authorHandle": "@xtool.official",
+   "machineModels": [],
+   "eventDate": "2026-08-15",
+   "createdAt": "2026-06-12T07:29:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-268",
+   "pinType": "event",
+   "lat": 31.5006,
+   "lng": 120.2573,
+   "locationPrecision": "exact",
+   "displayLocation": "无锡",
+   "title": "vivo体验店开业，xTool提供现场镌刻服务",
+   "media": [
+    "/assets/events/cn-event-03.jpg",
+    "/assets/events/cn-event-12.jpg",
+    "/assets/events/cn-event-13.jpg",
+    "/assets/events/cn-event-14.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1gsgD6xERj",
+   "authorHandle": "@xtool.official",
+   "machineModels": [],
+   "eventDate": "2026-09-17",
+   "createdAt": "2026-05-13T09:08:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-269",
+   "pinType": "event",
+   "lat": 22.548,
+   "lng": 114.0051,
+   "locationPrecision": "exact",
+   "displayLocation": "深圳",
+   "title": "南山少年走进创客工场合影",
+   "media": [
+    "/assets/events/cn-event-16.jpg",
+    "/assets/events/cn-event-17.jpg",
+    "/assets/events/cn-event-18.jpg",
+    "/assets/events/cn-event-19.jpg"
+   ],
+   "sourcePlatform": "m.mp.oeeee.com",
+   "sourcePostUrl": "https://m.mp.oeeee.com/a/BAAFRD000020230731825708.html",
+   "authorHandle": "@xtool.official",
+   "machineModels": [],
+   "eventDate": "2026-08-21",
+   "createdAt": "2026-07-31T16:00:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-270",
+   "pinType": "event",
+   "lat": 22.5322,
+   "lng": 114.0902,
+   "locationPrecision": "exact",
+   "displayLocation": "深圳",
+   "title": "华为体验店内xTool现场定制雕刻",
+   "media": [
+    "/assets/events/cn-event-20.jpg"
+   ],
+   "sourcePlatform": "mp.weixin.qq.com",
+   "sourcePostUrl": "https://mp.weixin.qq.com/s?src=11&timestamp=1786497658&ver=6899&signature=9MDdGkA2iZeuWNMY*X4ntOsnscHdv6B1xwa8XQk*y-2wuK01aX-gETZBD0BRAkJS0-VIcaOe8voOl604awsVHJemD5*6QEzpN*PvKrZxoBUvIuAn19lIkEIHR6c4RPbV&new=1",
+   "authorHandle": "@xtool.official",
+   "machineModels": [],
+   "eventDate": "2026-10-28",
+   "createdAt": "2026-07-21T15:01:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-271",
+   "pinType": "event",
+   "lat": 22.528,
+   "lng": 114.1049,
+   "locationPrecision": "exact",
+   "displayLocation": "深圳",
+   "title": "xTool新办公室美学图集·深圳南山智城A2栋 2.5万平米",
+   "media": [
+    "/assets/events/cn-xhs-office-01.jpg",
+    "/assets/events/cn-xhs-office-02.jpg",
+    "/assets/events/cn-xhs-office-03.jpg",
+    "/assets/events/cn-xhs-office-04.jpg"
+   ],
+   "sourcePlatform": "xiaohongshu.com",
+   "sourcePostUrl": "https://www.xiaohongshu.com/explore/6a5f12930000000014005aa2",
+   "authorHandle": "@xtool.official",
+   "machineModels": [],
+   "eventDate": "2026-09-27",
+   "createdAt": "2026-07-13T07:15:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-272",
+   "pinType": "event",
+   "lat": 23.1142,
+   "lng": 113.2863,
+   "locationPrecision": "exact",
+   "displayLocation": "广东",
+   "title": "华为GT7首销·xTool门店亲签镌刻上线",
+   "media": [
+    "/assets/events/cn-xhs-gt7-01.jpg",
+    "/assets/events/cn-xhs-gt7-02.jpg",
+    "/assets/events/cn-xhs-gt7-03.jpg"
+   ],
+   "sourcePlatform": "xiaohongshu.com",
+   "sourcePostUrl": "https://www.xiaohongshu.com/explore/6a7ee88a0000000022017c4e",
+   "authorHandle": "@xtool.official",
+   "machineModels": [],
+   "eventDate": "2026-10-18",
+   "createdAt": "2026-05-26T19:46:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-273",
+   "pinType": "event",
+   "lat": 38.6087,
+   "lng": -90.238,
+   "locationPrecision": "exact",
+   "displayLocation": "St. Louis, MO, USA",
+   "title": "xTooler Meetup — show & tell night",
+   "media": [
+    "/assets/events/ces-2026-uv-printer-demo.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/news/ces-2026",
+   "authorHandle": "@glow.studio",
+   "machineModels": [],
+   "eventDate": "2026-10-03",
+   "createdAt": "2026-07-07T04:22:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-274",
+   "pinType": "event",
+   "lat": 40.4073,
+   "lng": -80.0555,
+   "locationPrecision": "exact",
+   "displayLocation": "Pittsburgh, PA, USA",
+   "title": "Laser crafts swap meet",
+   "media": [
+    "/assets/events/ces-2026-secret-room.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/news/ces-2026",
+   "authorHandle": "@wood.craftco",
+   "machineModels": [],
+   "eventDate": "2026-08-14",
+   "createdAt": "2026-08-02T16:41:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-275",
+   "pinType": "event",
+   "lat": 52.5109,
+   "lng": 13.3905,
+   "locationPrecision": "exact",
+   "displayLocation": "Berlin, Germany",
+   "title": "Open workshop day for xToolers",
+   "media": [
+    "/assets/events/ces-2026-justine-ezarik.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/news/ces-2026",
+   "authorHandle": "@beam.den",
+   "machineModels": [],
+   "eventDate": "2026-09-03",
+   "createdAt": "2026-07-14T09:09:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-276",
+   "pinType": "event",
+   "lat": 40.7578,
+   "lng": -73.9741,
+   "locationPrecision": "exact",
+   "displayLocation": "New York, NY, USA",
+   "title": "Beginner laser class by local xToolers",
+   "media": [
+    "/assets/events/ces-2026-broadcast.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/news/ces-2026",
+   "authorHandle": "@maker.garage",
+   "machineModels": [],
+   "eventDate": "2026-08-15",
+   "createdAt": "2026-07-11T00:06:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-277",
+   "pinType": "event",
+   "lat": 45.7753,
+   "lng": 4.8293,
+   "locationPrecision": "exact",
+   "displayLocation": "Lyon, France",
+   "title": "xTooler market pop-up",
+   "media": [
+    "/assets/events/ces-2026-material-library-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/pages/xtool-at-ces-2026",
+   "authorHandle": "@mark.garage",
+   "machineModels": [],
+   "eventDate": "2026-10-16",
+   "createdAt": "2026-07-27T04:51:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-278",
+   "pinType": "event",
+   "lat": 30.3108,
+   "lng": -97.7963,
+   "locationPrecision": "exact",
+   "displayLocation": "Austin, TX, USA",
+   "title": "Makers brunch: bring your builds",
+   "media": [
+    "/assets/events/ces-2026-booth-floor-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/pages/xtool-at-ces-2026",
+   "authorHandle": "@shop.goods",
+   "machineModels": [],
+   "eventDate": "2026-09-29",
+   "createdAt": "2026-07-29T00:48:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-279",
+   "pinType": "event",
+   "lat": 48.7965,
+   "lng": 9.1614,
+   "locationPrecision": "exact",
+   "displayLocation": "Stuttgart, Germany",
+   "title": "xTooler Meetup — show & tell night",
+   "media": [
+    "/assets/events/ces-2026-stage-talk-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/pages/xtool-at-ces-2026",
+   "authorHandle": "@spark.studio",
+   "machineModels": [],
+   "eventDate": "2026-09-10",
+   "createdAt": "2026-07-11T17:32:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-280",
+   "pinType": "event",
+   "lat": 52.3406,
+   "lng": 4.9109,
+   "locationPrecision": "exact",
+   "displayLocation": "Amsterdam, Netherlands",
+   "title": "Laser crafts swap meet",
+   "media": [
+    "/assets/events/ces-2026-stage-talk-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/pages/xtool-at-ces-2026",
+   "authorHandle": "@burn.made",
+   "machineModels": [],
+   "eventDate": "2026-10-08",
+   "createdAt": "2026-07-27T23:36:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-281",
+   "pinType": "event",
+   "lat": 28.595,
+   "lng": -81.3262,
+   "locationPrecision": "exact",
+   "displayLocation": "Orlando, FL, USA",
+   "title": "Open workshop day for xToolers",
+   "media": [
+    "/assets/events/ces-2026-team-photo-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/pages/xtool-at-ces-2026",
+   "authorHandle": "@pixel.made",
+   "machineModels": [],
+   "eventDate": "2026-10-16",
+   "createdAt": "2026-07-20T19:39:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-282",
+   "pinType": "event",
+   "lat": 36.1551,
+   "lng": -115.1093,
+   "locationPrecision": "exact",
+   "displayLocation": "Las Vegas, NV, USA",
+   "title": "Beginner laser class by local xToolers",
+   "media": [
+    "/assets/events/ces-2026-squad-catering-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/pages/xtool-at-ces-2026",
+   "authorHandle": "@forge.garage",
+   "machineModels": [],
+   "eventDate": "2026-09-26",
+   "createdAt": "2026-07-15T14:22:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-283",
+   "pinType": "event",
+   "lat": 51.8817,
+   "lng": 4.4733,
+   "locationPrecision": "exact",
+   "displayLocation": "Rotterdam, Netherlands",
+   "title": "xTooler market pop-up",
+   "media": [
+    "/assets/events/ces-2026-visitors-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/pages/xtool-at-ces-2026",
+   "authorHandle": "@ink.made",
+   "machineModels": [],
+   "eventDate": "2026-08-17",
+   "createdAt": "2026-07-21T05:16:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-284",
+   "pinType": "event",
+   "lat": 41.3412,
+   "lng": 2.1425,
+   "locationPrecision": "exact",
+   "displayLocation": "Barcelona, Spain",
+   "title": "Makers brunch: bring your builds",
+   "media": [
+    "/assets/events/makerfest-tour-stop1-03.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/news/xtool-makerfest-tour",
+   "authorHandle": "@craft.workshop",
+   "machineModels": [],
+   "eventDate": "2026-08-31",
+   "createdAt": "2026-08-05T04:12:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-285",
+   "pinType": "event",
+   "lat": 42.3063,
+   "lng": -71.0736,
+   "locationPrecision": "exact",
+   "displayLocation": "Boston, MA, USA",
+   "title": "xTooler Meetup — show & tell night",
+   "media": [
+    "/assets/events/makerfest-tour-stop2-02.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/news/xtool-makerfest-tour",
+   "authorHandle": "@works.co",
+   "machineModels": [],
+   "eventDate": "2026-10-09",
+   "createdAt": "2026-07-04T12:47:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-286",
+   "pinType": "event",
+   "lat": 40.7442,
+   "lng": -73.9791,
+   "locationPrecision": "exact",
+   "displayLocation": "New York, NY, USA",
+   "title": "Laser crafts swap meet",
+   "media": [
+    "/assets/events/makerfest-tour-stop3-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/news/xtool-makerfest-tour",
+   "authorHandle": "@wood.lab",
+   "machineModels": [],
+   "eventDate": "2026-10-05",
+   "createdAt": "2026-07-11T06:46:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-287",
+   "pinType": "event",
+   "lat": 59.9693,
+   "lng": 10.7063,
+   "locationPrecision": "exact",
+   "displayLocation": "Oslo, Norway",
+   "title": "Open workshop day for xToolers",
+   "media": [
+    "/assets/events/makerfest-tour-stop4-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/news/xtool-makerfest-tour",
+   "authorHandle": "@works.shed",
+   "machineModels": [],
+   "eventDate": "2026-10-24",
+   "createdAt": "2026-07-20T06:06:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-288",
+   "pinType": "event",
+   "lat": 39.2966,
+   "lng": -76.5791,
+   "locationPrecision": "exact",
+   "displayLocation": "Baltimore, MD, USA",
+   "title": "Beginner laser class by local xToolers",
+   "media": [
+    "/assets/events/makerfest-tour-stop10-01.jpg"
+   ],
+   "sourcePlatform": "xtool.com",
+   "sourcePostUrl": "https://www.xtool.com/blogs/news/xtool-makerfest-tour",
+   "authorHandle": "@mark.workshop",
+   "machineModels": [],
+   "eventDate": "2026-09-17",
+   "createdAt": "2026-08-01T11:48:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-289",
+   "pinType": "event",
+   "lat": 31.2135,
+   "lng": 121.4451,
+   "locationPrecision": "exact",
+   "displayLocation": "上海",
+   "title": "同城 xTooler 交流聚会",
+   "media": [
+    "/assets/events/cn-event-07.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1N8oyYnEtg",
+   "authorHandle": "@grain.designs",
+   "machineModels": [],
+   "eventDate": "2026-09-30",
+   "createdAt": "2026-08-06T23:21:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-290",
+   "pinType": "event",
+   "lat": 31.2712,
+   "lng": 121.5234,
+   "locationPrecision": "exact",
+   "displayLocation": "上海",
+   "title": "亲子激光创作体验课",
+   "media": [
+    "/assets/events/cn-event-08.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1N8oyYnEtg",
+   "authorHandle": "@maker.atelier",
+   "machineModels": [],
+   "eventDate": "2026-09-16",
+   "createdAt": "2026-07-27T20:39:00Z",
+   "demo": true
+  },
+  {
+   "id": "demo-e-291",
+   "pinType": "event",
+   "lat": 31.5434,
+   "lng": 120.3214,
+   "locationPrecision": "exact",
+   "displayLocation": "无锡",
+   "title": "xTooler 线下面基·作品交流会",
+   "media": [
+    "/assets/events/cn-event-15.jpg"
+   ],
+   "sourcePlatform": "bilibili.com",
+   "sourcePostUrl": "https://www.bilibili.com/video/BV1gsgD6xERj",
+   "authorHandle": "@wood.den",
+   "machineModels": [],
+   "eventDate": "2026-09-21",
+   "createdAt": "2026-07-10T12:34:00Z",
+   "demo": true
+  }
+ ]
+}
