@@ -574,6 +574,46 @@ function spiderfy(centerLngLat, pins) {
   state.spider.anchor = centerLngLat;
 }
 
+/* ================= first-visit welcome fireworks ================= */
+function launchFireworks(durationMs = 3800) {
+  if (matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+  const cv = document.createElement("canvas");
+  cv.className = "fireworks";
+  document.body.appendChild(cv);
+  const ctx = cv.getContext("2d");
+  cv.width = innerWidth; cv.height = innerHeight;
+  const COLS = ["#00c601", "#ff9a3d", "#4da3ff", "#e2ece7"];
+  let parts = [], running = true;
+  function burst() {
+    const x = cv.width * (0.2 + Math.random() * 0.6);
+    const y = cv.height * (0.15 + Math.random() * 0.35);
+    const col = COLS[Math.floor(Math.random() * COLS.length)];
+    for (let i = 0; i < 64; i++) {
+      const a = (Math.PI * 2 * i) / 64 + Math.random() * 0.1;
+      const v = 2.2 + Math.random() * 2.8;
+      parts.push({ x, y, vx: Math.cos(a) * v, vy: Math.sin(a) * v, life: 1, col });
+    }
+  }
+  const bursts = setInterval(burst, 520);
+  burst();
+  (function tick() {
+    ctx.clearRect(0, 0, cv.width, cv.height);
+    parts = parts.filter(p => p.life > 0);
+    for (const p of parts) {
+      p.x += p.vx; p.y += p.vy;
+      p.vy += 0.045; p.vx *= 0.985; p.vy *= 0.985;
+      p.life -= 0.013;
+      ctx.globalAlpha = Math.max(p.life, 0);
+      ctx.fillStyle = p.col;
+      ctx.fillRect(p.x, p.y, 2.6, 2.6);
+    }
+    ctx.globalAlpha = 1;
+    if (running || parts.length) requestAnimationFrame(tick);
+    else cv.remove();
+  })();
+  setTimeout(() => { clearInterval(bursts); running = false; }, durationMs);
+}
+
 /* ================= B3: framing preview ================= */
 function showFraming() {
   document.querySelector(".framing-box")?.remove();
@@ -919,8 +959,9 @@ function fmtDate(iso) {
   // fly to the visitor's area once geo resolves (#1)
   geoP.then(geo => { if (geo) flyToUser(7); });
 
-  // first-visit welcome (#2)
+  // first-visit welcome (#2) + fireworks
   if (!localStorage.getItem("xt_welcome_seen")) {
+    setTimeout(launchFireworks, 450);
     setTimeout(() => openLegend("legend.welcomeTitle"), 700);
   }
 })();

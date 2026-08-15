@@ -354,6 +354,12 @@ img.engrave { animation: engrave-reveal .45s linear; }
   100% { top: calc(100% - 2px); opacity: 0; }
 }
 
+/* ---------- first-visit welcome fireworks ---------- */
+.fireworks {
+  position: fixed; inset: 0; z-index: 45;
+  pointer-events: none;
+}
+
 /* ---------- B3: framing preview box (laser frames the area before the job) ---------- */
 .framing-box {
   position: fixed; inset: 64px; z-index: 22; pointer-events: none;
